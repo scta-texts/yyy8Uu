@@ -81,8 +81,8 @@
       <lb ed="#H" n="77"/>haec duntaxat ex uno populo; illa ex omnibus populis est collecta: haec 
       <lb ed="#H" n="78"/>in angustis Judaeae terminis fuit; illa per universas regiones &amp; populos 
       <lb ed="#H" n="79"/>sparsa est: haec ad templum Jerosolymitanum alligata fuit, tanquam 
-      <lb ed="#H" n="80"/>arcem religionis &amp; cultus Dei &amp; summi sacerdotii, illa nulli loco, nul 
-      <lb ed="#H" n="81"/>lis personis, nulli certae sedi est alligata  
+      <lb ed="#H" n="80"/>arcem religionis &amp; cultus Dei &amp; summi sacerdotii, illa nulli loco, 
+      nul<lb ed="#H" n="81" break="no"/>lis personis, nulli certae sedi est alligata  
     </p>
             <p xml:id="yyy8Uu-gxd569-d1e158">
                <lb ed="#H" n="82"/>
@@ -155,8 +155,8 @@
     </p>
             <p xml:id="yyy8Uu-gxd569-d1e294">
                <lb ed="#H" n="125"/>
-               <pc type="indent"/>Invisibilis Ecclesia est universalis, quatenus omnes electi ubicum 
-      <lb ed="#H" n="126"/>que locorum sint, &amp; quocunque tempore vixerint, unam habent 
+               <pc type="indent"/>Invisibilis Ecclesia est universalis, quatenus omnes electi 
+      ubicum<lb ed="#H" n="126" break="no"/>que locorum sint, &amp; quocunque tempore vixerint, unam habent 
       ve<lb ed="#H" n="127" break="no"/>ritatem coelestem &amp; fidem: Visibilis Ecclesia est universalis, quoad 
       <lb ed="#H" n="128"/>externam professionem unius doctrinae &amp; fidei &amp; cultus divini. 
     </p>
