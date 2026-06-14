@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -65,11 +61,11 @@
                <lb ed="#H" n="37"/>TFEECTA bonorum operum sunt I. Glorificatio Dei seu 
       san<lb ed="#H" n="38" break="no"/>ctificatio nominis divini Joh. 15. 8. ait Christus, Inhac re 
       glorifi<lb ed="#H" n="39" break="no"/>Ecatus fuerit Pater meus, ut fructum multum adferatis. Et Matt. 5.
-      <lb ed="#H" n="40"/>v.16. <quote source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux vestra coram hominibu, ut videant vestra bona
+      <lb ed="#H" n="40"/>v.16. <quote xml:id="yyy8Uu-gxd402-Qd1e119" source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux vestra coram hominibu, ut videant vestra bona
       <lb ed="#H" n="41"/>opera, glorificentque Patrem illum vestrum qui est in calis</quote> 1. Cor 6. v. 20. 
       <lb ed="#H" n="42"/>Nam emti estis pretio: glorificate igitur Dum in corpore vestro, &amp; in 
       spi<lb ed="#H" n="43" break="no"/>ritu vestro, quae sunt Dei, Jes. 8. v. 13. Iehovam exercituum ipsum 
-      san<lb ed="#H" n="44" break="no"/>ctificate, &amp; ipse sit timori vobis, idemque sit pavorivobis. 1. Pet. 2. v. 9. <quote source="http://scta.info/resource/Ipetr2_9@1-23">Vo.
+      san<lb ed="#H" n="44" break="no"/>ctificate, &amp; ipse sit timori vobis, idemque sit pavorivobis. 1. Pet. 2. v. 9. <quote xml:id="yyy8Uu-gxd402-Qd1e131" source="http://scta.info/resource/Ipetr2_9@1-23">Vo.
       <lb ed="#H" n="45"/>autem genus electum, regale sacerdotium, gens sancta, populus quem sibi
       <lb ed="#H" n="46"/>Deus ut proprium vendicat: ut virtutes praedicetis illius qui vos vocavit.
       <lb ed="#H" n="47"/>e tenebris in ad mirabilem suam lucem.</quote>
@@ -87,9 +83,9 @@
       ado<lb ed="#H" n="53" break="no"/>ptionis Prov. 3. 32. Nam abominationi est Iehovae praefractus, apud 
       <lb ed="#H" n="54"/>rectos autem arcanum ejus est 2. Pet. 1. v. 10. Quapropter, fratres, potius 
       <lb ed="#H" n="55"/>studete vocationem &amp; electionem vestram firmam efficere: haec enim si 
-      <lb ed="#H" n="56"/>feceritis, nunquam impingetis. 1. Joh. 3. 7. <quote source="http://scta.info/resource/Iio3_7@1-14">Filioli, nemo vos seducat: quo
+      <lb ed="#H" n="56"/>feceritis, nunquam impingetis. 1. Joh. 3. 7. <quote xml:id="yyy8Uu-gxd402-Qd1e169" source="http://scta.info/resource/Iio3_7@1-14">Filioli, nemo vos seducat: quo
       <lb ed="#H" n="57"/>exercet justitiam, justus est, sicut ill. justus est,</quote> Jusritiae &amp; sanctitatis 
-      no<lb ed="#H" n="58" break="no"/>bis inhaerentis augmentum, Apoc. 22. 11. <quote source="http://scta.info/resource/ap22_11@1-20">Qui iniuste agit, iniuste
+      no<lb ed="#H" n="58" break="no"/>bis inhaerentis augmentum, Apoc. 22. 11. <quote xml:id="yyy8Uu-gxd402-Qd1e176" source="http://scta.info/resource/ap22_11@1-20">Qui iniuste agit, iniuste
       aga<lb ed="#H" n="59" break="no"/>adhuc: &amp; qui sordidus est, sordescat adhuc &amp; qui iustus est, justificet
       <lb ed="#H" n="60"/>tur adhuc: &amp; sanctus sanctificetur adhuc.</quote> Bona conscientia. Ps. 119. 6. 
       <lb ed="#H" n="61"/>Tunc non erubescam, quum intuebor in omnia praecepta tua. 
@@ -117,7 +113,7 @@
       anno<lb ed="#H" n="80" break="no"/>samque vitam, cum pace adiicient tibi. &amp; cap. 19.16. Ecclesiastae &amp; 
       <lb ed="#H" n="81"/>vers. 12. Bonum autem non fore improbo, neque prorogaturum 
       esse<lb ed="#H" n="82" break="no"/>dies similes umbrae, illi qui non timet a facie Dei ipsius. Deuteron. 30.
-      <lb ed="#H" n="83"/>20. <quote source="http://scta.info/resource/deut30_20@1-25">Diligendo Iehovam Deum tuum, auscultando voci eius, &amp;
+      <lb ed="#H" n="83"/>20. <quote xml:id="yyy8Uu-gxd402-Qd1e239" source="http://scta.info/resource/deut30_20@1-25">Diligendo Iehovam Deum tuum, auscultando voci eius, &amp;
       <lb ed="#H" n="84"/>adhaerendo ei: nam ipse est vita tua &amp; longitudo dierum tuorum, R
       <lb ed="#H" n="85"/>ut habites super terram. quam iuramento promiserat Iehova
       ma<lb ed="#H" n="86" break="no"/>ioribus tuis, Abrahamo, Isaaco, &amp; lacobo se daturum eis.</quote> Spes vi¬ 
@@ -127,13 +123,13 @@
     </p>
             <p xml:id="yyy8Uu-gxd402-d1e245">
                <lb ed="#H" n="88"/>
-               <pc type="indent"/><quote source="http://scta.info/resource/Iio2_17@9-14">vero praestat uoluntatem Dei, manet in aeternum.</quote> 
+               <pc type="indent"/><quote xml:id="yyy8Uu-gxd402-Qd1e261" source="http://scta.info/resource/Iio2_17@9-14">vero praestat uoluntatem Dei, manet in aeternum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd402-d1e252">
                <lb ed="#H" n="89"/>
                <pc type="indent"/>Ad alios redeunt ex nostris bonis operibus hi fructus: Primo illis 
       <lb ed="#H" n="90"/>incitantur &amp; adducuntur alii ad verum pietatis studium 2. Corinthi
-      <lb ed="#H" n="91"/>3. 1. &amp; sequentibus: <quote source="http://scta.info/resource/IIcor8_1@1-13 http://scta.info/resource/IIcor8_2@1-18 http://scta.info/resource/IIcor8_3@1-11 http://scta.info/resource/IIcor8_4@1-13 http://scta.info/resource/IIcor8_5@1-16">Porro notam facimus vobis, fratres, gratiam Dei
+      <lb ed="#H" n="91"/>3. 1. &amp; sequentibus: <quote xml:id="yyy8Uu-gxd402-Qd1e275" source="http://scta.info/resource/IIcor8_1@1-13 http://scta.info/resource/IIcor8_2@1-18 http://scta.info/resource/IIcor8_3@1-11 http://scta.info/resource/IIcor8_4@1-13 http://scta.info/resource/IIcor8_5@1-16">Porro notam facimus vobis, fratres, gratiam Dei
       <lb ed="#H" n="92"/>praestitam Ecclesiis Macedonum: Nempe in multa exploratione
       afflicti<lb ed="#H" n="93" break="no"/>onis, exundans gaudium ipsorum, &amp; profundam eorum paupertatem
       <lb ed="#H" n="94"/>exundasse in copiosam benignitatem ipsorum. Nam pro viribus (testor;
@@ -159,7 +155,7 @@
                <pc type="indent"/>Tertio avertuntur bonis operibus nostris poenae &amp; calamitates 
       <lb ed="#H" n="109"/>publicae, etiam a totis urbibus &amp; regionibus: nam etiam propter 
       ju<lb ed="#H" n="110" break="no"/>stos paucos parcit Deus totis urbibus, Gen. 18. . 23. Et accedens 
-      4<lb ed="#H" n="111" break="no"/>braham dixit, an etiam perimes tustum cum intustet Jetem. 5. 1. <quote source="http://scta.info/resource/ier5_1@1-24">Percus
+      4<lb ed="#H" n="111" break="no"/>braham dixit, an etiam perimes tustum cum intustet Jetem. 5. 1. <quote xml:id="yyy8Uu-gxd402-Qd1e331" source="http://scta.info/resource/ier5_1@1-24">Percus
       <lb ed="#H" n="112"/>rite plateas urbis Ieruschalaimorum, &amp; vidate iam atque co,noscite &amp;
       <lb ed="#H" n="113"/>lisquirite in plateis eius, an inveniatis virum, an sit qui exerceat tus,
       re<lb ed="#H" n="114" break="no"/>quirat fidem; &amp; condonabo illi,</quote> 
@@ -170,7 +166,7 @@
       <lb ed="#H" n="116"/>10. v. 6. se exercere benignitatem in millesimo; a patribus, qui diligum 
       <lb ed="#H" n="117"/>ipsum &amp; qui observant mandata eius. &amp; Salomon Proverb. 0. 7. 
       <lb ed="#H" n="118"/>Indesinenter ambulans in integritate sua sistit, heatus est, beaii filii 
-      <lb ed="#H" n="119"/>eius post eum. Exemplum 1. Reg. 15. v. 4, 5. <quote source="http://scta.info/resource/Ireg15_4@2-20 http://scta.info/resource/Ireg15_5@1-24">Propter Davidem
+      <lb ed="#H" n="119"/>eius post eum. Exemplum 1. Reg. 15. v. 4, 5. <quote xml:id="yyy8Uu-gxd402-Qd1e356" source="http://scta.info/resource/Ireg15_4@2-20 http://scta.info/resource/Ireg15_5@1-24">Propter Davidem
       de<lb ed="#H" n="120" break="no"/>dit Iehova Deus illius illi lucernam cerosolymis, suscitando filium e, ut
       <lb ed="#H" n="121"/>post eum &amp; stabiliendo Ierosolyma: Eo quod fecisset David quod rectam.
       <lb ed="#H" n="122"/>est in oculis Iehovae, neque recessisset ab omnibus quae praeceperat ei omnib.

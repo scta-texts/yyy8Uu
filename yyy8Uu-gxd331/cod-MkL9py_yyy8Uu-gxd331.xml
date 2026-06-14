@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -165,7 +161,7 @@
             <p xml:id="yyy8Uu-gxd331-d1e309">
                <lb ed="#H" n="77"/>
                <pc type="indent"/>II. Quia sine eo religio vera nequit diu consistere, Judic. 17 6.
-      <lb ed="#H" n="78"/><quote source="http://scta.info/resource/iudic17_6@1-16">Tem oribus illis non erat rex in Israele: quisque quod rectum videbatur in
+      <lb ed="#H" n="78"/><quote xml:id="yyy8Uu-gxd331-Qd1e312" source="http://scta.info/resource/iudic17_6@1-16">Tem oribus illis non erat rex in Israele: quisque quod rectum videbatur in
       <lb ed="#H" n="79"/>oculis luis facieb int.</quote> Et cap. 19. 1
     </p>
             <p xml:id="yyy8Uu-gxd331-d1e321">

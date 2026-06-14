@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -99,7 +95,7 @@
       im<lb ed="#H" n="145" break="no"/>perfecta, non possunt sequi perfecti effectus: Rom. 7. v. 23. Video 
       ali<lb ed="#H" n="146" break="no"/>am Legem in membris meis, rebellantem legi mentis mea. Haec est 
       cau<lb ed="#H" n="147" break="no"/>sa. cur opera piorum non possint consistere in iudicio Dei: Psal. 143.
-      <lb ed="#H" n="148"/>2. <quote source="http://scta.info/resource/ps142_2@1-16">Ne ingrediaris in iudicium cum servo tuo, quia coram te, non
+      <lb ed="#H" n="148"/>2. <quote xml:id="yyy8Uu-gxd815-Qd1e188" source="http://scta.info/resource/ps142_2@1-16">Ne ingrediaris in iudicium cum servo tuo, quia coram te, non
       iustifica<lb ed="#H" n="149" break="no"/>itur ullus vivens,</quote> Deuteron. 27. vers. 26. Maledictus omnis, qui non 
       <lb ed="#H" n="150"/>manserit in omnibus, quae scripta sunt in libro Legis, &amp;c. Quum igitur 
       <lb ed="#H" n="151"/>omnia sint imperfecta, agnoscamus potius &amp; deploremus naevos &amp; 
@@ -121,7 +117,7 @@
             <p xml:id="yyy8Uu-gxd815-d1e226">
                <lb ed="#H" n="160"/>
                <pc type="indent"/>Assumtionem probat Bellarminus lib. 4. de iustificatione. c. 11. his 
-      <lb ed="#H" n="161"/>testimoniis, Matth. 11. v. 30. <quote source="http://scta.info/resource/mt11_30@1-10">lugum meum suave est, &amp; onus meum
+      <lb ed="#H" n="161"/>testimoniis, Matth. 11. v. 30. <quote xml:id="yyy8Uu-gxd815-Qd1e233" source="http://scta.info/resource/mt11_30@1-10">lugum meum suave est, &amp; onus meum
       le<lb ed="#H" n="162" break="no"/>ve.</quote> &amp; I. Joh. 5 v. 3. mandata eius gravia non sunt.  
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e237">
@@ -171,7 +167,7 @@
       <lb ed="#H" n="17"/>divinae plane sapientiae, quod Deus omnipotens ordinem 
       instaura<lb ed="#H" n="18" break="no"/>tionis nostrae successivum esse velit, donec ad metam perfectionis in 
       <lb ed="#H" n="19"/>gloria veniamus deposita peccati carne. Hanc sapientiam coelestem 
-      <lb ed="#H" n="20"/>negat Romanae sedis sapientia: contra haec dicta Psal 143. v. 3. <quote source="http://scta.info/resource/ps142_2@1-16">Ne
+      <lb ed="#H" n="20"/>negat Romanae sedis sapientia: contra haec dicta Psal 143. v. 3. <quote xml:id="yyy8Uu-gxd815-Qd1e341" source="http://scta.info/resource/ps142_2@1-16">Ne
       in<lb ed="#H" n="21" break="no"/>grediaris in judicium cum servo tuo, quia in conspectu tuo non
       ju<lb ed="#H" n="22" break="no"/>stificabitur ullus vivens.</quote> Rom. 3. 20. Ex operibus Legis nulla caro 
       justi<lb ed="#H" n="23" break="no"/>ficabitur in conspectu Dei. Idem repetitur Gal. 2. 16. 
@@ -200,7 +196,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e393">
                <lb ed="#H" n="43"/>
-               <pc type="indent"/>Quod attinet locum 1. Joh. 5. v. 3. <quote source="http://scta.info/resource/Iio5_3@1-15">Haec est charitas Dei, ut mandata
+               <pc type="indent"/>Quod attinet locum 1. Joh. 5. v. 3. <quote xml:id="yyy8Uu-gxd815-Qd1e404" source="http://scta.info/resource/Iio5_3@1-15">Haec est charitas Dei, ut mandata
       <lb ed="#H" n="44"/>ejus servemus: &amp; mandata ejus non sunt gravia:</quote> in eo mandata 
       gra<lb ed="#H" n="45" break="no"/>via non intelliguntur impossibilia, sed molesta, ingrata, injucunda, 
       <lb ed="#H" n="46"/>acerba. Christiano enim homini ac vere fideli mandata Dei sunt 
@@ -211,11 +207,11 @@
                <pc type="indent"/>Instat: Qui possunt diligere Deum &amp; proximum, iis lex Dei est 
       ab<lb ed="#H" n="49" break="no"/>solute possibilis: At renati possunt diligere Deum &amp; proximum: Ergo 
       <lb ed="#H" n="50"/>illis lex Dei est absolute possibilis. Major probatur sequentibus dictis, 
-      <lb ed="#H" n="51"/>Joh. 14. v. 23. <quote source="http://scta.info/resource/io14_23@6-12">Si quis diligit me, sermonem meum servabit.</quote> Rom. 13. 8.
+      <lb ed="#H" n="51"/>Joh. 14. v. 23. <quote xml:id="yyy8Uu-gxd815-Qd1e430" source="http://scta.info/resource/io14_23@6-12">Si quis diligit me, sermonem meum servabit.</quote> Rom. 13. 8.
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e422">
                <lb ed="#H" n="52"/>
-               <pc type="indent"/>Qui diligit proximum, Legem implevit. Gal. 5. 24. <quote source="http://scta.info/resource/gal5_14@1-13">Omnis lex in uno
+               <pc type="indent"/>Qui diligit proximum, Legem implevit. Gal. 5. 24. <quote xml:id="yyy8Uu-gxd815-Qd1e440" source="http://scta.info/resource/gal5_14@1-13">Omnis lex in uno
       ser<lb ed="#H" n="53" break="no"/>mone impletur, Diliges proximum tuum, sicut teipsum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e431">
@@ -249,14 +245,14 @@
       quae<lb ed="#H" n="77" break="no"/>siverint De Josua dicitur cap. 11. vers. 15. quod universa compleverit 
       <lb ed="#H" n="78"/>quae Dominus Mosi praeceperat, quod non praeterierit de universis 
       man<lb ed="#H" n="79" break="no"/>datis nec unum quidem verbum, quod jusserat Dominus Mosi. Luc. 1 v.
-      <lb ed="#H" n="80"/>6. de Zacharia &amp; Elisabetha dicitur: <quote source="http://scta.info/resource/lc1_6@1-15">Erant justi ambo ante Deum,
+      <lb ed="#H" n="80"/>6. de Zacharia &amp; Elisabetha dicitur: <quote xml:id="yyy8Uu-gxd815-Qd1e513" source="http://scta.info/resource/lc1_6@1-15">Erant justi ambo ante Deum,
       <lb ed="#H" n="81"/>incedentes in omnibus mandatis &amp; justificationibus Domini sine
       que<lb ed="#H" n="82" break="no"/>rela.</quote> De Apostolis Dominus ait Johan. 17. vers. 6. Tui erant, &amp; mihi 
       <lb ed="#H" n="83"/>eos dedisti, &amp; sermonem tuum servaverunt. Eosdem etiam vocat 
       ami<lb ed="#H" n="84" break="no"/>cos Luc. 12. vers. 4. Dico autem vobis amicis meis. Et Johan. 15. vers. 15. 
       <lb ed="#H" n="85"/>Vos autem dixi amicos. Et tamen ibidem jam dixerat, solos amicos 
       <lb ed="#H" n="86"/>esse, qui praecepta custodiunt, Apostolus vero Paulus Rom. 7. versic. 
-      <lb ed="#H" n="87"/>19, 20. de praecepto, Non concupisces, verba faciens: <quote source="http://scta.info/resource/rom7_19@1-12 http://scta.info/resource/rom7_20@1-16">Quod nolo,
+      <lb ed="#H" n="87"/>19, 20. de praecepto, Non concupisces, verba faciens: <quote xml:id="yyy8Uu-gxd815-Qd1e531" source="http://scta.info/resource/rom7_19@1-12 http://scta.info/resource/rom7_20@1-16">Quod nolo,
       in<lb ed="#H" n="88" break="no"/>quit, facio, si autem quod nolo facio, jam non ego operor illud, sed quod
       <lb ed="#H" n="89"/>habitat in me peccatum.</quote> Ubi aperte demonstrat, se non peccare, dum 
       <lb ed="#H" n="90"/>invitus concupiscit, quia non ipse illud opus facit, proinde servare se 
@@ -300,7 +296,7 @@
       <lb ed="#H" n="120"/>in bonis operibus quae faciunt: Ergo, &amp;c. Minor probatur exemplo 
       <lb ed="#H" n="121"/>Jobi, de quo dicitur Job. 1. vers. 22. In omnibus his non peccavit Iob 
       la<lb ed="#H" n="122" break="no"/>biis suis, nec stultum aliquid contra Deum loquutus est: &amp; cap. 2. vers. 
-      <lb ed="#H" n="123"/>3. Deus ipse ait de Jobo ad Satanam: <quote source="http://scta.info/resource/iob2_3@6-31">Nunquid considerasti servum
+      <lb ed="#H" n="123"/>3. Deus ipse ait de Jobo ad Satanam: <quote xml:id="yyy8Uu-gxd815-Qd1e627" source="http://scta.info/resource/iob2_3@6-31">Nunquid considerasti servum
       <lb ed="#H" n="124"/>meum lob, quod non sit illi similis in terra; vir simplex &amp; rectus, &amp;
       <lb ed="#H" n="125"/>recedens a malo, &amp; adhuc retinens innocentiam?</quote>
     </p>
@@ -330,12 +326,12 @@
       ope<lb ed="#H" n="147" break="no"/>ra bona sunt perfecte bona &amp; pura: At justi bona opera sua nomine 
       ju<lb ed="#H" n="148" break="no"/>stitiae suae ornanda censent &amp; confidunt ea in judicio Dei posse 
       consiste<lb ed="#H" n="149" break="no"/>re: Ergo, &amp;c. Minor probatur exemplo Davidis, qui ait Psalm. 7. vers.
-      <lb ed="#H" n="150"/>9. <quote source="http://scta.info/resource/ps7_9@4-15">ludica me Domine secundum justitiam meam, &amp; secundum
+      <lb ed="#H" n="150"/>9. <quote xml:id="yyy8Uu-gxd815-Qd1e693" source="http://scta.info/resource/ps7_9@4-15">ludica me Domine secundum justitiam meam, &amp; secundum
       inno<lb ed="#H" n="151" break="no"/>centiam meam super me.</quote> Psalm. 16. qui Hebraeis est 17. vers. 1. &amp;
-      se<lb ed="#H" n="152" break="no"/>quentibus: <quote source="http://scta.info/resource/ps16_1@3-6 http://scta.info/resource/ps16_2@1-10 http://scta.info/resource/ps16_3@1-16">Exaudi Domine justitiam meam. De vultu tuo judicium
+      se<lb ed="#H" n="152" break="no"/>quentibus: <quote xml:id="yyy8Uu-gxd815-Qd1e700" source="http://scta.info/resource/ps16_1@3-6 http://scta.info/resource/ps16_2@1-10 http://scta.info/resource/ps16_3@1-16">Exaudi Domine justitiam meam. De vultu tuo judicium
       <lb ed="#H" n="153"/>meum prodeat. Oculi tui videant aequitatem. Probasti cor meum &amp;
       vi<lb ed="#H" n="154" break="no"/>sitasti nocto, igne me examinasti &amp; non est inventa in me iniquitas.</quote> Ps. 
-      <lb ed="#H" n="155"/>17. qui Hebraeis est 18. vers. 21, 22. <quote source="http://scta.info/resource/ps17_21@2-14 http://scta.info/resource/ps17_22@1-10">Retribuet mihi Dominus secundum
+      <lb ed="#H" n="155"/>17. qui Hebraeis est 18. vers. 21, 22. <quote xml:id="yyy8Uu-gxd815-Qd1e710" source="http://scta.info/resource/ps17_21@2-14 http://scta.info/resource/ps17_22@1-10">Retribuet mihi Dominus secundum
       <lb ed="#H" n="156"/>justitiam meam &amp; secundum puritatem manuum mearum retribuet
       <lb ed="#H" n="157"/>mihi, quia custodivi vias Domini, nec impie gessi a Deo meo.</quote> Psalm. 25.
       <lb ed="#H" n="158"/>qui Hebraeis est 26. vers. 1. Iudica me Domine, quoniam ego in 
@@ -357,8 +353,8 @@
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e718">
                <lb ed="#H" n="171"/>
-               <pc type="indent"/>QUA RTA objectio: Matth. 6. v. 22. <quote source="http://scta.info/resource/mt6_22@5-14">Si oculus tuus simplex fuerit,
-      <lb ed="#H" n="172"/>totum corpus tuum lucidum erit.</quote> Et Luc. 11 36. <quote source="http://scta.info/resource/lc11_36@1-21">St ergo corpus tuum
+               <pc type="indent"/>QUA RTA objectio: Matth. 6. v. 22. <quote xml:id="yyy8Uu-gxd815-Qd1e756" source="http://scta.info/resource/mt6_22@5-14">Si oculus tuus simplex fuerit,
+      <lb ed="#H" n="172"/>totum corpus tuum lucidum erit.</quote> Et Luc. 11 36. <quote xml:id="yyy8Uu-gxd815-Qd1e761" source="http://scta.info/resource/lc11_36@1-21">St ergo corpus tuum
       luci<lb ed="#H" n="173" break="no"/>dum fuerit, non habens aliquam partem tenebrarum, erit lucidum
       to<lb ed="#H" n="174" break="no"/>tum, &amp; sicut lucerna fulgoris illuminabit te.</quote> Hoc loco, ait Bellarminus, 
       <lb ed="#H" n="175"/>describitur opus perfecte bonum, quod videlicet sit bonum ex genere suo, 
@@ -390,10 +386,10 @@
       <lb ed="#H" n="14"/>corpus vocat, quod luce oculorum, id est, recto cernentis judicio 
       illu<lb ed="#H" n="15" break="no"/>stratur: cui opponitur tenebrosum, id est, quod in tenebris positum 
       <lb ed="#H" n="16"/>est, vitiosis videlicet affectibus luminibus mentis officientibus 
-      <lb ed="#H" n="17"/>QUINTA objectio ex 1. Corinth. 3. v. 12, 13, 14, 15. <quote source="http://scta.info/resource/Icor3_12@1-14 http://scta.info/resource/Icor3_13@1-18">Si quis super
+      <lb ed="#H" n="17"/>QUINTA objectio ex 1. Corinth. 3. v. 12, 13, 14, 15. <quote xml:id="yyy8Uu-gxd815-Qd1e831" source="http://scta.info/resource/Icor3_12@1-14 http://scta.info/resource/Icor3_13@1-18">Si quis super
       <lb ed="#H" n="18"/>aedificat supra fundamentum hoc, aurum; argentum, lapides preciosos
-      <lb ed="#H" n="19"/>ligna, foenum, stipulam; uniuscujusque opus quale sit, ignis probabit.</quote> <quote source="http://scta.info/resource/Icor3_14@1-8">Si
-      <lb ed="#H" n="20"/>cujus opus manserit, quod superaedificavit, mercedem accipiet:</quote> <quote source="http://scta.info/resource/Icor3_15@1-15">si cujus
+      <lb ed="#H" n="19"/>ligna, foenum, stipulam; uniuscujusque opus quale sit, ignis probabit.</quote> <quote xml:id="yyy8Uu-gxd815-Qd1e838" source="http://scta.info/resource/Icor3_14@1-8">Si
+      <lb ed="#H" n="20"/>cujus opus manserit, quod superaedificavit, mercedem accipiet:</quote> <quote xml:id="yyy8Uu-gxd815-Qd1e844" source="http://scta.info/resource/Icor3_15@1-15">si cujus
       <lb ed="#H" n="21"/>opus arserit, detrimentum patietur,</quote> &amp;c. Quo locoindicantur esse 
       quae<lb ed="#H" n="22" break="no"/>dam opera supra fundamentum verae fidei aedificata adeo bena, ut nihil 
       <lb ed="#H" n="23"/>omnino habeant vitii. Id enim primum ostendit comparatio ad aurum, 
@@ -436,7 +432,7 @@
                <lb ed="#H" n="43"/>
                <pc type="indent"/>OCTAVA objectio: Quae opera placent Deo, ea sunt perfecta 
       <lb ed="#H" n="44"/>ac simpliciter pura: Justorum opera placent Deo: Malach. 3. Plate 
-      <lb ed="#H" n="45"/>bit Deo sacrificium Iuda. Actor. 10. <quote source="http://scta.info/resource/act10_35@1-13">Qui timet Deum &amp; operatur
+      <lb ed="#H" n="45"/>bit Deo sacrificium Iuda. Actor. 10. <quote xml:id="yyy8Uu-gxd815-Qd1e929" source="http://scta.info/resource/act10_35@1-13">Qui timet Deum &amp; operatur
       ju<lb ed="#H" n="46" break="no"/>stitiam, acceptus est illi.</quote> 1. Pet. 2. Offerentes spirituales hostias 
       acceptabi<lb ed="#H" n="47" break="no"/>les Deo, &amp;c. Ergo, &amp;c. 
     </p>
@@ -453,7 +449,7 @@
                <pc type="indent"/>NONA objectio: Iustorum opera nominantur absolute bona 
       ope<lb ed="#H" n="54" break="no"/>na, Matth. 5. Vt videant vestra bona opera, 1. Tim. 6. divites fieri in 
       o<lb ed="#H" n="55" break="no"/>peribus bonis. Tit. 3. Curent operibus bonis praeesse, qui credunt DEG 
-      <lb ed="#H" n="56"/>Ephes. 2. <quote source="http://scta.info/resource/eph2_10@5-11">Creati in Christo Iesu in operibus bonis:</quote> Ergo sunt perfecta. 
+      <lb ed="#H" n="56"/>Ephes. 2. <quote xml:id="yyy8Uu-gxd815-Qd1e968" source="http://scta.info/resource/eph2_10@5-11">Creati in Christo Iesu in operibus bonis:</quote> Ergo sunt perfecta. 
       <lb ed="#H" n="57"/>itque 
       pura<lb ed="#H" n="58" break="no"/>RESP. Sophistarum est ea quae secundum quid dicuntur, 
       sim<lb ed="#H" n="59" break="no"/>pliciter accipere. Opera nostra dicuntur bona non quod absolute &amp; 
@@ -476,7 +472,7 @@
                <lb ed="#H" n="65"/>
                <pc type="indent"/>tur alia. 
       <lb ed="#H" n="66"/>II. Bona opera nostra sunt debita Deo: sicut Dominus ait: 
-      <lb ed="#H" n="67"/>Luc. 17. v. 10. <quote source="http://scta.info/resource/lc17_10@4-18">Quum feceritis omnia quae praecepta sunt vobis, dicite,
+      <lb ed="#H" n="67"/>Luc. 17. v. 10. <quote xml:id="yyy8Uu-gxd815-Qd1e1013" source="http://scta.info/resource/lc17_10@4-18">Quum feceritis omnia quae praecepta sunt vobis, dicite,
       ser<lb ed="#H" n="68" break="no"/>vi inutiles sumus: nam quod debuimus facere fecimus.</quote> Unde sic 
       argu<lb ed="#H" n="69" break="no"/>mentamur: Quicquid pro debito exigitur, meritum non est; Bona 
       <lb ed="#H" n="70"/>nostra opera pro debito exiguntur: Ergo bona opera nostra non sunm 
@@ -511,7 +507,7 @@
                <lb ed="#H" n="91"/>V. Inter bona opera nostra &amp; vitam aeternam nulla est 
       propor<lb ed="#H" n="92" break="no"/>tio. Omne meritum necesse est aequari praemio. At illi beatae vitae in 
       <lb ed="#H" n="93"/>qua cum Deo &amp; de Deo vivitur, nullus potest aequari labor, nulla 
-      o<lb ed="#H" n="94" break="no"/>pera comparati, praesertim cum Apostolus dicat Rom. 8. v. 18. <quote source="http://scta.info/resource/rom8_18@4-16">Non
+      o<lb ed="#H" n="94" break="no"/>pera comparati, praesertim cum Apostolus dicat Rom. 8. v. 18. <quote xml:id="yyy8Uu-gxd815-Qd1e1090" source="http://scta.info/resource/rom8_18@4-16">Non
       <lb ed="#H" n="95"/>sunt condignae passiones hujus temporis ad futuram gloriam quae
       reve<lb ed="#H" n="96" break="no"/>labitur in nobis:</quote> quemadmodum docet Gregorius Magnus Papa 
       <lb ed="#H" n="97"/>Romanus in explanatione septimi Psalmi poenitentialis, super verba, 
@@ -625,7 +621,7 @@
                <pc type="indent"/>PRIMUM: Bona opera nostra vocantur in Sacris literis merita 
       <lb ed="#H" n="170"/>vel expresse vel aequipollentibus vocibus: Ergo sunt meritoria vitae ae 
       <lb ed="#H" n="171"/>ternae. Antecedens entliymematis istius probatur ex Ecclesiastici cap. 
-      <lb ed="#H" n="172"/>16. v.16. ubi legitur: <quote source="http://scta.info/resource/sir16_15@1-9">Omnis misericordia faciet locum unicuique
+      <lb ed="#H" n="172"/>16. v.16. ubi legitur: <quote xml:id="yyy8Uu-gxd815-Qd1e1320" source="http://scta.info/resource/sir16_15@1-9">Omnis misericordia faciet locum unicuique
       secun<lb ed="#H" n="173" break="no"/>dum meritum operum suorum</quote>
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e1265">
@@ -652,7 +648,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e1311">
                <lb ed="#H" n="8"/>
-               <pc type="indent"/>Instant: Hebr. 13. 16. dicitur: <quote source="http://scta.info/resource/hebr13_16@1-11">Beneficentiae &amp; communionis nolite
+               <pc type="indent"/>Instant: Hebr. 13. 16. dicitur: <quote xml:id="yyy8Uu-gxd815-Qd1e1378" source="http://scta.info/resource/hebr13_16@1-11">Beneficentiae &amp; communionis nolite
       <lb ed="#H" n="9"/>oblivisci: talibus enim hostiis promeretur Deus:</quote> Ergo bona opera 
       no<lb ed="#H" n="10" break="no"/>stra sunt merita. 
     </p>
@@ -686,7 +682,7 @@
                <lb ed="#H" n="28"/>
                <pc type="indent"/>SECUNDUM argumentum Papistarum: Si vita aterna est 
       mer<lb ed="#H" n="29" break="no"/>ces, tum datur propter merita operum. Antecedens verum est: Ergo &amp; 
-      <lb ed="#H" n="30"/>consequens. Antecedens probatur ex Matth. 5. v. 12. <quote source="http://scta.info/resource/mt5_12@1-10">Gaudete &amp;
+      <lb ed="#H" n="30"/>consequens. Antecedens probatur ex Matth. 5. v. 12. <quote xml:id="yyy8Uu-gxd815-Qd1e1447" source="http://scta.info/resource/mt5_12@1-10">Gaudete &amp;
       exu<lb ed="#H" n="31" break="no"/>tate, quia merces vestra copiosa est in coelis</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e1386">
@@ -721,7 +717,7 @@
                <lb ed="#H" n="51"/>
                <pc type="indent"/>QUA RTUM: Bonis operibus reddetur praemium ex justitia: Ergo 
       <lb ed="#H" n="52"/>bona opera sunt meritoria vitae aternae. Antecedens probatur ex 2. Ti. 
-      <lb ed="#H" n="53"/>moth. 3. 8. <quote source="http://scta.info/resource/IItim4_7@1-7 http://scta.info/resource/IItim4_8@1-16">Bonum certamen certavi, cursum consummavi, fidem
+      <lb ed="#H" n="53"/>moth. 3. 8. <quote xml:id="yyy8Uu-gxd815-Qd1e1518" source="http://scta.info/resource/IItim4_7@1-7 http://scta.info/resource/IItim4_8@1-16">Bonum certamen certavi, cursum consummavi, fidem
       ser<lb ed="#H" n="54" break="no"/>vavi: in reliquo reposita est mihi corona justitiae, quam reddeot mihi
       Do<lb ed="#H" n="55" break="no"/>minus in illa die justus judex</quote>
     </p>
@@ -750,7 +746,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd815-d1e1506">
                <lb ed="#H" n="76"/>
-               <pc type="indent"/>QUINTUM, 2. Thessal. 1. v. 5. dicitur: <quote source="http://scta.info/resource/IIth1_5@1-14">Quae res demonstratio est
+               <pc type="indent"/>QUINTUM, 2. Thessal. 1. v. 5. dicitur: <quote xml:id="yyy8Uu-gxd815-Qd1e1581" source="http://scta.info/resource/IIth1_5@1-14">Quae res demonstratio est
       <lb ed="#H" n="77"/>justi judicii Dei, ut digni habeamini regno Dei, pro quo etiam ista
       pati<lb ed="#H" n="78" break="no"/>mini.</quote> Ergo propteropera digni habemur vita aterna. 
     </p>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -104,7 +100,7 @@
       <lb ed="#H" n="23"/>non poterat: sed quod Adamo &amp; Evae esset sacramentum &amp; 
       artha<lb ed="#H" n="24" break="no"/>bo immortalitatis, ut eam videlicet secure sibi promitterent, quam 
       <lb ed="#H" n="25"/>diu obedientiam Legi praestantes ederent ex illius fructu. Hoc 
-      in<lb ed="#H" n="26" break="no"/>licatur Apoc. 2. vers. 7. his verbis: <quote source="http://scta.info/resource/ap2_7@1-21">Qui habet aurem, audiat quid
+      in<lb ed="#H" n="26" break="no"/>licatur Apoc. 2. vers. 7. his verbis: <quote xml:id="yyy8Uu-gxd403-Qd1e195" source="http://scta.info/resource/ap2_7@1-21">Qui habet aurem, audiat quid
       <lb ed="#H" n="27"/>Spiritus dicat Ecclesiis, victori dabo edere ex arbore illavitae quae es,
       <lb ed="#H" n="28"/>in medio Paradisi Dei:</quote> Quibus verbis anagogice indicatur, quidnam 
     </p>
@@ -113,7 +109,7 @@
                <pc type="indent"/>. 
       <lb ed="#H" n="30"/>illam beatam, &amp; vere vitam quam Christus nobis in regno caelorum 
       <lb ed="#H" n="31"/>promisit. Paradisus enim, Eden, significavit regnum caelorum, ut  
-      <lb ed="#H" n="32"/>docet Christus ipse his verbis: <quote source="http://scta.info/resource/lc23_43@8-12">Hodie mecum eris in Paradiso.</quote> 
+      <lb ed="#H" n="32"/>docet Christus ipse his verbis: <quote xml:id="yyy8Uu-gxd403-Qd1e216" source="http://scta.info/resource/lc23_43@8-12">Hodie mecum eris in Paradiso.</quote> 
       Si<lb ed="#H" n="33" break="no"/>milem allusionem a symbolo ad rem significatam vide Proverb. 3. 
       <lb ed="#H" n="34"/>ubi dicitur Sapientia lignum vitae omnibus apprehendentibus eam, 
       <lb ed="#H" n="35"/>Et Apoc. 22. v. 2. Ex utraque parte fluminis est arbor vitae in caelest. 

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -67,9 +63,9 @@
       <lb ed="#H" n="117"/>haeredes, alios ignis infernalis cum diabolo haeredes declarabit.  
       <lb ed="#H" n="118"/>Ecclesiastes Salom. 12. v. ult. Nam omne opus Deus ipse adducet in 
       ju<lb ed="#H" n="119" break="no"/>dicium cum omni re occulta; sive bonum, sive malum. Matth. 25. v. 31.
-      <lb ed="#H" n="120"/><quote source="http://scta.info/resource/mt25_31@1-19">Quum autem venerit Filius hominis cum gloria sua, &amp; omnes sancti
+      <lb ed="#H" n="120"/><quote xml:id="yyy8Uu-gxd622-Qd1e123" source="http://scta.info/resource/mt25_31@1-19">Quum autem venerit Filius hominis cum gloria sua, &amp; omnes sancti
       <lb ed="#H" n="121"/>Angeli cum eo, tunc sedebit in throno gloriae suae.</quote> Roman. 14. v. 10. O. 
-      <lb ed="#H" n="122"/>mnes sistemur apud tribunal Christi. 1. Corinth. 4. v. 5. <quote source="http://scta.info/resource/Icor4_5@1-24">Proinde ne anter
+      <lb ed="#H" n="122"/>mnes sistemur apud tribunal Christi. 1. Corinth. 4. v. 5. <quote xml:id="yyy8Uu-gxd622-Qd1e130" source="http://scta.info/resource/Icor4_5@1-24">Proinde ne anter
       <lb ed="#H" n="123"/>praestitutum tempus quicquam judicate, id est, usquedum venerit Dei
       <lb ed="#H" n="124"/>minus, qui &amp; illustraturus est res tenebris occultatas, &amp; manifesta
       fa<lb ed="#H" n="125" break="no"/>ciet consilia cordium, ac tunc laus erit unicuique a Deo.</quote> 2. Corinth. 5. v. 
@@ -163,7 +159,7 @@
       imperfe<lb ed="#H" n="12" break="no"/>ctam obedientiam nostram perinde gratam esse Patri propter 
       Chri<lb ed="#H" n="13" break="no"/>stum ac si perfectissima fuisset: quoniam Christi justitia &amp; inobediens 
       <lb ed="#H" n="14"/>tia nostra est. Electi igitur, licet opera ipsorum sint imperfecta, 
-      ta<lb ed="#H" n="15" break="no"/>men propterea damnari non poterunt, quia <quote source="http://scta.info/resource/rom8_1@1-11">nihil damnationis est
+      ta<lb ed="#H" n="15" break="no"/>men propterea damnari non poterunt, quia <quote xml:id="yyy8Uu-gxd622-Qd1e322" source="http://scta.info/resource/rom8_1@1-11">nihil damnationis est
       <lb ed="#H" n="16"/>his qui sunt in Christo Jesu,</quote> Roman. 8. v. 1. 
     </p>
             <p xml:id="yyy8Uu-gxd622-d1e324">
@@ -185,7 +181,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd622-d1e355">
                <lb ed="#H" n="25"/>
-               <pc type="indent"/>Sententia adversus reprobos pronuncianda, est: <quote source="http://scta.info/resource/mt25_41@12-22">Ite maledicti
+               <pc type="indent"/>Sententia adversus reprobos pronuncianda, est: <quote xml:id="yyy8Uu-gxd622-Qd1e365" source="http://scta.info/resource/mt25_41@12-22">Ite maledicti
       in<lb ed="#H" n="26" break="no"/>ignem aeternum, qui paratus est Diabolo &amp; Angelis ejus,</quote> &amp;c. Matth. 
       <lb ed="#H" n="27"/>25. vers. 41. 
     </p>

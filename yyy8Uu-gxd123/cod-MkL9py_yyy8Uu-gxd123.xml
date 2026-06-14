@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -85,7 +81,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd123-d1e157">
                <lb ed="#H" n="123"/>
-               <pc type="indent"/>2. Quia soli Deo nota est: <quote source="http://scta.info/resource/IItim2_19@9-13">Novit enim Dominus qui sui sinti.</quote>
+               <pc type="indent"/>2. Quia soli Deo nota est: <quote xml:id="yyy8Uu-gxd123-Qd1e159" source="http://scta.info/resource/IItim2_19@9-13">Novit enim Dominus qui sui sinti.</quote>
       <lb ed="#H" n="124"/>2. Timoth. 2. v. 19. Hi autem sunt Ecclesia illa Catholica de qua 
       dis<lb ed="#H" n="125" break="no"/>serimus, sicut Augustinus ait quinto tomo, libro vigesimo de Civitate 
       <lb ed="#H" n="126"/>Dei capite octavo. Numquam ab illo Ecclesia seducetur praedestinata. 
@@ -105,7 +101,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd123-d1e198">
                <lb ed="#H" n="137"/>
-               <pc type="indent"/>5. Quia non est de hoc mundo, sicut Christus ait, <quote source="http://scta.info/resource/io18_36@3-9">Regnum meum
+               <pc type="indent"/>5. Quia non est de hoc mundo, sicut Christus ait, <quote xml:id="yyy8Uu-gxd123-Qd1e203" source="http://scta.info/resource/io18_36@3-9">Regnum meum
       <lb ed="#H" n="138"/>non est de hoc mundo,</quote> Johan. 18. 36.
     </p>
             <p xml:id="yyy8Uu-gxd123-d1e207">

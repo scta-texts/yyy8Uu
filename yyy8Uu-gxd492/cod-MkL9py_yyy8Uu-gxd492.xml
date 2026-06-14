@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -96,7 +92,7 @@
       <lb ed="#H" n="120"/>fine mundi cum hortationis clamore, cum voce Archangeli, &amp; cum 
       <lb ed="#H" n="121"/>tuba Dei descendet de coelo cum Angelis suis potentibus, &amp; cum igne 
       <lb ed="#H" n="122"/>fiammante, Matth. 24. 30 &amp; sequentibus. Luc. 21. 27. Ezech. 44. 3. 
-      <lb ed="#H" n="123"/>Princeps via sua egredietur. Act. 1. 11. <quote source="http://scta.info/resource/act1_11@1-27">dicunt Angeli discipulis
+      <lb ed="#H" n="123"/>Princeps via sua egredietur. Act. 1. 11. <quote xml:id="yyy8Uu-gxd492-Qd1e183" source="http://scta.info/resource/act1_11@1-27">dicunt Angeli discipulis
       Christi<lb ed="#H" n="124" break="no"/>Viri Galilei, quid statis intuentes in coelum? Hic Iesus, qui sursum
       rece<lb ed="#H" n="125" break="no"/>ptus est a vobis in coelum, ita veniet, quemadmodum conspexistis eum
       <lb ed="#H" n="126"/>proficiscentem in coelum.</quote> Joh. 14. 3. 1. Thess. 4. 16. &amp; 2. Thess. 1. 7. &amp; 8. 
@@ -122,8 +118,8 @@
             <p xml:id="yyy8Uu-gxd492-d1e229">
                <lb ed="#H" n="139"/>
                <pc type="indent"/>Effectus illius erit luctus &amp; planctus impiorum, Matth. 24. v. 30. 
-      <lb ed="#H" n="140"/><quote source="http://scta.info/resource/mt24_30@1-14">Tunc apparebit signum Filii hominis in coelo, &amp; tunc omnes tribus
-      ter<lb ed="#H" n="141" break="no"/>rae plangent.</quote> Apoc. I. v. 7. <quote source="http://scta.info/resource/ap1_7@1-21">Ecce venit cum nabibus, &amp; videbit eum
+      <lb ed="#H" n="140"/><quote xml:id="yyy8Uu-gxd492-Qd1e235" source="http://scta.info/resource/mt24_30@1-14">Tunc apparebit signum Filii hominis in coelo, &amp; tunc omnes tribus
+      ter<lb ed="#H" n="141" break="no"/>rae plangent.</quote> Apoc. I. v. 7. <quote xml:id="yyy8Uu-gxd492-Qd1e240" source="http://scta.info/resource/ap1_7@1-21">Ecce venit cum nabibus, &amp; videbit eum
       om<lb ed="#H" n="142" break="no"/>nis oculus, etiam qui eum transfixerunt &amp; plangent coram eo omnes
       <lb ed="#H" n="143"/>tribus terra.</quote> Zach. 12. v. 10. Apoc. 6 v. 15, 16, 17.
     </p>
@@ -131,7 +127,7 @@
                <lb ed="#H" n="144"/>
                <pc type="indent"/>E coelo venturus est in quod adscendit, &amp; descensurus est in nubes. 
       <lb ed="#H" n="145"/>2. Thessal. 1. 7. Revelabitur Dominus Iesus de coelo cum Angelis suis 
-      <lb ed="#H" n="146"/>potentibus Matth. 26. vers. 64. <quote source="http://scta.info/resource/mt26_64@10-21">Videbitis Filium hominis sedentem ad
+      <lb ed="#H" n="146"/>potentibus Matth. 26. vers. 64. <quote xml:id="yyy8Uu-gxd492-Qd1e258" source="http://scta.info/resource/mt26_64@10-21">Videbitis Filium hominis sedentem ad
       <lb ed="#H" n="147"/>ad dexteram potentia Dei, &amp; venientem in nubibus coeli.</quote> Philip. 3. v. 
       <lb ed="#H" n="148"/>20. Nos autem ut municipes coelorum nos gerimus: unde etiam 
       Serva<lb ed="#H" n="149" break="no"/>torem exspectamus Dominum Iesum Christum. 1. Thessal. 4.16. Ipse. 
@@ -160,7 +156,7 @@
       <lb ed="#H" n="163"/>hora nemo scit, ne Angeli quidem qui in coelo sunt, neque ipse Filius, sed  
       <lb ed="#H" n="164"/>pater. Vult autem Deus illum nos latere. I. Ut observemus omnes. 
       <lb ed="#H" n="165"/>dies, &amp; ad omnia momenta parati simus, ut Dominus monet Matth. 
-      <lb ed="#H" n="166"/>25. v. 42. <quote source="http://scta.info/resource/mt24_42@1-10">Vigilate ergo: nescitis enim quam hora Dominus vester
+      <lb ed="#H" n="166"/>25. v. 42. <quote xml:id="yyy8Uu-gxd492-Qd1e320" source="http://scta.info/resource/mt24_42@1-10">Vigilate ergo: nescitis enim quam hora Dominus vester
       ventu<lb ed="#H" n="167" break="no"/>rus sit</quote>
     </p>
             <p xml:id="yyy8Uu-gxd492-d1e317">
@@ -183,7 +179,7 @@
       <!--cod-MkL9py-0542.xml-->
       <pb ed="#H" n="515"/>
                <cb ed="#H" n="a"/>
-               <lb ed="#H" n="1"/>25, 36. <quote source="http://scta.info/resource/lc21_34@1-23 http://scta.info/resource/lc21_35@1-12 http://scta.info/resource/lc21_36@1-19">Cavete vobis ne quandi graventur corda vestra crapula &amp;
+               <lb ed="#H" n="1"/>25, 36. <quote xml:id="yyy8Uu-gxd492-Qd1e369" source="http://scta.info/resource/lc21_34@1-23 http://scta.info/resource/lc21_35@1-12 http://scta.info/resource/lc21_36@1-19">Cavete vobis ne quandi graventur corda vestra crapula &amp;
       ebri<lb ed="#H" n="2" break="no"/>retate, &amp; curis hujus vitae: Grepente vobis superveniat dies ille. Nam
       <lb ed="#H" n="3"/>ut laqueus invadet in omnes, qui habitant in superficie totius terrae
       <lb ed="#H" n="4"/>Excubate igitur omni tempore rogantes ut digni habeamini qui
@@ -203,7 +199,7 @@
             <p xml:id="yyy8Uu-gxd492-d1e391">
                <lb ed="#H" n="11"/>
                <pc type="indent"/>III. quia ejus desiderium in cord bus fidelium efficit Spiritus 
-      <lb ed="#H" n="12"/>Sanctus, ut legitur Apoc. 22. v. 17. <quote source="http://scta.info/resource/ap22_17@1-6">Et Spiritus &amp; sponsa dicunt,
+      <lb ed="#H" n="12"/>Sanctus, ut legitur Apoc. 22. v. 17. <quote xml:id="yyy8Uu-gxd492-Qd1e410" source="http://scta.info/resource/ap22_17@1-6">Et Spiritus &amp; sponsa dicunt,
       Veni</quote><lb ed="#H" n="13" break="no"/>Et v. 20. Veni Domine Iesu
       <lb ed="#H" n="14"/>IV. quia vere fideles se mutuo exhortantur ad optandum ad
       <lb ed="#H" n="15"/>ventum Christi, ut Apoc. 22. 17. Et qui audit, dicat, veni. 
@@ -224,12 +220,12 @@
                <pc type="indent"/>scentiam tendere. 
       <lb ed="#H" n="25"/>Electorum igitur, non improborum gratia mundus consistit: 
       <lb ed="#H" n="26"/>Adventus illius ultimi signa prenuncia Deus constituit electorum 
-      <lb ed="#H" n="27"/>bono, ut logitur Matth. 24. 29, 30. <quote source="http://scta.info/resource/mt24_29@1-23 http://scta.info/resource/mt24_30@2-25">Statim autem post compressionem
+      <lb ed="#H" n="27"/>bono, ut logitur Matth. 24. 29, 30. <quote xml:id="yyy8Uu-gxd492-Qd1e455" source="http://scta.info/resource/mt24_29@1-23 http://scta.info/resource/mt24_30@2-25">Statim autem post compressionem
       <lb ed="#H" n="28"/>dierum illorum Sol obscurabitur, nec dabit Luna splendorem suum, &amp;
       <lb ed="#H" n="29"/>stella cadent e coeli, &amp; potestates coelorum concutientur. Tunc apparebis
       <lb ed="#H" n="30"/>signum Filii hominis in coelo; &amp; tunc omnes tribus terrae plangent, &amp;
       <lb ed="#H" n="31"/>videbunt Filium hominis venientem in nubibus coeli cum potentia &amp; I
-      <lb ed="#H" n="32"/>gloria multa.</quote> Luc. 21. v. 25, 26, 27. <quote source="http://scta.info/resource/lc21_25@2-20 http://scta.info/resource/lc21_26@1-14 http://scta.info/resource/lc21_27@2-13">Tunc erunt signa in Sole &amp; Luna &amp;
+      <lb ed="#H" n="32"/>gloria multa.</quote> Luc. 21. v. 25, 26, 27. <quote xml:id="yyy8Uu-gxd492-Qd1e468" source="http://scta.info/resource/lc21_25@2-20 http://scta.info/resource/lc21_26@1-14 http://scta.info/resource/lc21_27@2-13">Tunc erunt signa in Sole &amp; Luna &amp;
       <lb ed="#H" n="33"/>stellis: &amp; in terra anxietas gentium in consilii inopia, resonante mari &amp;
       <lb ed="#H" n="34"/>salo: Exanimatis hominibus prae metu &amp; exspectatione malorum eo.
       <lb ed="#H" n="35"/>rum supervenientium in orbem terrarum: nam potestates caelorum
@@ -254,12 +250,12 @@
       <lb ed="#H" n="48"/>spectra Marcionitica. Sicut enim Christus vere, visiniliter &amp; localite 
       <lb ed="#H" n="49"/>in coelum adscendit: ita etiam vere, visibiliter &amp; lo aliter de coelo 
       ve<lb ed="#H" n="50" break="no"/>niet in nubes. Hoc docet Dominus ipse cum ait Matth. 23. versic. 39. 
-      <lb ed="#H" n="51"/><quote source="http://scta.info/resource/mt23_39@1-15">Dico vobis, nequaquam me videbitis ab hoc tempore usque dum dicatis,
-      <lb ed="#H" n="52"/>Benedictus qui venit in nomine Domini:</quote> Et cap. 24. v. 30. <quote source="http://scta.info/resource/mt24_30@16-22">Videbunt.
-      <lb ed="#H" n="53"/>Filium hominis venientem in nubibus coeli.</quote> Et cap. 26. 64. <quote source="http://scta.info/resource/mt26_64@10-21">Videbitis
+      <lb ed="#H" n="51"/><quote xml:id="yyy8Uu-gxd492-Qd1e520" source="http://scta.info/resource/mt23_39@1-15">Dico vobis, nequaquam me videbitis ab hoc tempore usque dum dicatis,
+      <lb ed="#H" n="52"/>Benedictus qui venit in nomine Domini:</quote> Et cap. 24. v. 30. <quote xml:id="yyy8Uu-gxd492-Qd1e525" source="http://scta.info/resource/mt24_30@16-22">Videbunt.
+      <lb ed="#H" n="53"/>Filium hominis venientem in nubibus coeli.</quote> Et cap. 26. 64. <quote xml:id="yyy8Uu-gxd492-Qd1e530" source="http://scta.info/resource/mt26_64@10-21">Videbitis
       <lb ed="#H" n="54"/>Filium hominis sedentem ad dexteram potentiae Dei, &amp; venientem in
       <lb ed="#H" n="55"/>nubibus coeli.</quote> Joh. 19. 37. Intuebuntur quem transfixerunt. Actor. 1. v. 
-      <lb ed="#H" n="56"/>II. dicunt Angeli ad Apostolos: <quote source="http://scta.info/resource/act1_11@1-27">Viri Galilei, quid statis intuentes in
+      <lb ed="#H" n="56"/>II. dicunt Angeli ad Apostolos: <quote xml:id="yyy8Uu-gxd492-Qd1e540" source="http://scta.info/resource/act1_11@1-27">Viri Galilei, quid statis intuentes in
       <lb ed="#H" n="57"/>coelum: hic Iesus qui sursum receptus est a vobis in coelum, ita veniet.
       <lb ed="#H" n="58"/>quemadmodum vidistis eum proficiscentem in coelum</quote>
     </p>
@@ -268,7 +264,7 @@
                <pc type="indent"/>Adventus ille ultimus Christi, erit gloriosus &amp; plenus majestati  
       <lb ed="#H" n="60"/>divina, cum immortalitatis fulgore, cum immensa divinitatis 
       poten<lb ed="#H" n="61" break="no"/>tia, cum Angelorum satellitio. Matth. capite decimo-sexto, versiculo 
-      <lb ed="#H" n="62"/>vigesimo-septimo: <quote source="http://scta.info/resource/mt16_27@1-12">Futurum est ut Filius hominis veniat cum gloria
+      <lb ed="#H" n="62"/>vigesimo-septimo: <quote xml:id="yyy8Uu-gxd492-Qd1e561" source="http://scta.info/resource/mt16_27@1-12">Futurum est ut Filius hominis veniat cum gloria
       <lb ed="#H" n="63"/>Patris sui cum Angelis suis.</quote> Idem docent testimonia supra allegat: 
       <lb ed="#H" n="64"/>veluti Matth. capite vigesimo-quarto, versiculo trigesimo, &amp; capito 
       <lb ed="#H" n="65"/>vigesimo. quinto, versiculo trigesimo-primo, &amp; capite vigesimo 

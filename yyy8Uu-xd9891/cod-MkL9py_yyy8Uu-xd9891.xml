@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -155,7 +151,7 @@
       cru<lb ed="#H" n="49" break="no"/>delissimis &amp; morti acerbissimae propter summum bonum quod est, 
       <lb ed="#H" n="50"/>Deus, seu quod eodem redit, pro veritate coelesti &amp; gloria Iesu 
       Chri<lb ed="#H" n="51" break="no"/>sti testificanda, tuenda, ac propaganda. De hac dicitur I. Joh. 2. v. 14.
-      <lb ed="#H" n="52"/><quote source="http://scta.info/resource/Iio2_14@16-30">Scripsi vobis, adolescentes, quod fortes estis, &amp; verbum Dei habitat in
+      <lb ed="#H" n="52"/><quote xml:id="yyy8Uu-xd9891-Qd1e297" source="http://scta.info/resource/Iio2_14@16-30">Scripsi vobis, adolescentes, quod fortes estis, &amp; verbum Dei habitat in
       <lb ed="#H" n="53"/>vobis, &amp; improbum illum vicistis.</quote> 
     </p>
             <p xml:id="yyy8Uu-xd9891-d1e305">
@@ -205,7 +201,7 @@
       chari<lb ed="#H" n="81" break="no"/>tas Dei &amp; proximi, Hebr. 11. 33. per fidem debellarunt regna. &amp; v. 34. 
       <lb ed="#H" n="82"/>corroborati sunt ex infirmitate, effecti sunt fortes in bello, exercitus 
       ex<lb ed="#H" n="83" break="no"/>terorum in fugam verterunt. Sic ait David ad Goliathum 1. Sam. 17. 
-      <lb ed="#H" n="84"/>45. <quote source="http://scta.info/resource/Isam17_45@16-24">Ego venio ad te in nomine Iehovae exercituum.</quote> Psal. 6o. 14. In Dei 
+      <lb ed="#H" n="84"/>45. <quote xml:id="yyy8Uu-xd9891-Qd1e399" source="http://scta.info/resource/Isam17_45@16-24">Ego venio ad te in nomine Iehovae exercituum.</quote> Psal. 6o. 14. In Dei 
       <lb ed="#H" n="85"/>faciamus strenue, seu ut ex Hebraeo sonat, virtutem 
     </p>
             <p xml:id="yyy8Uu-xd9891-d1e404">
@@ -270,7 +266,7 @@
             <p xml:id="yyy8Uu-xd9891-d1e518">
                <lb ed="#H" n="119"/>
                <pc type="indent"/>II. Quia nobis Jehova adest, &amp; salutem praestat. Huc faciunt 
-      <lb ed="#H" n="120"/>loca ista: Psal. 23. v. 4. <quote source="http://scta.info/resource/ps22_4@1-23">Etiamsi ambularem per vallem umbr amertis,
+      <lb ed="#H" n="120"/>loca ista: Psal. 23. v. 4. <quote xml:id="yyy8Uu-xd9891-Qd1e527" source="http://scta.info/resource/ps22_4@1-23">Etiamsi ambularem per vallem umbr amertis,
       <lb ed="#H" n="121"/>non timerem malum, quia tu mecum es: virga tua &amp; pedum tuum
       <lb ed="#H" n="122"/>ipsa consolantur me.</quote> Et Ps. 27. 1. Iehova lux mea &amp; salus mea est, a quo 
       <lb ed="#H" n="123"/>timerem? Iehova robur vitae mea est, a quo expavescerem? Ps. 46. 2. 
@@ -304,7 +300,7 @@
             <p xml:id="yyy8Uu-xd9891-d1e589">
                <lb ed="#H" n="147"/>
                <pc type="indent"/>IV. Quia timiditas in quovis homine reprehenditur, ut Ps. 53. 
-      <lb ed="#H" n="148"/>6. Ibi expavescunt pavore, ubi non est pavor. Joh. 12. 42. <quote source="http://scta.info/resource/io12_42">Veruntamen
+      <lb ed="#H" n="148"/>6. Ibi expavescunt pavore, ubi non est pavor. Joh. 12. 42. <quote xml:id="yyy8Uu-xd9891-Qd1e601" source="http://scta.info/resource/io12_42">Veruntamen
       <lb ed="#H" n="149"/>etiam ex primoribus multi crediderunt in eum: sed propter Pharisaeos
       <lb ed="#H" n="150"/>hos non profitebantur, ne Synagoga moverentur.</quote>
     </p>
@@ -541,7 +537,7 @@
     </p>
             <p xml:id="yyy8Uu-xd9891-d1e1071">
                <lb ed="#H" n="136"/>
-               <pc type="indent"/>III. Johan. 12. 25. <quote source="http://scta.info/resource/io12_25@18-29">Qui odit animam suam in hoc mundo, in
+               <pc type="indent"/>III. Johan. 12. 25. <quote xml:id="yyy8Uu-xd9891-Qd1e1084" source="http://scta.info/resource/io12_25@18-29">Qui odit animam suam in hoc mundo, in
       vi<lb ed="#H" n="137" break="no"/>tam aeternam custodiet eam.</quote> Ergo licet seipsum interficere, 
     </p>
             <p xml:id="yyy8Uu-xd9891-d1e1080">

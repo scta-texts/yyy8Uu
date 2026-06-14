@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -124,7 +120,7 @@
       <lb ed="#H" n="55"/>discursu, inventione, doctrina &amp; quacunque naturali intelligentia 
       <lb ed="#H" n="56"/>acquirere potest. Hoc est quod Deus dicit Mosi Exod. 33. v. 20. Non 
       <lb ed="#H" n="57"/>posses videre faciem meam, quia non potest me homo videre &amp; 
-      vive<lb ed="#H" n="58" break="no"/>re. Et quod Johannes Baptista dixit, Johan. 1. v. 18. <quote source="http://scta.info/resource/io1_18@1-13">Deum nemo vidi.
+      vive<lb ed="#H" n="58" break="no"/>re. Et quod Johannes Baptista dixit, Johan. 1. v. 18. <quote xml:id="yyy8Uu-gxd379-Qd1e237" source="http://scta.info/resource/io1_18@1-13">Deum nemo vidi.
       <lb ed="#H" n="59"/>unquam: Unigenitus ille Filius, qui est in sinu Patris, ille enarravit.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd379-d1e244">
@@ -155,7 +151,7 @@
       <lb ed="#H" n="74"/>Altera pars coelestis beatitudinis hominis, est perfecta 
       conformi<lb ed="#H" n="75" break="no"/>tas cum Deo, quae necessario &amp; indissolubili nexu cum visione Dei, 
       <lb ed="#H" n="76"/>copulata est, quemadmodum Apostolus Johannes docet, 1. epist. 3.
-      <lb ed="#H" n="77"/>vers. 2. <quote source="http://scta.info/resource/Iio3_2@1-22">Cherissimi, nunc filij Dei sumus, sed nondum patefaectum est;
+      <lb ed="#H" n="77"/>vers. 2. <quote xml:id="yyy8Uu-gxd379-Qd1e301" source="http://scta.info/resource/Iio3_2@1-22">Cherissimi, nunc filij Dei sumus, sed nondum patefaectum est;
       <lb ed="#H" n="78"/>qued ecimus: scimus autem fore ut quum ipse patefactus fuerit,
       simi<lb ed="#H" n="79" break="no"/>les ei simus: quoniam videbimus eum sicuti est.</quote> Qui Deum superna 
       <lb ed="#H" n="80"/>tural, vitione vident de facie ad faciem, ji quamvis propriam substam 
@@ -185,14 +181,14 @@
             <p xml:id="yyy8Uu-gxd379-d1e355">
                <lb ed="#H" n="98"/>
                <pc type="indent"/>lebitur quod dicitur de fidelibus &amp; justis, Apocal. 7. v. 14, 15, 16, 17.
-      <lb ed="#H" n="99"/><quote source="http://scta.info/resource/ap7_14@11-27 http://scta.info/resource/ap7_15@1-22 http://scta.info/resource/ap7_16@1-13 http://scta.info/resource/ap7_17@1-24">Hi sunt qui venerunt ex afflictione magna: &amp; laverunt stolas sua.
+      <lb ed="#H" n="99"/><quote xml:id="yyy8Uu-gxd379-Qd1e364" source="http://scta.info/resource/ap7_14@11-27 http://scta.info/resource/ap7_15@1-22 http://scta.info/resource/ap7_16@1-13 http://scta.info/resource/ap7_17@1-24">Hi sunt qui venerunt ex afflictione magna: &amp; laverunt stolas sua.
       <lb ed="#H" n="100"/>ac dealbarunt in sanguine Agni. Ideo sunt ante thronum Dei, &amp;
       co<lb ed="#H" n="101" break="no"/>lunt eum die ac nocte in templo ejus: &amp; qui insidet throno, protege,
       <lb ed="#H" n="102"/>eos umbraculo. Non esurient amplius, neque sitient amplius, nec in
       <lb ed="#H" n="103"/>eos cadet Sol, neque ullus aestus. Quoniam Agnus qui in medio
       thron<lb ed="#H" n="104" break="no"/>est, pascet eos, &amp; viae dux erit ipsis ad vivos fontes aquarum: &amp;
       ab<lb ed="#H" n="105" break="no"/>tersurus est Deus omnem lacrymam ab oculis eorum.</quote> Et cap. 21. v. 3.
-      <lb ed="#H" n="106"/>4. <quote source="http://scta.info/resource/ap21_3@8-29 http://scta.info/resource/ap21_4@1-24">Ecce tabernaculum Dei est cum hominibus, &amp; habitabit cum eis:
+      <lb ed="#H" n="106"/>4. <quote xml:id="yyy8Uu-gxd379-Qd1e382" source="http://scta.info/resource/ap21_3@8-29 http://scta.info/resource/ap21_4@1-24">Ecce tabernaculum Dei est cum hominibus, &amp; habitabit cum eis:
       <lb ed="#H" n="107"/>&amp; ipsi, populi ejus erunt, &amp; ipse Deus cum eis erit, Deus ipsorum. Et
       <lb ed="#H" n="108"/>abstersurus est Deus omnem lacrymam ab oculis eorum: &amp; mors
       am<lb ed="#H" n="109" break="no"/>plius non exstabit: neque luctus, neque clamor, neque labor exstabit
@@ -272,7 +268,7 @@
                <pc type="indent"/>HONOR beatorum est, quod re ipsa declarabitur, eos esse 
       ami<lb ed="#H" n="164" break="no"/>cos, filios &amp; haeredes Dei, &amp; fratres cohaeredesque Christi. Sed &amp; 
       <lb ed="#H" n="165"/>laudibus a Christo Domino coram Patre coelesti &amp; Angelis ejus 
-      ce<lb ed="#H" n="166" break="no"/>lebrabuntur, sicut Dominus ait Matth. 10. v. 32. <quote source="http://scta.info/resource/mt10_32@4-18">Quisquis consites
+      ce<lb ed="#H" n="166" break="no"/>lebrabuntur, sicut Dominus ait Matth. 10. v. 32. <quote xml:id="yyy8Uu-gxd379-Qd1e547" source="http://scta.info/resource/mt10_32@4-18">Quisquis consites
       <lb ed="#H" n="167"/>bitur me coram hominibus, confitebor &amp; ego eum coram Patre meo
       <lb ed="#H" n="168"/>qui est in coelis.</quote> Et Luc. 12. v. 8. Quisquis me confessus fuerit 
       coran<lb ed="#H" n="169" break="no"/>hominibus, Filius quoque hominis confitebitur eum coram Angelis 
@@ -309,7 +305,7 @@
             <p xml:id="yyy8Uu-gxd379-d1e605">
                <lb ed="#H" n="12"/>
                <pc type="indent"/>Hujus vero gloriae, honoris, splendoris &amp; claritatis gradus erunt,  
-      <lb ed="#H" n="13"/>sicut Angelus dicit, Dan. 12. v. ultimo: <quote source="http://scta.info/resource/dan12_13@9-15">Stabis in sorte tua in fine
+      <lb ed="#H" n="13"/>sicut Angelus dicit, Dan. 12. v. ultimo: <quote xml:id="yyy8Uu-gxd379-Qd1e622" source="http://scta.info/resource/dan12_13@9-15">Stabis in sorte tua in fine
       die<lb ed="#H" n="14" break="no"/>rum:</quote> unusquisque stabit in sorte sua in fine dierum: Patriarchae &amp; 
       <lb ed="#H" n="15"/>Prophetae in sua sorte: Apostoli in sua sorte: Evangelistae in sua 
       sor<lb ed="#H" n="16" break="no"/>te: Martyres in sua sorte: Pastores &amp; Doctores in sua sorte: alij 

@@ -87,8 +87,8 @@
             <p xml:id="yyy8Uu-e85607-d1e168">
                <lb ed="#H" n="23"/>
                <pc type="indent"/>Pro justitia Christi credentibus imputata accipitur, Rom. 1. v. 17.
-      <lb ed="#H" n="24"/><quote source="http://scta.info/resource/rom1_17@1-18">justitia Dei per illud redigitur ex fide in fidem: sicut scriptum est, justus
-      <lb ed="#H" n="25"/>autem ex fide vivet.</quote> Et cap. 3. 21, 22. <quote source="http://scta.info/resource/rom3_21@1-13 http://scta.info/resource/rom3_22@1-17">Nunc vero absque lege iustitiae
+      <lb ed="#H" n="24"/><quote xml:id="yyy8Uu-e85607-Qd1e168" source="http://scta.info/resource/rom1_17@1-18">justitia Dei per illud redigitur ex fide in fidem: sicut scriptum est, justus
+      <lb ed="#H" n="25"/>autem ex fide vivet.</quote> Et cap. 3. 21, 22. <quote xml:id="yyy8Uu-e85607-Qd1e173" source="http://scta.info/resource/rom3_21@1-13 http://scta.info/resource/rom3_22@1-17">Nunc vero absque lege iustitiae
       <lb ed="#H" n="26"/>Dei manifesta facta est, comprobata testimonio Legis ac Prophetarum;
       <lb ed="#H" n="27"/>Iustitia, inquom, Dei per fidem Iesu Christi in omnes &amp; super omnes
       <lb ed="#H" n="28"/>qui credunt: non enim est distinctio.</quote> Et c. 10. v. 3. ait de Judaeis: Nam 
@@ -113,7 +113,7 @@
       </p>
             <p xml:id="yyy8Uu-e85607-d1e221">
                <lb ed="#H" n="41"/>
-               <pc type="indent"/>Pro forma gubernandi rite composita, capitur Psal. 72. 1. <quote source="http://scta.info/resource/ps71_2@1-10">O Deus
+               <pc type="indent"/>Pro forma gubernandi rite composita, capitur Psal. 72. 1. <quote xml:id="yyy8Uu-e85607-Qd1e224" source="http://scta.info/resource/ps71_2@1-10">O Deus
       <lb ed="#H" n="42"/>iudicia tua regi da, &amp; iustitiam tuam filio regis.</quote> Sensus enim est: Deus 
       <lb ed="#H" n="43"/>da ut rex prudenter &amp; juste regnum administret. 
       </p>
@@ -257,7 +257,7 @@
       <lb ed="#H" n="126"/>contra omnem injustam vim defendit, ab oppressione liberat &amp; 
       in<lb ed="#H" n="127" break="no"/>columes servat. Ita Deus fidem servis suis datam praestando, justum 
       <lb ed="#H" n="128"/>se probat. De hac justitia loquitur David, Psalmo tricesimoquinto;
-      <lb ed="#H" n="129"/>vers. vigesimoquarto cum ait: <quote source="http://scta.info/resource/ps34_24@1-8">Iudica me secundum iustitiam tuam</quote>
+      <lb ed="#H" n="129"/>vers. vigesimoquarto cum ait: <quote xml:id="yyy8Uu-e85607-Qd1e507" source="http://scta.info/resource/ps34_24@1-8">Iudica me secundum iustitiam tuam</quote>
       <lb ed="#H" n="130"/>hoc est, jus meum assere &amp; defende; servuum tuum in bona causa 
       <lb ed="#H" n="131"/>defende, quia justus es. Sic Psalmo tricesimosexto, vers. undecimo: 
       <lb ed="#H" n="132"/>Protende benignitatem tuam erga cognoscentes te, &amp; iustitiam ?nam 
@@ -281,10 +281,10 @@
       <lb ed="#H" n="144"/>absque ullo nostro merito: iustitiae, quia promisit remissionem 
       pec<lb ed="#H" n="145" break="no"/>catorum credentibus &amp; resipiscentibus. Justus ergo Deus est &amp; cum 
       <lb ed="#H" n="146"/>peccata punit, &amp; cum peccata remittit. Hoc docet Paulus, cum ad 
-      <lb ed="#H" n="147"/>Rom. 3. v. 25, &amp; 26. ait: <quote source="http://scta.info/resource/rom3_25@1-17">Quam propesuit Deus placamentum per
+      <lb ed="#H" n="147"/>Rom. 3. v. 25, &amp; 26. ait: <quote xml:id="yyy8Uu-e85607-Qd1e560" source="http://scta.info/resource/rom3_25@1-17">Quam propesuit Deus placamentum per
       fi<lb ed="#H" n="148" break="no"/>dem in sanguine ipsius, ad demonstrandam iustitiam suam, per
       remis<lb ed="#H" n="149" break="no"/>sionem peccatorum quae antecesserunt,</quote> Deo illa tolerante: Ad demons
-      <lb ed="#H" n="150"/>strandam, inquom, <quote source="http://scta.info/resource/rom3_26@11-22">iustittam suam praesenti tempore: ut sit ipse iustus,
+      <lb ed="#H" n="150"/>strandam, inquom, <quote xml:id="yyy8Uu-e85607-Qd1e570" source="http://scta.info/resource/rom3_26@11-22">iustittam suam praesenti tempore: ut sit ipse iustus,
       <lb ed="#H" n="151"/>&amp; iost ficans eum qui est ex fide Iesu.</quote> 
       </p>
             <p xml:id="yyy8Uu-e85607-d1e566">
@@ -314,12 +314,12 @@
                <lb ed="#H" n="169"/>
                <pc type="indent"/>Deinde confirmat nobis fiduciam obtinendi a Deo quae ab eo 
       pe<lb ed="#H" n="170" break="no"/>timus, sicut David ex ca spem impetrandi postulata concipit, Psal. 5.
-      <lb ed="#H" n="171"/>vers. 9. <quote source="http://scta.info/resource/ps5_9@1-6">Iehova deduc me in iustitia tua.</quote> Tantundem enim valet, ac si 
+      <lb ed="#H" n="171"/>vers. 9. <quote xml:id="yyy8Uu-e85607-Qd1e632" source="http://scta.info/resource/ps5_9@1-6">Iehova deduc me in iustitia tua.</quote> Tantundem enim valet, ac si 
       <lb ed="#H" n="172"/>dixisset: Domine auxilio tuo me protegas, ut crudeles hostium 
       meo<lb ed="#H" n="173" break="no"/>rum machinationes evadam, quia justus es, seu, pro fide quam in 
       tu<lb ed="#H" n="174" break="no"/>candis fidelibus ostendis. Sic Psal. 31. v. 2. Ad te, Iehova, me recipio, no 
       <lb ed="#H" n="175"/>errlescam in saculum: Iustitia tua libera me. Et Psal. 71 v. 1, 2. In
-      te<lb ed="#H" n="176" break="no"/>Ieho va, spem pono, ne pudesiam unquam. <quote source="http://scta.info/resource/ps70_2@1-8">In iustitia tua cripe me, &amp;
+      te<lb ed="#H" n="176" break="no"/>Ieho va, spem pono, ne pudesiam unquam. <quote xml:id="yyy8Uu-e85607-Qd1e646" source="http://scta.info/resource/ps70_2@1-8">In iustitia tua cripe me, &amp;
       li<lb ed="#H" n="177" break="no"/>bera me.</quote> Errant valde, qui Deum pro justitia sua servare sanctos 
       pu<lb ed="#H" n="178" break="no"/>tant: quia sic meriti sunt, ut aequum sit, mercedem illis rependi. Nam 
       <!--cod-MkL9py-0209.xml-->
@@ -328,7 +328,7 @@
                <lb ed="#H" n="1"/>iustitia Dei his in locis accipitur pro fide, qua suos omnes tuetur; qui 
       se<lb ed="#H" n="2" break="no"/>ejus praesidio tutelaeque committunt. Ergo a natura Dei spem suam 
       <lb ed="#H" n="3"/>confirmat David, quia Deus seipsum abnegare nequeat. Idem facit? 
-      <lb ed="#H" n="4"/>Daniel cum c. 9. v.16. ait: <quote source="http://scta.info/resource/dan9_16@1-16">Domine, secundum totam iustitiam tuam
+      <lb ed="#H" n="4"/>Daniel cum c. 9. v.16. ait: <quote xml:id="yyy8Uu-e85607-Qd1e669" source="http://scta.info/resource/dan9_16@1-16">Domine, secundum totam iustitiam tuam
       <lb ed="#H" n="5"/>summam auertatur obsecro ira tua &amp; excandeoscentia tua, a civitate
       <lb ed="#H" n="6"/>tua Ierosoymis.</quote> q. d. quoniam non tu falles eos qui in te confidunt, sed  
       <lb ed="#H" n="7"/>quicquid promisisti praestabis 
@@ -374,7 +374,7 @@
       <lb ed="#H" n="44"/>Chitthaei, Emoreai, Perizzeique, ac lebusei, &amp; Girgaschei, daturum, 
       in<lb ed="#H" n="45" break="no"/>quam, semini eius: &amp; praestitisti verba tua, quia iustus es. Hoc 
       ar<lb ed="#H" n="46" break="no"/>gumentum fiduciam in nobis alere debet de certitudine 
-      remissioni<lb ed="#H" n="47" break="no"/>peccatorum: Sicut dicitur 1. Joh 1. v 9. <quote source="http://scta.info/resource/Iio1_9@1-18">Si confiteamur peccata nostra
+      remissioni<lb ed="#H" n="47" break="no"/>peccatorum: Sicut dicitur 1. Joh 1. v 9. <quote xml:id="yyy8Uu-e85607-Qd1e770" source="http://scta.info/resource/Iio1_9@1-18">Si confiteamur peccata nostra
       <lb ed="#H" n="48"/>fidelis est &amp; iustus, ut remittat nobis peccata, &amp; purget nos ab omni
       ini<lb ed="#H" n="49" break="no"/>quitate.</quote> 
       </p>
@@ -386,7 +386,7 @@
       ar<lb ed="#H" n="53" break="no"/>gumento solatur Paulus fideles 2. Thess. 1. v. 6. Siquidem iustum est, 
       <lb ed="#H" n="54"/>apud Deum vicissia reddere iis, qui affligunt vos, afflictionem: vobis 
       <lb ed="#H" n="55"/>vero qui premimini, relaxationem nobiscum, quum patefiit Dominus. 
-      <lb ed="#H" n="56"/>Iesus de coelo, cum Angelis siuis potentibus. Et Hebr. 6. v. 10. <quote source="http://scta.info/resource/hebr6_10@1-20">Non enim
+      <lb ed="#H" n="56"/>Iesus de coelo, cum Angelis siuis potentibus. Et Hebr. 6. v. 10. <quote xml:id="yyy8Uu-e85607-Qd1e798" source="http://scta.info/resource/hebr6_10@1-20">Non enim
       <lb ed="#H" n="57"/>iniustus est Deus ut obliviscatur operis vestri, &amp; laboriosae charitatis,
       <lb ed="#H" n="58"/>quam demonstrastis erga ipsius nomen, ut qui ministraveritis sanctis &amp;
       <lb ed="#H" n="59"/>ministretis.</quote> Sic Psal. 103. v. 17. Benignitas Iehovae inde a seculo usque in 
@@ -450,7 +450,7 @@
       <lb ed="#H" n="94"/>&amp; Rex Rechabeamus, 2. Chron. 12. 5. &amp; 6. Nam cum Schemahis 
       <lb ed="#H" n="95"/>Propheta eis dixisset: Sic ait Iehova, vos dereliquistis me, ideo ego quoo 
       <lb ed="#H" n="96"/>derelinquo vos tradendo vos in manum Schischalbi. Tum deprimentes se
-      <lb ed="#H" n="97"/>Principes Israelis &amp; Rex <quote source="http://scta.info/resource/IIchr12_6@4-9">dixerunt, iustus est Iehova.</quote> Agnoscit &amp; 
+      <lb ed="#H" n="97"/>Principes Israelis &amp; Rex <quote xml:id="yyy8Uu-e85607-Qd1e927" source="http://scta.info/resource/IIchr12_6@4-9">dixerunt, iustus est Iehova.</quote> Agnoscit &amp; 
       confi<lb ed="#H" n="98" break="no"/>tetur eandem Ecclesia Judaica Lament. Jer. cap. 1. 18. Iustus est 
       Ieho<lb ed="#H" n="99" break="no"/>va, eo quod contra os eius rebellavi: audite quaeso omnes populi, &amp; 
       adspi<lb ed="#H" n="100" break="no"/>cite dolorem meum, virginum mearum &amp; iuvenum meorum 
@@ -471,7 +471,7 @@
             <p xml:id="yyy8Uu-e85607-d1e939">
                <lb ed="#H" n="114"/>
                <pc type="indent"/>In Christo vero pro electis conspicitur eadem omnium 
-      luculentis<lb ed="#H" n="115" break="no"/>sime: nam <quote source="http://scta.info/resource/rom8_32@1-12">Deus proprio Filio suo non pepercit, sed pro nobis
+      luculentis<lb ed="#H" n="115" break="no"/>sime: nam <quote xml:id="yyy8Uu-e85607-Qd1e974" source="http://scta.info/resource/rom8_32@1-12">Deus proprio Filio suo non pepercit, sed pro nobis
       omni<lb ed="#H" n="116" break="no"/>bus tradidit illum,</quote> Rom. 8 v. 52. Nullum exemplum justitiae irae &amp; 
       <lb ed="#H" n="117"/>comminationum divinarum est expressius, severius, horribilius, quam 
       <lb ed="#H" n="118"/>in Christo. Nam quia omnes homines in Adamo peccaverunt, 
@@ -481,7 +481,7 @@
       <lb ed="#H" n="122"/>culpae &amp; poenae. Huic justitiae satisfaciendum est necessario. At quia 
       <lb ed="#H" n="123"/>nemo hominum satisfacere posset in aeternum: ne totum humanum 
       <lb ed="#H" n="124"/>penus interiret; sponsorem se ultro fecit unigenitus Filius Dei 
-      pro<lb ed="#H" n="125" break="no"/>illis quos Pater ipsi dederat, &amp; <quote source="http://scta.info/resource/phil2_7@1-16 http://scta.info/resource/phil2_8@1-11">ipse sese exinanivit forma servi accepta
+      pro<lb ed="#H" n="125" break="no"/>illis quos Pater ipsi dederat, &amp; <quote xml:id="yyy8Uu-e85607-Qd1e999" source="http://scta.info/resource/phil2_7@1-16 http://scta.info/resource/phil2_8@1-11">ipse sese exinanivit forma servi accepta
       <lb ed="#H" n="126"/>similis hominibus factus: &amp; habitu compertus ut homo, ipse se
       sub<lb ed="#H" n="127" break="no"/>misit, factus obediens usque ad mortem, mortem autem crucis,</quote> Philip.
       <lb ed="#H" n="128"/>2. 7. &amp; 8. Quoniam ergo Filius Dei homo factus constituit se 
@@ -564,13 +564,13 @@
       deturba<lb ed="#H" n="175" break="no"/>tione ejus de coelo &amp; privatione perpetua aeternae beatitudinis, tum 
       <lb ed="#H" n="176"/>in supplicio ignis aeterni, qui patatus est diabolo &amp; angelis ejus 
       <lb ed="#H" n="177"/>Lucae cap. 10. vers. 18. Spectabam Satanam ut fulgur e coelo
-      caden<lb ed="#H" n="178" break="no"/>tem. Apocal. 12. v. 8, 9. <quote source="http://scta.info/resource/ap12_8@4-11 http://scta.info/resource/ap12_9@1-28">Nequo locus eorum amplius inventus est
+      caden<lb ed="#H" n="178" break="no"/>tem. Apocal. 12. v. 8, 9. <quote xml:id="yyy8Uu-e85607-Qd1e1165" source="http://scta.info/resource/ap12_8@4-11 http://scta.info/resource/ap12_9@1-28">Nequo locus eorum amplius inventus est
       in<lb ed="#H" n="179" break="no"/>coelo. Et proiectus est Dra oille magnis, serpens ille antiquus, qui vocatur
       <lb ed="#H" n="180"/>diabolus &amp; Satanas, qui seducit cotum terrarum orbemi protectus est in
       <!--cod-MkL9py-0210.xml-->
       <pb ed="#H" n="183"/>
                <cb ed="#H" n="a"/>
-               <lb ed="#H" n="1"/>terram, &amp; angeli eius cum eo proiecti sunt.</quote> Matth. 25. 41. <quote source="http://scta.info/resource/mt25_41@1-22">Tunc dicet
+               <lb ed="#H" n="1"/>terram, &amp; angeli eius cum eo proiecti sunt.</quote> Matth. 25. 41. <quote xml:id="yyy8Uu-e85607-Qd1e1181" source="http://scta.info/resource/mt25_41@1-22">Tunc dicet
       <lb ed="#H" n="2"/>etiam iis qui ad sinistram erunt, abite a me exsecrandi in ignem
       ater<lb ed="#H" n="3" break="no"/>num, qui paratus est diabolo &amp; angelis eius.</quote>
       </p>
@@ -582,7 +582,7 @@
       justis<lb ed="#H" n="7" break="no"/>sima: veluti quod nulla habita ratione operum vel bonorum vel 
       ma<lb ed="#H" n="8" break="no"/>lorum, tanquam causarum efficientium, alios homines elegit, alios 
       <lb ed="#H" n="9"/>odio habuit &amp; reprobavit, injustitiae nullius argui potest; 
-      quemad<lb ed="#H" n="10" break="no"/>modum Paulus docet Rom. 9. 11, &amp; sequentibus ubi ait: <quote source="http://scta.info/resource/rom9_11@1-17 http://scta.info/resource/rom9_12@1-13 http://scta.info/resource/rom9_13@1-9">Nondum enim
+      quemad<lb ed="#H" n="10" break="no"/>modum Paulus docet Rom. 9. 11, &amp; sequentibus ubi ait: <quote xml:id="yyy8Uu-e85607-Qd1e1208" source="http://scta.info/resource/rom9_11@1-17 http://scta.info/resource/rom9_12@1-13 http://scta.info/resource/rom9_13@1-9">Nondum enim
       <lb ed="#H" n="11"/>natis pueris, quum nihil fecissent boni &amp; mali, ut propositum Dei, quod
       <lb ed="#H" n="12"/>est secundum electionem, non ex operibus, sed ex vocante maneret
       di<lb ed="#H" n="13" break="no"/>ctum est ei, maior serviet minori. Sicut scriptum est, lacobum dilexi
@@ -609,7 +609,7 @@
       et<lb ed="#H" n="31" break="no"/>iamsi ad tempus dissimulet, semper eos tolerabit, sed adversus ipsos 
       <lb ed="#H" n="32"/>judicia sua exseret. Hoc pacto refellit Propheta. Tzephania vel 
       So<lb ed="#H" n="33" break="no"/>honias Judaeos, impunitatem sibi pollicentes, cum ait cap. 3. v. 5.
-      <lb ed="#H" n="34"/><quote source="http://scta.info/resource/soph3_5@1-13">Iehova justus in medio eius, non faciet iniquitatem: mane mane
+      <lb ed="#H" n="34"/><quote xml:id="yyy8Uu-e85607-Qd1e1266" source="http://scta.info/resource/soph3_5@1-13">Iehova justus in medio eius, non faciet iniquitatem: mane mane
       judi<lb ed="#H" n="35" break="no"/>cium suum proferet.</quote> q. d. Jehovae voluntas propensa ad rependendum 
       <lb ed="#H" n="36"/>cuique est constantissima: ideo non erit approbator scelerum, non 
       <lb ed="#H" n="37"/>renunciabit sibi ipse, non mutabit naturam impiorum causa, sed 
@@ -635,12 +635,12 @@
       <lb ed="#H" n="51"/>David Psal 119. v. 160. In seculum est quodque iudicium iustitiae tuae. Et  
       <lb ed="#H" n="52"/>Jesaias cap. 5. v. 16. Exaltatur Iehova exercituum iudicio suo, &amp; Deus 
       <lb ed="#H" n="53"/>fortis sanctissimus sanctificatur iustitia. Et Angelus aquarum, quem 
-      <lb ed="#H" n="54"/>audivit Johannes dicentem Apoc. 16. v. 5, 6. <quote source="http://scta.info/resource/ap16_5@1-16 http://scta.info/resource/ap16_6@1-13">Iustus es Domine, qui es
+      <lb ed="#H" n="54"/>audivit Johannes dicentem Apoc. 16. v. 5, 6. <quote xml:id="yyy8Uu-e85607-Qd1e1322" source="http://scta.info/resource/ap16_5@1-16 http://scta.info/resource/ap16_6@1-13">Iustus es Domine, qui es
       <lb ed="#H" n="55"/>&amp; qui eras, &amp; qui eris, quod haec tudicaris: Quoniam sanguinem
       San<lb ed="#H" n="56" break="no"/>ctorum &amp; Prophetarum effuderunt, &amp; sanguinem eis dedisti ad
       biben<lb ed="#H" n="57" break="no"/>dum: digni enim sunt:</quote> Et v. 7. audivit Johannes alium e
-      sanctuario<lb ed="#H" n="58" break="no"/>dicentem; <quote source="http://scta.info/resource/ap16_7@1-13">Etiam Domine Deus omnitotens, vera sunt &amp; iusta
-      iudi<lb ed="#H" n="59" break="no"/>cia tua.</quote> Post haec cap. 19. v. 1, 2. <quote source="http://scta.info/resource/ap19_1@3-20 http://scta.info/resource/ap19_2@1-26">audivit Johannes vocem magnam
+      sanctuario<lb ed="#H" n="58" break="no"/>dicentem; <quote xml:id="yyy8Uu-e85607-Qd1e1334" source="http://scta.info/resource/ap16_7@1-13">Etiam Domine Deus omnitotens, vera sunt &amp; iusta
+      iudi<lb ed="#H" n="59" break="no"/>cia tua.</quote> Post haec cap. 19. v. 1, 2. <quote xml:id="yyy8Uu-e85607-Qd1e1339" source="http://scta.info/resource/ap19_1@3-20 http://scta.info/resource/ap19_2@1-26">audivit Johannes vocem magnam
       <lb ed="#H" n="60"/>turbae multae in coelo, dicentis, Halleluia: Salus &amp; honor &amp; gloria &amp;
       <lb ed="#H" n="61"/>virtus Domino Deo nostro esto. Quia vera &amp; iusta sunt iudicia eius, &amp;
       <lb ed="#H" n="62"/>meretricem illam magnam, quae corrupit terram scortatione sua,

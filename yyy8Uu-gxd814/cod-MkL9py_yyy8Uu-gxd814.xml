@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -187,9 +183,9 @@
       <lb ed="#H" n="131"/>quam in suo corpore implevit. Exhibita veritate, figura cessare 
       debu<lb ed="#H" n="132" break="no"/>it: Quapropter sideles ja non magis circumcidi debent: ita ut si quis 
       cir<lb ed="#H" n="133" break="no"/>cumcidatur, facto hoc neget Christum advenisse &amp; eum sibi inutilem 
-      <lb ed="#H" n="134"/>reddat, Galat. 5. versiculo primo, secundo. <quote source="http://scta.info/resource/gal5_1@1-7">In libertate igitur qua
+      <lb ed="#H" n="134"/>reddat, Galat. 5. versiculo primo, secundo. <quote xml:id="yyy8Uu-gxd814-Qd1e356" source="http://scta.info/resource/gal5_1@1-7">In libertate igitur qua
       <lb ed="#H" n="135"/>Christus nos liberavit perstate, &amp; ne regredientes implicamini servituti.
-      <lb ed="#H" n="136"/>iugo.</quote> <quote source="http://scta.info/resource/gal5_2@1-12">Ecce, ego Paulus dico vobis, si circumcidamini, Christum nihili
+      <lb ed="#H" n="136"/>iugo.</quote> <quote xml:id="yyy8Uu-gxd814-Qd1e363" source="http://scta.info/resource/gal5_2@1-12">Ecce, ego Paulus dico vobis, si circumcidamini, Christum nihili
       <lb ed="#H" n="137"/>vobis profuturum.</quote> Paulus quidem Timotheum citcumcidit non ex 
       <lb ed="#H" n="138"/>necessitate, sed ut pacem Ecclesiae retineret, cursum Evangelii magis 
       <lb ed="#H" n="139"/>promoveret, donec melius innotesceret libertas per Christum parta, 

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -250,7 +246,7 @@
                <pc type="indent"/>assim jam agnosceretur pro Christo illo: sed etiam ipsummet 
       Do<lb ed="#H" n="149" break="no"/>minum Jesum Pilato tradiderunt interficiendum, ut eum e medios 
       <lb ed="#H" n="150"/>tolleret, ne amplius quisquam de eo tanquam Christo illo gaudere 
-      <lb ed="#H" n="151"/>posset. De hac diabolica invidia dicitur Matth. 27. v. 18. <quote source="http://scta.info/resource/mt27_18@1-7">Sciebat,
+      <lb ed="#H" n="151"/>posset. De hac diabolica invidia dicitur Matth. 27. v. 18. <quote xml:id="yyy8Uu-xd6521-Qd1e488" source="http://scta.info/resource/mt27_18@1-7">Sciebat,
       <lb ed="#H" n="152"/>enim quod per invidiam tradidissent eum</quote>
     </p>
             <p xml:id="yyy8Uu-xd6521-d1e496">
@@ -298,7 +294,7 @@
       <lb ed="#H" n="178"/>virum illum, qui non proposuerat Deum robur suum: sed confidebat  
       <lb ed="#H" n="179"/>amplitudini divitiarum suarum, roborabat se in substantia sua. Ego 
       ve<lb ed="#H" n="180" break="no"/>ro ut oliva virens in domo Dei; confido benignitati Dei in saculum &amp; 
-      <lb ed="#H" n="181"/>sempiternum, Psal. 58. v. 10, 11, 12. <quote source="http://scta.info/resource/ps57_10 http://scta.info/resource/ps57_11 http://scta.info/resource/ps57_12">Quum nondum senttentur spinae.
+      <lb ed="#H" n="181"/>sempiternum, Psal. 58. v. 10, 11, 12. <quote xml:id="yyy8Uu-xd6521-Qd1e584" source="http://scta.info/resource/ps57_10 http://scta.info/resource/ps57_11 http://scta.info/resource/ps57_12">Quum nondum senttentur spinae.
       <!--cod-MkL9py-0684.xml-->
       <pb ed="#H" n="655"/>
                <cb ed="#H" n="a"/>

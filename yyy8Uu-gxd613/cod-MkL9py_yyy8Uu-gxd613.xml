@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -160,7 +156,7 @@
       <lb ed="#H" n="140"/>a Satana &amp; ministris eius superentur &amp; in communione Christi 
       con<lb ed="#H" n="141" break="no"/>servat eos, quod inde apparet, quia in confessione veritatis persistum 
       <lb ed="#H" n="142"/>constanter usque ad extremam guttam sanguinis, usque ad 
-      extre<lb ed="#H" n="143" break="no"/>mum halitum oris. Huc facit locus Iesa. 49. vers. 14, 15,16. <quote source="http://scta.info/resource/is49_14@1-11 http://scta.info/resource/is49_15@2-12">Quod
+      extre<lb ed="#H" n="143" break="no"/>mum halitum oris. Huc facit locus Iesa. 49. vers. 14, 15,16. <quote xml:id="yyy8Uu-gxd613-Qd1e317" source="http://scta.info/resource/is49_14@1-11 http://scta.info/resource/is49_15@2-12">Quod
       <lb ed="#H" n="144"/>si dicat TEjon, dereliquit me Iehova; &amp; Dominus oblitus est mei:
       <lb ed="#H" n="145"/>An oblivisci potest mulier foetus sui, ut non misereatur filii uteri</quote> 
       <lb ed="#H" n="146"/> 

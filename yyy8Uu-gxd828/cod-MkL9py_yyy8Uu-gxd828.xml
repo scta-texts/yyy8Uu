@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -80,7 +76,7 @@
             <p xml:id="yyy8Uu-gxd828-d1e144">
                <lb ed="#H" n="11"/>
                <pc type="indent"/>Religio vera differt a 
-      falsa<lb ed="#H" n="12" break="no"/>1. Vera est a Deo, 2. Petr. 1. v. 3. <quote source="http://scta.info/resource/IIpetr1_3@1-15">Prout divina vis ipsius omnia
+      falsa<lb ed="#H" n="12" break="no"/>1. Vera est a Deo, 2. Petr. 1. v. 3. <quote xml:id="yyy8Uu-gxd828-Qd1e148" source="http://scta.info/resource/IIpetr1_3@1-15">Prout divina vis ipsius omnia
       nobi<lb ed="#H" n="13" break="no"/>donavit quae ad vitam &amp; pietatem pertinent, per agnitionem illius
       qui<lb ed="#H" n="14" break="no"/>vocavit nos ad gloriam ac virtutem.</quote> Falsa a Diabolo, Jac. 3. versic. 15. 
       <lb ed="#H" n="15"/>Non est enim ista sapientia superne descendens, sed terrena, animalis, 
@@ -106,7 +102,7 @@
       reli<lb ed="#H" n="26" break="no"/>gio docet, quodnam sit illud remedium, per quod perpetuum illud 
       dissi<lb ed="#H" n="27" break="no"/>dium inter Deum &amp; nos per &amp; propter peccata ortum Iesa. 59. v. 2. 
       <lb ed="#H" n="28"/>tollitur, &amp; vera ἔυθυυια, hoc est, tranquillitas animi nobis restituitur.  
-      <lb ed="#H" n="29"/>De illo remedio dicitur Rom. 5. v. 1, 2. <quote source="http://scta.info/resource/rom5_1@1-13 http://scta.info/resource/rom5_2@1-12">Iustificati ex fide pacem
+      <lb ed="#H" n="29"/>De illo remedio dicitur Rom. 5. v. 1, 2. <quote xml:id="yyy8Uu-gxd828-Qd1e204" source="http://scta.info/resource/rom5_1@1-13 http://scta.info/resource/rom5_2@1-12">Iustificati ex fide pacem
       habe<lb ed="#H" n="30" break="no"/>mus apud Deum per Dominum nostrum Iesum Christum: Per quem
       et<lb ed="#H" n="31" break="no"/>iam fide adducti fuimus in hanc gratiam in qua stamus</quote> 
       <lb ed="#H" n="32"/>6. Vera religio est pacifica, &amp; benignitatis, misericordiae, mansuetur 
@@ -152,7 +148,7 @@
       <lb ed="#H" n="66"/>August. l.4. de civit. Dei, c. 31. Imo etiam idolum est omne id in quo, 
       <lb ed="#H" n="67"/>loco unius Dei aut praeter unum illum &amp; verum Deum, qui se in suo 
       <lb ed="#H" n="68"/>verbo patefecit, homo spem reponit: ut mammona seu pecunia, 
-      sicu<lb ed="#H" n="69" break="no"/>dicit Christus Matt. 6. v. 24. <quote source="http://scta.info/resource/mt6_24@1-25">Nemo potest duobus dominis servire: aut eo
+      sicu<lb ed="#H" n="69" break="no"/>dicit Christus Matt. 6. v. 24. <quote xml:id="yyy8Uu-gxd828-Qd1e303" source="http://scta.info/resource/mt6_24@1-25">Nemo potest duobus dominis servire: aut eo
       <lb ed="#H" n="70"/>nim unum habebit odio &amp; alterum contemnet. Non potestis Deo
       servi<lb ed="#H" n="71" break="no"/>re &amp; mammonae</quote>: Ut propria prudentia, scientia, pietas, justitia, 
       sancti<lb ed="#H" n="72" break="no"/>tas, urbs munita, robur corporis, forma venusta fedus cum vicinis, 
@@ -247,7 +243,7 @@
       <lb ed="#H" n="135"/>I. Quia severissime est a Deo prohibita in Decalogo Exod, 26. 
       <lb ed="#H" n="136"/>II. Quia peccatum horredum est: nam non simplex est peccatum, sed 
       <lb ed="#H" n="137"/>duo mala gravissima complectitur, nempe aversionem a Deo, &amp; 
-      con<lb ed="#H" n="138" break="no"/>versionem ad alia pro Deo: ut patet verbis Jer. 2. v. 12, 13. <quote source="http://scta.info/resource/ier2_12@1-11 http://scta.info/resource/ier2_13@1-22">Olstupescit
+      con<lb ed="#H" n="138" break="no"/>versionem ad alia pro Deo: ut patet verbis Jer. 2. v. 12, 13. <quote xml:id="yyy8Uu-gxd828-Qd1e501" source="http://scta.info/resource/ier2_12@1-11 http://scta.info/resource/ier2_13@1-22">Olstupescit
       <lb ed="#H" n="139"/>coeli de hac re: &amp; horrescites desolemini valde, dictum Iehovae: Nam
       du<lb ed="#H" n="140" break="no"/>mala fecit populus meus: me dereliquerunt scaturiginem aquarum
       vive<lb ed="#H" n="141" break="no"/>tium, ut effoderent sibi cisternas, cisternas fractas, quae non capiunt aquas</quote>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -69,7 +65,7 @@
             <p xml:id="yyy8Uu-gxd746-d1e122">
                <lb ed="#H" n="17"/>
                <pc type="indent"/>Estque tum Sanctorum cum Deo: tum eorundem inter se.1 Joh. 1. v. 3.
-      <lb ed="#H" n="18"/><quote source="http://scta.info/resource/Iio1_3@1-25">Quod vidimus &amp; audivimus, id annunciamus vobis, ut &amp; vos
+      <lb ed="#H" n="18"/><quote xml:id="yyy8Uu-gxd746-Qd1e125" source="http://scta.info/resource/Iio1_3@1-25">Quod vidimus &amp; audivimus, id annunciamus vobis, ut &amp; vos
       commu<lb ed="#H" n="19" break="no"/>nionem habeatis nobiscum: &amp; communio nostra sit cum Patre, &amp; cum
       Fi<lb ed="#H" n="20" break="no"/>lio ejus JESUCHRISTO0.</quote> Et v. 7. Si in luce incedimus, sicut ipses( Deus) 
       <lb ed="#H" n="21"/>est in luco, communionem habemus cum eo mutuam, 
@@ -79,7 +75,7 @@
                <pc type="indent"/>Communio sanctorum cum Deo, est per quam sumus perpetuo nexus 
       <lb ed="#H" n="23"/>ita uniti Deo SUMMOEONO, ut toti quanti quanti sumus, omnibus 
       <lb ed="#H" n="24"/>tandem quibus fieri possit modis, unum cum ipso fiamus. Joh. 14. v.
-      <lb ed="#H" n="25"/>23. <quote source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem meum servabit, &amp; Pater meus diliget
+      <lb ed="#H" n="25"/>23. <quote xml:id="yyy8Uu-gxd746-Qd1e148" source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem meum servabit, &amp; Pater meus diliget
       <lb ed="#H" n="26"/>eum, &amp; ad eum veniemus, &amp; apud eum habitabimus.</quote> Hinc dicitur  
       <lb ed="#H" n="27"/>Deus portio piorum, ut Ps.16. 5. Iehova portio praedii mei &amp; poculo 
       <lb ed="#H" n="28"/>mei. Et 23. v. 26. Deficionte carne mea Sanimo meo, rupes animi mei &amp; 
@@ -88,28 +84,28 @@
             <p xml:id="yyy8Uu-gxd746-d1e161">
                <lb ed="#H" n="30"/>
                <pc type="indent"/>Estque &amp; cum Patre, &amp; cum Filio, &amp; cum Spiritu Sancto. 1. Joh. 1 v. 3.
-      <lb ed="#H" n="31"/><quote source="http://scta.info/resource/Iio1_3@14-25">Et communio nostra sit cum Patre &amp; cum Filio ejus IesuChristo.</quote> 2. Cor. 
+      <lb ed="#H" n="31"/><quote xml:id="yyy8Uu-gxd746-Qd1e168" source="http://scta.info/resource/Iio1_3@14-25">Et communio nostra sit cum Patre &amp; cum Filio ejus IesuChristo.</quote> 2. Cor. 
       <lb ed="#H" n="32"/>13. v. 13. Communio Spiritus Sancti sit cum omnibus vobis. 
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e172">
                <lb ed="#H" n="33"/>
                <pc type="indent"/>Communio sanctorum cum Deo Patre, est quod Deo Patri per 
       Fili<lb ed="#H" n="34" break="no"/>um virtute Spiritus Sancti unimur, unde Pater in sactis habitat, ipsique  
-      <lb ed="#H" n="35"/>sunt filii &amp; haeredes ejus 1. Joh. 3. 1. <quote source="http://scta.info/resource/Iio3_1@1-10">Videte qualem charitatem dedit.
-      <lb ed="#H" n="36"/>nobis Pater, nempe ut Filii Dei vocemur.</quote> Rom. 8 v. 16, 17. <quote source="http://scta.info/resource/rom8_16@1-10 http://scta.info/resource/rom8_17@1-11">Qui ipse
+      <lb ed="#H" n="35"/>sunt filii &amp; haeredes ejus 1. Joh. 3. 1. <quote xml:id="yyy8Uu-gxd746-Qd1e184" source="http://scta.info/resource/Iio3_1@1-10">Videte qualem charitatem dedit.
+      <lb ed="#H" n="36"/>nobis Pater, nempe ut Filii Dei vocemur.</quote> Rom. 8 v. 16, 17. <quote xml:id="yyy8Uu-gxd746-Qd1e190" source="http://scta.info/resource/rom8_16@1-10 http://scta.info/resource/rom8_17@1-11">Qui ipse
       Spi<lb ed="#H" n="37" break="no"/>ritus testatur una cum Spiritu nostro, nos esse Filios Dei. Quod si filii
       <lb ed="#H" n="38"/>etiam haeredes: haeredes quidem Dei, cohaeredes autem Christi.</quote>
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e190">
                <lb ed="#H" n="39"/>
-               <pc type="indent"/>Ea contingit propter Christum 1 Joh. 2. v. 13. <quote source="http://scta.info/resource/Iio2_23@1-13">Quisquis negat
+               <pc type="indent"/>Ea contingit propter Christum 1 Joh. 2. v. 13. <quote xml:id="yyy8Uu-gxd746-Qd1e204" source="http://scta.info/resource/Iio2_23@1-13">Quisquis negat
       Fi<lb ed="#H" n="40" break="no"/>lium: nec Patrem habet: qui agnoscit Filium, &amp; Patrem habet</quote>
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e199">
                <lb ed="#H" n="41"/>
                <pc type="indent"/>Idque solis vere credentibus Joh. 1. v. 12. Quotquot eum exceperunt. 
       <lb ed="#H" n="42"/>dedit eis hoc jus ut Filij Dei sint facti, nemee iis qui credunt in nomen 
-      <lb ed="#H" n="43"/>eius. Gal. 3. 26. <quote source="http://scta.info/resource/gal3_26@1-10">Omnes filii Dei estis per fidem in Christo Iesu.</quote> 
+      <lb ed="#H" n="43"/>eius. Gal. 3. 26. <quote xml:id="yyy8Uu-gxd746-Qd1e220" source="http://scta.info/resource/gal3_26@1-10">Omnes filii Dei estis per fidem in Christo Iesu.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e210">
                <lb ed="#H" n="44"/>
@@ -124,7 +120,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e231">
                <lb ed="#H" n="49"/>
-               <pc type="indent"/>Non autem incedentibus in tenebris. 1 Joh. 1 6. <quote source="http://scta.info/resource/Iio1_6@1-16">Si dixerimus nos
+               <pc type="indent"/>Non autem incedentibus in tenebris. 1 Joh. 1 6. <quote xml:id="yyy8Uu-gxd746-Qd1e251" source="http://scta.info/resource/Iio1_6@1-16">Si dixerimus nos
       <lb ed="#H" n="50"/>communionem habere cum eo, &amp; in tenebris incedimus, mentimur nec
       <lb ed="#H" n="51"/>sincere agimus.</quote> 
     </p>
@@ -142,17 +138,17 @@
       <lb ed="#H" n="58"/>Communio cum Filio Dei Domino nostro IesuChristo, est 
       participa<lb ed="#H" n="59" break="no"/>tio &amp; ipsiusmet Christi, &amp; omnium ejus bonorum. Heb. 3. 14. Christ. 
       <lb ed="#H" n="60"/>participes facti sumus. Sei, Est mansio Christi in sanctis, &amp; sanctorum 
-      <lb ed="#H" n="61"/>in Christo, Joh. 6. v. 53, 56. <quote source="http://scta.info/resource/io6_56@1-12 http://scta.info/resource/io6_57@1-15">Caro enim mea vere e st cihus, &amp; sanguis
+      <lb ed="#H" n="61"/>in Christo, Joh. 6. v. 53, 56. <quote xml:id="yyy8Uu-gxd746-Qd1e290" source="http://scta.info/resource/io6_56@1-12 http://scta.info/resource/io6_57@1-15">Caro enim mea vere e st cihus, &amp; sanguis
       <lb ed="#H" n="62"/>meus vere est potus. Qui edit meam carnem &amp; bibit meum sanguinem.
-      <lb ed="#H" n="63"/>in me manet, &amp; ego in eo.</quote> Coena cum Christo Apoc. 3. v. 20. <quote source="http://scta.info/resource/ap3_20@1-24">Ecce, sto
+      <lb ed="#H" n="63"/>in me manet, &amp; ego in eo.</quote> Coena cum Christo Apoc. 3. v. 20. <quote xml:id="yyy8Uu-gxd746-Qd1e297" source="http://scta.info/resource/ap3_20@1-24">Ecce, sto
       <lb ed="#H" n="64"/>ad ostium, &amp; pulsos si quis audierit vocem meam, &amp; aperuerit ostium,
       <lb ed="#H" n="65"/>ingrediar ad eum, &amp;c cnabo cum eo, &amp; ipse quoque mecum.</quote>
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e282">
                <lb ed="#H" n="66"/>
-               <pc type="indent"/>Eaque datur per Deum Patrem. 1. Corinth. 1 9. <quote source="http://scta.info/resource/Icor1_9@1-14">Fidelis est Deus, per
+               <pc type="indent"/>Eaque datur per Deum Patrem. 1. Corinth. 1 9. <quote xml:id="yyy8Uu-gxd746-Qd1e311" source="http://scta.info/resource/Icor1_9@1-14">Fidelis est Deus, per
       <lb ed="#H" n="67"/>quem vocati estis in communionem Filii ipsius IesuChristi Domini
-      no<lb ed="#H" n="68" break="no"/>stri.</quote> Joh. 6. 44. <quote source="http://scta.info/resource/io6_44@1-12">Nemo potest venire ad me, nisi Pater, qui misit me,
+      no<lb ed="#H" n="68" break="no"/>stri.</quote> Joh. 6. 44. <quote xml:id="yyy8Uu-gxd746-Qd1e318" source="http://scta.info/resource/io6_44@1-12">Nemo potest venire ad me, nisi Pater, qui misit me,
       tra<lb ed="#H" n="69" break="no"/>xerit eum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e295">
@@ -174,7 +170,7 @@
                <lb ed="#H" n="76"/>
                <pc type="indent"/>At prophani Spiritum Sanctum non habert.  
       <lb ed="#H" n="77"/>Prophani igitur communionem cum Christo non habent  
-      <lb ed="#H" n="78"/>Et solis credentibus Ephes. 3. 12. <quote source="http://scta.info/resource/eph3_17@1-7">Et inhabitet Christus per fidem in
+      <lb ed="#H" n="78"/>Et solis credentibus Ephes. 3. 12. <quote xml:id="yyy8Uu-gxd746-Qd1e362" source="http://scta.info/resource/eph3_17@1-7">Et inhabitet Christus per fidem in
       <lb ed="#H" n="79"/>cordibus vestris.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e336">
@@ -234,7 +230,7 @@
             <p xml:id="yyy8Uu-gxd746-d1e439">
                <lb ed="#H" n="108"/>
                <pc type="indent"/>Est autem communio cum Christo duplex, nempe, tum ipsiusmet 
-      <lb ed="#H" n="109"/>Christi, tum bonorum eius. Rom. 8. 32. <quote source="http://scta.info/resource/rom8_32@1-20">Qui proprio Filio non pepercit,
+      <lb ed="#H" n="109"/>Christi, tum bonorum eius. Rom. 8. 32. <quote xml:id="yyy8Uu-gxd746-Qd1e479" source="http://scta.info/resource/rom8_32@1-20">Qui proprio Filio non pepercit,
       <lb ed="#H" n="110"/>sed pro nobis omnibus tradidi cum, qui non etiam cum co omnia nobis.
       <lb ed="#H" n="111"/>gratificabitur?</quote> 
     </p>
@@ -258,7 +254,7 @@
             <p xml:id="yyy8Uu-gxd746-d1e484">
                <lb ed="#H" n="120"/>
                <pc type="indent"/>Altera, sit quotidie in singulis electorum personis, sed 
-      peregrina<lb ed="#H" n="121" break="no"/>libus a Domino, de qua dicitur Joh. 17. v. 21. <quote source="http://scta.info/resource/io17_21@1-20">Vt omnes unum siit,
+      peregrina<lb ed="#H" n="121" break="no"/>libus a Domino, de qua dicitur Joh. 17. v. 21. <quote xml:id="yyy8Uu-gxd746-Qd1e527" source="http://scta.info/resource/io17_21@1-20">Vt omnes unum siit,
       sic<lb ed="#H" n="122" break="no"/>ut tu Pater in me, &amp; ego in te, ipsi in nobis unum sint.</quote> Rom. 12. v. 5. 
       <lb ed="#H" n="123"/>Multi unum corpus sumus in Christo. 1. Cor. 7. 17. Qui vero 
       agglutina<lb ed="#H" n="124" break="no"/>tur Domino, unus cum eo Spiritus est 
@@ -333,7 +329,7 @@
       bea<lb ed="#H" n="172" break="no"/>ta Virgine Maria personae γ λόγς univerunt. De Patre dicitur Hebi 
       <lb ed="#H" n="173"/>1o. 5. Corpus autem aptasti mihi. De Filio, Philip. 2. v. 6, 7. Qui qui  
       <lb ed="#H" n="174"/>esset in forma Dei, non duxit esse rapinam, parem esse cum Deo: sed ipse  
-      <lb ed="#H" n="175"/>sese inanivit, forma servi accepta. De Spiritus Sancto Luc. 1. 35. <quote source="http://scta.info/resource/lc1_35@6-23">Spiritus
+      <lb ed="#H" n="175"/>sese inanivit, forma servi accepta. De Spiritus Sancto Luc. 1. 35. <quote xml:id="yyy8Uu-gxd746-Qd1e682" source="http://scta.info/resource/lc1_35@6-23">Spiritus
       <lb ed="#H" n="176"/>Sanctus superveniet in te, &amp; virtus Atissimi inumbrabit te: propterea
       <lb ed="#H" n="177"/>etiam quod nascetur ex te Sanctum, vocabitur Filius Dei</quote> 
     </p>
@@ -341,13 +337,13 @@
                <lb ed="#H" n="178"/>
                <pc type="indent"/>Similiter Pater unit quotidie electos Filio suo per ipsummet 
       Fi<lb ed="#H" n="179" break="no"/>lium virtute Spiritus Sancti, ut subjecta testimonia ostendunt, 
-      Jo<lb ed="#H" n="180" break="no"/>nan. 6, vers. 37. Quicquid dat mahi Pater, ad int vinict. Et v. 44. <quote source="http://scta.info/resource/io6_44@1-12">Nime
+      Jo<lb ed="#H" n="180" break="no"/>nan. 6, vers. 37. Quicquid dat mahi Pater, ad int vinict. Et v. 44. <quote xml:id="yyy8Uu-gxd746-Qd1e700" source="http://scta.info/resource/io6_44@1-12">Nime
       <!--cod-MkL9py-0481.xml-->
       <pb ed="#H" n="454"/>
                <cb ed="#H" n="a"/>
                <lb ed="#H" n="1"/>potest venire ad me, nisi Pater, qui misit me, traxerit eum.</quote> I. Corinth. 1. 
       <lb ed="#H" n="2"/>v. 9. Fidelis est Deus per quem vocati estis in communionem Filii ipsius 
-      <lb ed="#H" n="3"/>Iesu Christi Domini nostri. Joh. 14. 23. <quote source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem
+      <lb ed="#H" n="3"/>Iesu Christi Domini nostri. Joh. 14. 23. <quote xml:id="yyy8Uu-gxd746-Qd1e716" source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem
       <lb ed="#H" n="4"/>meum servabit, &amp; Pater meus diliget eum, &amp; ad eum veniemus &amp; mam
       <lb ed="#H" n="5"/>sionem apud cum faciemus.</quote> Rom. 8. v. 9. Vos autem non estis in carnes 
       <lb ed="#H" n="6"/>sed in Spiritu: siquidem Spiritus Dei habitat in vobis. Quod si quis 
@@ -357,7 +353,7 @@
                <lb ed="#H" n="8"/>
                <pc type="indent"/>Denique in extremo die Pater per Filium virtute ejusdem Spiritu 
       <lb ed="#H" n="9"/>Sancti Christo uniet electos in gloria: Sicut Paulus docet Rom. 8. v. 
-      <lb ed="#H" n="10"/>I1. <quote source="http://scta.info/resource/rom8_11@1-29">Si Spiritus eius qui suscitavit Iesum ex mortuis habitat in vobis:
+      <lb ed="#H" n="10"/>I1. <quote xml:id="yyy8Uu-gxd746-Qd1e738" source="http://scta.info/resource/rom8_11@1-29">Si Spiritus eius qui suscitavit Iesum ex mortuis habitat in vobis:
       <lb ed="#H" n="11"/>qui excitavit Christum ex mortuis, vivificabit etiam mortalia corpora
       <lb ed="#H" n="12"/>vestra per inhabitantem ipsius Spiritum in vobis.</quote> 
     </p>
@@ -369,17 +365,17 @@
       qualiscun<lb ed="#H" n="16" break="no"/>que fides nos cum Christo conjungit, sed fides per charitatem 
       <lb ed="#H" n="17"/>efficax. Nam quod ad primam unionem attinet, dicit 
       E<lb ed="#H" n="18" break="no"/>sisabetha mater Johannis Baptistae ad Mariam matrem Christ 
-      <lb ed="#H" n="19"/>Luc. 1. 45. <quote source="http://scta.info/resource/lc1_45@1-13">Beata est, quae credidit: nam perficientur ea quae dicta sunt
+      <lb ed="#H" n="19"/>Luc. 1. 45. <quote xml:id="yyy8Uu-gxd746-Qd1e766" source="http://scta.info/resource/lc1_45@1-13">Beata est, quae credidit: nam perficientur ea quae dicta sunt
       eta<lb ed="#H" n="20" break="no"/>Domino.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd746-d1e721">
                <lb ed="#H" n="21"/>
                <pc type="indent"/>De fide secundae unionis instrumentali causa legitur Gal. 2. 20. 
-      <lb ed="#H" n="22"/><quote source="http://scta.info/resource/gal2_20@6-30">Vivit in me Christus: &amp; vitam quam nunc vivo in carne, vivo per
+      <lb ed="#H" n="22"/><quote xml:id="yyy8Uu-gxd746-Qd1e779" source="http://scta.info/resource/gal2_20@6-30">Vivit in me Christus: &amp; vitam quam nunc vivo in carne, vivo per
       fi<lb ed="#H" n="23" break="no"/>dem illam Filii Dei qui dilexit me &amp; tradidit semetipsum pro me.</quote> Et 
       <lb ed="#H" n="24"/>Ephes 3. 17. Et inhabitet Christus per sidem in cordibus vestris. De 
       <lb ed="#H" n="25"/>charitate sincera erga Christum, qua illi spiritaliter conjungimur, 
-      le<lb ed="#H" n="26" break="no"/>gitur Joh. 14. 23. <quote source="http://scta.info/resource/io14_23@6-26">Si, quis diligit me, sermonem meum servabit, &amp; Pater.
+      le<lb ed="#H" n="26" break="no"/>gitur Joh. 14. 23. <quote xml:id="yyy8Uu-gxd746-Qd1e791" source="http://scta.info/resource/io14_23@6-26">Si, quis diligit me, sermonem meum servabit, &amp; Pater.
       <lb ed="#H" n="27"/>meus diliget eum, &amp; ad eum veniemus, &amp; apud eum habitabimus.</quote>
       Vi<lb ed="#H" n="28" break="no"/>deatur Cyrillus lib. 10 in Johannem, c 15 
     </p>
@@ -398,13 +394,13 @@
       <lb ed="#H" n="36"/>4. v. 4, 5. Postquam venit plenum tempus, emisit Deus Filium suum 
       <lb ed="#H" n="37"/>actum ex muliere. factum Legi subiectum: Vt eos qui Legi erant subie. 
       <lb ed="#H" n="38"/>cti redimeret, ut adoptionem acciperemus. Et peccata nostra expiaret,  
-      <lb ed="#H" n="39"/>Heb. 10. vers 4, 5. <quote source="http://scta.info/resource/hebr10_4@1-9 http://scta.info/resource/hebr10_5@1-12">Non enim potest sanguis taurorum &amp; hircorum
+      <lb ed="#H" n="39"/>Heb. 10. vers 4, 5. <quote xml:id="yyy8Uu-gxd746-Qd1e832" source="http://scta.info/resource/hebr10_4@1-9 http://scta.info/resource/hebr10_5@1-12">Non enim potest sanguis taurorum &amp; hircorum
       au<lb ed="#H" n="40" break="no"/>ferre peccata. Quapropter ingrediens mundum dicit, Sacrificium &amp;
       ob<lb ed="#H" n="41" break="no"/>lationem noluisti, corpus autem adaptasti mihi:</quote> Et de corpore illo mox
-      <lb ed="#H" n="42"/>dicit v. 10. <quote source="http://scta.info/resource/hebr10_10@1-12">Qua uoluntate sanctificati sumus, per oblationem corporus
+      <lb ed="#H" n="42"/>dicit v. 10. <quote xml:id="yyy8Uu-gxd746-Qd1e841" source="http://scta.info/resource/hebr10_10@1-12">Qua uoluntate sanctificati sumus, per oblationem corporus
       <lb ed="#H" n="43"/>Iesu Christi semel factam</quote> 
       <lb ed="#H" n="44"/>Secunda autem unio fit, ut perfectissimae impletionis Legis &amp; 
-      ex<lb ed="#H" n="45" break="no"/>piationis peccatorum nostrorum participes fiamus, 1. Joh. 1. vers. 7 <quote source="http://scta.info/resource/Iio1_7@1-25">
+      ex<lb ed="#H" n="45" break="no"/>piationis peccatorum nostrorum participes fiamus, 1. Joh. 1. vers. 7 <quote xml:id="yyy8Uu-gxd746-Qd1e851" source="http://scta.info/resource/Iio1_7@1-25">
       <lb ed="#H" n="46"/>Quod si in luce ambulamus, sicut ipse est in luce, communicationem
       ha<lb ed="#H" n="47" break="no"/>bemus cum eo mutuam; &amp; sanguis Iesu Christi Filii eius purificat nos
       <lb ed="#H" n="48"/>ab omni peccato.</quote> 
@@ -413,7 +409,7 @@
                <lb ed="#H" n="49"/>
                <pc type="indent"/>Tertia unio fiet ad hunc finem, ut gloriam Christi spectemus, e 
       <lb ed="#H" n="50"/>usque participes fiamus, sicut Christus ipse a Patre petit Joh. 17. 24. 
-      <lb ed="#H" n="51"/><quote source="http://scta.info/resource/io17_24@1-20">Pater quos dedisti mihi, velim ut ubi sum ego, &amp; illi sint mecum. Vt
+      <lb ed="#H" n="51"/><quote xml:id="yyy8Uu-gxd746-Qd1e870" source="http://scta.info/resource/io17_24@1-20">Pater quos dedisti mihi, velim ut ubi sum ego, &amp; illi sint mecum. Vt
       spo<lb ed="#H" n="52" break="no"/>ctent gloriam illam meam, quam dedisti mihi ante iactum mundi
       <lb ed="#H" n="53"/>fundamentum</quote>
     </p>
@@ -438,7 +434,7 @@
       <lb ed="#H" n="67"/>nec unquam illam deseret. Deinde unio Christi cum Ecclesia in gratiae 
       <lb ed="#H" n="68"/>adeo est arcta, ut nonnunquam Christi nomine non tantum Christus 
       <lb ed="#H" n="69"/>Caput nostrum, sed etiam corpus ejus mysticum, quod est Ecclesia 
-      <lb ed="#H" n="70"/>intelligatur: velut 1. Cor. 12. v. 12. ubi Apostolus ait: <quote source="http://scta.info/resource/Icor12_12@1-22">Sicut enim
+      <lb ed="#H" n="70"/>intelligatur: velut 1. Cor. 12. v. 12. ubi Apostolus ait: <quote xml:id="yyy8Uu-gxd746-Qd1e925" source="http://scta.info/resource/Icor12_12@1-22">Sicut enim
       cor<lb ed="#H" n="71" break="no"/>pus unum est, &amp; membra habet multa, omnia vero illa membra
       corpo<lb ed="#H" n="72" break="no"/>ris quod unicum est, multa sunt, sed unum sunt corpus: ita &amp; Christus.</quote>
       <lb ed="#H" n="73"/>Hic enim intelligitur Christus mysticus, id est, Christus cum sua 
@@ -485,7 +481,7 @@
       <lb ed="#H" n="100"/>divinam &amp; humanam. 
       <lb ed="#H" n="101"/>Communio cum Christo secundum divinam naturam, est quod 
       i<lb ed="#H" n="102" break="no"/>pse sua Deitate reipsa in nobis habitat &amp; nos sibi conformes reddit.  
-      <lb ed="#H" n="103"/>2. Pet. 1. 4. <quote source="http://scta.info/resource/IIpetr1_4@3-23">Maxima illa nobis ac pretiosa promissa donavit, ut per haec
+      <lb ed="#H" n="103"/>2. Pet. 1. 4. <quote xml:id="yyy8Uu-gxd746-Qd1e1023" source="http://scta.info/resource/IIpetr1_4@3-23">Maxima illa nobis ac pretiosa promissa donavit, ut per haec
       <lb ed="#H" n="104"/>ifficeremini divinae consortes naturae, elapsi ex corruptione, quae est in
       <lb ed="#H" n="105"/>mundo per cupiditatem.</quote> Joh. 14. 23. 
     </p>
@@ -509,7 +505,7 @@
             <p xml:id="yyy8Uu-gxd746-d1e994">
                <lb ed="#H" n="117"/>
                <pc type="indent"/>II. In participatione Spiritus. I. Cor. 6. v. 17. Qui agglutinatur 
-      <lb ed="#H" n="118"/>Domino, unus cum eo Spiritus est, &amp; cap. 12. v. 13. 1. Joh. 3. 24. &amp; 4. v. 13: <quote source="http://scta.info/resource/Iio4_13@1-17">
+      <lb ed="#H" n="118"/>Domino, unus cum eo Spiritus est, &amp; cap. 12. v. 13. 1. Joh. 3. 24. &amp; 4. v. 13: <quote xml:id="yyy8Uu-gxd746-Qd1e1074" source="http://scta.info/resource/Iio4_13@1-17">
       <lb ed="#H" n="119"/>Per hoc cognoscimus nos in eo habitare, &amp; ipsum in nobis, quod de
       Spiri<lb ed="#H" n="120" break="no"/>tu suo dedit nobis.</quote> Rom. 8. 11. Eph. 4. v. 4. 
     </p>
@@ -542,9 +538,9 @@
                <lb ed="#H" n="137"/>
                <pc type="indent"/>Porro unio cum Christo contingit solis &amp; omnibus electis ac 
       <lb ed="#H" n="138"/>credentibus inde ab initio usque ad finem mundi, I. Johan. 3. v. 2.
-      <lb ed="#H" n="139"/><quote source="http://scta.info/resource/Iio3_24@1-25">Nam qui servat eius mandata, in eo habitat &amp; ipse in eo, &amp; per noc
+      <lb ed="#H" n="139"/><quote xml:id="yyy8Uu-gxd746-Qd1e1140" source="http://scta.info/resource/Iio3_24@1-25">Nam qui servat eius mandata, in eo habitat &amp; ipse in eo, &amp; per noc
       no<lb ed="#H" n="140" break="no"/>vimus, eum habitare in nobis, nempe ex Spiritu quem nobis dedit.</quote>  
-      <lb ed="#H" n="141"/>I. Johan. 4. 13. Johan. 14. 23. <quote source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem meum
+      <lb ed="#H" n="141"/>I. Johan. 4. 13. Johan. 14. 23. <quote xml:id="yyy8Uu-gxd746-Qd1e1148" source="http://scta.info/resource/io14_23@6-26">Si quis diligit me, sermonem meum
       ser<lb ed="#H" n="142" break="no"/>vabit: &amp; Pater meus diliget eum, &amp; ad eum veniemus, &amp; apud eum
       <lb ed="#H" n="143"/>manebimus</quote> Et cap. 15. vers. 1, 2, 3. 4, 5, 6. Proinde soli vere fideles sunt 
       <lb ed="#H" n="144"/>nembra Christi: idque non quatenus homines, sed quatenus 

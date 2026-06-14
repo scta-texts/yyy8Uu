@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -73,22 +69,22 @@
       cae<lb ed="#H" n="106" break="no"/>lo in corda electorum, &amp; docens Ecclesiam per ministros novi 
       foede<lb ed="#H" n="107" break="no"/>ris: intercedens pro nobis apud Patrem: regnans denique &amp; judicium 
       <lb ed="#H" n="108"/>xercens nomine Patris in toto mundo, atque in-primis in 
-      universa<lb ed="#H" n="109" break="no"/>Ecclesia. Ephes. 1. v. 20. &amp; sequentibus <quote source="http://scta.info/resource/eph1_20@4-16 http://scta.info/resource/eph1_21@1-23 http://scta.info/resource/eph1_22@1-13">Pater ille gloriae suscitavit
+      universa<lb ed="#H" n="109" break="no"/>Ecclesia. Ephes. 1. v. 20. &amp; sequentibus <quote xml:id="yyy8Uu-gxd269-Qd1e137" source="http://scta.info/resource/eph1_20@4-16 http://scta.info/resource/eph1_21@1-23 http://scta.info/resource/eph1_22@1-13">Pater ille gloriae suscitavit
       Chri<lb ed="#H" n="110" break="no"/>stum ex mortuis, &amp; collocavit ad dextram suam in caelis, Longe supra
       <lb ed="#H" n="111"/>omne imperium, ac potestatem, &amp; potentiam, &amp; dominationem, &amp; omne
       <lb ed="#H" n="112"/>nomen quod nominatur non solum in hoc seculo, verum etiam in futuros
       <lb ed="#H" n="113"/>Et omnia subjecit ejus pedibus, eumque constituit Caput super omnia
       Ec<lb ed="#H" n="114" break="no"/>clesiae, Quae est corpus ipsius, &amp; complementum eius, qui omnia implet in
-      <lb ed="#H" n="115"/>omnibus.</quote> Et cap. 4. v. 11. <quote source="http://scta.info/resource/eph4_11@1-17">Is igitur dedit alios quidem, Apostolos, alios
+      <lb ed="#H" n="115"/>omnibus.</quote> Et cap. 4. v. 11. <quote xml:id="yyy8Uu-gxd269-Qd1e153" source="http://scta.info/resource/eph4_11@1-17">Is igitur dedit alios quidem, Apostolos, alios
       ve<lb ed="#H" n="116" break="no"/>ro, Prophetas, alios autem, Evangelistas, alios autem Pastores &amp;
-      Docto<lb ed="#H" n="117" break="no"/>res, &amp;c.</quote> Roman 8 34. <quote source="http://scta.info/resource/rom8_34@1-23">Quis est qui condemnet? Christus is est qui
+      Docto<lb ed="#H" n="117" break="no"/>res, &amp;c.</quote> Roman 8 34. <quote xml:id="yyy8Uu-gxd269-Qd1e160" source="http://scta.info/resource/rom8_34@1-23">Quis est qui condemnet? Christus is est qui
       mortu<lb ed="#H" n="118" break="no"/>us est, imo vero qui etiam suscitatus est; qui etiam est ad dextram Dei:
       <lb ed="#H" n="119"/>qui etiam interpellat pro nobis.</quote> 1. Cor. 15. v. 25. 26. 27. Oportet eum rego 
       <lb ed="#H" n="120"/>nare, usquequo omnes inimicos subiecerit pedibus ejus. Uitimus autem 
       <lb ed="#H" n="121"/>hostis aboletur mors. Nam omnia subjecit sub pedes eius. Quum autem 
       <lb ed="#H" n="122"/>dicit omnia esse ei subjecta, palam est hoc dici excepto eo, qui subjecit ei 
-      o<lb ed="#H" n="123" break="no"/>mnia. 1. Petr. 3. 22. <quote source="http://scta.info/resource/Ipetr3_22@1-15">Qui est ad dextram Dei profectus in caelum, subjectis
-      <lb ed="#H" n="124"/>ipsi Angelis &amp; potestatibus ac virtutibus.</quote> Matth. 28. 18. <quote source="http://scta.info/resource/mt28_18@8-17">Data est mihi
+      o<lb ed="#H" n="123" break="no"/>mnia. 1. Petr. 3. 22. <quote xml:id="yyy8Uu-gxd269-Qd1e176" source="http://scta.info/resource/Ipetr3_22@1-15">Qui est ad dextram Dei profectus in caelum, subjectis
+      <lb ed="#H" n="124"/>ipsi Angelis &amp; potestatibus ac virtutibus.</quote> Matth. 28. 18. <quote xml:id="yyy8Uu-gxd269-Qd1e181" source="http://scta.info/resource/mt28_18@8-17">Data est mihi
       <lb ed="#H" n="125"/>omnis potestas in caelo &amp; in terra.</quote> Apocal.3 v. 7. Sanctus &amp; verax ille, qui  
       <lb ed="#H" n="126"/>habet clavem Davidis, qui aperit, &amp; nemo claudit: claudit, &amp; nemo 
       a<lb ed="#H" n="127" break="no"/>perit. Clavis Davidis est potestas omnis gubernationis, jubendo &amp; 
@@ -102,11 +98,11 @@
                <lb ed="#H" n="133"/>
                <pc type="indent"/>Praedicta fuit Psal. 2. vers 6. Atqui ego inungens regem meum 
       praefeci<lb ed="#H" n="134" break="no"/>Tzioni monti sanctitatis meae. Hoc enim de Davide ut typo, de 
-      Chri<lb ed="#H" n="135" break="no"/>sto autem ut de veritate typi dicitur Psal. 110. v. 1. <quote source="http://scta.info/resource/ps109_1@3-17">Dixit Iehova
+      Chri<lb ed="#H" n="135" break="no"/>sto autem ut de veritate typi dicitur Psal. 110. v. 1. <quote xml:id="yyy8Uu-gxd269-Qd1e212" source="http://scta.info/resource/ps109_1@3-17">Dixit Iehova
       Domi<lb ed="#H" n="136" break="no"/>to meo, Sede ad dextram meam, donec disposuero inimicos tuos in
-      scabel<lb ed="#H" n="137" break="no"/>lum pedum tuorum:</quote> &amp; v. 2. <quote source="http://scta.info/resource/ps109_2@8-12">Dominare in medio inimicorum tuorum,</quote> &amp; v. 
+      scabel<lb ed="#H" n="137" break="no"/>lum pedum tuorum:</quote> &amp; v. 2. <quote xml:id="yyy8Uu-gxd269-Qd1e220" source="http://scta.info/resource/ps109_2@8-12">Dominare in medio inimicorum tuorum,</quote> &amp; v. 
       <lb ed="#H" n="138"/>5. Dominus, qui sedet ad dextram tuam, frangens die irae suae reges. 
-      Dan<lb ed="#H" n="139" break="no"/>2. 44. <quote source="http://scta.info/resource/dan2_44@1-32">Temporibus autem Regum istorum suscitabit Deus caeli regnum,
+      Dan<lb ed="#H" n="139" break="no"/>2. 44. <quote xml:id="yyy8Uu-gxd269-Qd1e227" source="http://scta.info/resource/dan2_44@1-32">Temporibus autem Regum istorum suscitabit Deus caeli regnum,
       <lb ed="#H" n="140"/>quod in sacula non destruetur, &amp; regnum ipsum populo alieno non
       relin<lb ed="#H" n="141" break="no"/>quetur, comminuturum &amp; consumturum omnia illa regna, ipsum autem
       <lb ed="#H" n="142"/>staturum in sacula.</quote> Item cap. 7. v. 14. Huic datus est dominatus, gloriaque 
@@ -120,7 +116,7 @@
             <p xml:id="yyy8Uu-gxd269-d1e230">
                <lb ed="#H" n="149"/>
                <pc type="indent"/>Causa efficiens sessionis Christi ad dextram Dei Patris est ipsemet 
-      <lb ed="#H" n="150"/>Deus Pater, ut testatur Petrus Actor. 2. v. 29. 30. <quote source="http://scta.info/resource/act2_29@1-27 http://scta.info/resource/act2_30@1-19">Viri fratres, licet libere
+      <lb ed="#H" n="150"/>Deus Pater, ut testatur Petrus Actor. 2. v. 29. 30. <quote xml:id="yyy8Uu-gxd269-Qd1e258" source="http://scta.info/resource/act2_29@1-27 http://scta.info/resource/act2_30@1-19">Viri fratres, licet libere
       <lb ed="#H" n="151"/>dicere apud vos de Patriarcha Davide, eum &amp; obiisse &amp; sepultum est
       <lb ed="#H" n="152"/>&amp; monimentum eius esse apud nos, ad hunc usque diem, Propheta igitur
       <lb ed="#H" n="153"/>cum esset, &amp; sciret Deum jurejurando sibi iurasse, fore ut ex fructu lum,
@@ -128,7 +124,7 @@
       collo<lb ed="#H" n="155" break="no"/>caret super eius throno.</quote> Et. vers. 36. Certo sciat ergo tota domus Israelis, 
       <lb ed="#H" n="156"/>quod Deus hunc fecerit Dominum &amp; Christum, hunc ipsum, inquom, 
       <lb ed="#H" n="157"/>Iesum, quem vos crucisixistis. Et cap. 5. vers. 30. 31. Deus ille Patrum 
-      no<lb ed="#H" n="158" break="no"/>strorum <quote source="http://scta.info/resource/act5_30@1-11 http://scta.info/resource/act5_31@1-8">suscitavit Iesum, quem vos interfecistis suspensum in ligno. Hunc
+      no<lb ed="#H" n="158" break="no"/>strorum <quote xml:id="yyy8Uu-gxd269-Qd1e278" source="http://scta.info/resource/act5_30@1-11 http://scta.info/resource/act5_31@1-8">suscitavit Iesum, quem vos interfecistis suspensum in ligno. Hunc
       <lb ed="#H" n="159"/>Deus dexteram sua sursum sublatum constituit Principem ac
       Servato<lb ed="#H" n="160" break="no"/>rem.</quote> Idem Apostolus Paulus docet Ephes. 1. v. 20 &amp; sequentibus. 
     </p>
@@ -165,7 +161,7 @@
       M<lb ed="#H" n="8" break="no"/>RITUM, claritas humilitatis est praemium. Vigilius libro quinto 
       con<lb ed="#H" n="9" break="no"/>tra Eutychen: An forte negabunt Domino Iesu Christo ob meritum 
       <lb ed="#H" n="10"/>passionis &amp; mortis, haec omnia fuisse collata? legant Apostolum 
-      dicen<lb ed="#H" n="11" break="no"/>tem de ipso: <quote source="http://scta.info/resource/phil2_8@1-11 http://scta.info/resource/phil2_9@1-13 http://scta.info/resource/phil2_10@1-12">Humiliavit seipsum factus obediens usque ad mortem,
+      dicen<lb ed="#H" n="11" break="no"/>tem de ipso: <quote xml:id="yyy8Uu-gxd269-Qd1e358" source="http://scta.info/resource/phil2_8@1-11 http://scta.info/resource/phil2_9@1-13 http://scta.info/resource/phil2_10@1-12">Humiliavit seipsum factus obediens usque ad mortem,
       mor<lb ed="#H" n="12" break="no"/>tem autem crucis, propter quod &amp; Deus illum exaltavit, &amp; donavit
       illi<lb ed="#H" n="13" break="no"/>nomon quod est super omne nomen, ut in nomine Iesu omne genu
       flecta<lb ed="#H" n="14" break="no"/>tur caelestium, terrestrium &amp; infernorum.</quote> Et paulo post: Persequamur 
@@ -182,12 +178,12 @@
       <lb ed="#H" n="22"/>sibi meruerit corporis gloriam &amp; nominis exaltationem; ac 
       proin<lb ed="#H" n="23" break="no"/>de honorem sessionis ad dexteram Dei Patris: &amp; suam opinionem 
       <lb ed="#H" n="24"/>confirmare conantur ex eo quod Paulus scribit Philipp. 2. v. 5. &amp; 
-      se<lb ed="#H" n="25" break="no"/>quentibus. <quote source="http://scta.info/resource/phil2_5@1-10 http://scta.info/resource/phil2_6@1-14 http://scta.info/resource/phil2_7@1-16 http://scta.info/resource/phil2_8@1-11 http://scta.info/resource/phil2_9@1-13">Is sit affectus in vobis, qui fuit &amp; in Christo Iesu: Qui quum
+      se<lb ed="#H" n="25" break="no"/>quentibus. <quote xml:id="yyy8Uu-gxd269-Qd1e396" source="http://scta.info/resource/phil2_5@1-10 http://scta.info/resource/phil2_6@1-14 http://scta.info/resource/phil2_7@1-16 http://scta.info/resource/phil2_8@1-11 http://scta.info/resource/phil2_9@1-13">Is sit affectus in vobis, qui fuit &amp; in Christo Iesu: Qui quum
       <lb ed="#H" n="26"/>esset in forma Dei, non duxit rapinam, aequalem esse Deo: Sed ipse sese
       <lb ed="#H" n="27"/>inanivit, forma servi accepta, similis hominibus factus: Et habitusr
       <lb ed="#H" n="28"/>compertus ut homo, ipse se submisit, factus obediens usque ad mortem
       <lb ed="#H" n="29"/>mortem autem crucis, Propter quod &amp; Deus exaltavit illum, &amp; dedit.
-      <lb ed="#H" n="30"/>illi nomen, &amp;c.</quote> Et Heb. 2. v. 9. <quote source="http://scta.info/resource/hebr2_9@9-17">Videmus Iesum propter perpessionem
+      <lb ed="#H" n="30"/>illi nomen, &amp;c.</quote> Et Heb. 2. v. 9. <quote xml:id="yyy8Uu-gxd269-Qd1e409" source="http://scta.info/resource/hebr2_9@9-17">Videmus Iesum propter perpessionem
       <lb ed="#H" n="31"/>mortis gloria &amp; honore coronatum.</quote> Utrobique (ait Bellarminus libr. D 
       <lb ed="#H" n="32"/>quinto de Christo, cap. nono) habetur particula, propter, quae parti 
       <lb ed="#H" n="33"/>cula causam ubique significare solet. Deinde particula, &amp;, in illis 
@@ -241,16 +237,16 @@
       ve<lb ed="#H" n="69" break="no"/>propter suae humanitatis gloriam, sed propter nos homines &amp; propter 
       <lb ed="#H" n="70"/>nostram salutem descendit de caelis, &amp; homo factus est; 
       quemadmo<lb ed="#H" n="71" break="no"/>dum in Symbolo Niceno profitemur secundum Scripturas, Jes. 9. v.
-      <lb ed="#H" n="72"/>6. <quote source="http://scta.info/resource/is9_6@1-9">Puer natus est nobis, Filius datus est nobis,</quote> Lach. 9. v. 9. Exsulta 
+      <lb ed="#H" n="72"/>6. <quote xml:id="yyy8Uu-gxd269-Qd1e523" source="http://scta.info/resource/is9_6@1-9">Puer natus est nobis, Filius datus est nobis,</quote> Lach. 9. v. 9. Exsulta 
       val<lb ed="#H" n="73" break="no"/>de filea TEijonis, clange silia Ierosolymorum, Ecce Rex tuus advenit 
       ti<lb ed="#H" n="74" break="no"/>bi, justus &amp; salute praeditus est Matth. 20. v. 28. Filius hominis non 
       vo<lb ed="#H" n="75" break="no"/>nit, ut sibi ministraretur, sed ut ministraret, daretque animam suam in 
       <lb ed="#H" n="76"/>redemtionis pretium pro multis. Luc. 2. v. 10, &amp; 11. ait Angelus
-      pastori<lb ed="#H" n="77" break="no"/>bus, <quote source="http://scta.info/resource/lc2_10@5-16 http://scta.info/resource/lc2_11@1-13">Ne timete; ecce enim evangelixo vobis, gaudium magnii, quod
+      pastori<lb ed="#H" n="77" break="no"/>bus, <quote xml:id="yyy8Uu-gxd269-Qd1e537" source="http://scta.info/resource/lc2_10@5-16 http://scta.info/resource/lc2_11@1-13">Ne timete; ecce enim evangelixo vobis, gaudium magnii, quod
       eri<lb ed="#H" n="78" break="no"/>toti populo: nempe, natum esse VOBIS hodie Servatorem, qui est
       Chri<lb ed="#H" n="79" break="no"/>stus Dominus, in urbe Davidis.</quote> 2. Cor. 8. v. 9. Nostis beneficentia 
       Domi<lb ed="#H" n="80" break="no"/>ni nostri Iesu Christi, cum propter vos pauperem factum esse, quum esset 
-      <lb ed="#H" n="81"/>dives: ut vos illius paupertate ditesceretis, Gal. 4. v. 4. <quote source="http://scta.info/resource/gal4_4@1-15 http://scta.info/resource/gal4_5@1-11">Postquam venit.
+      <lb ed="#H" n="81"/>dives: ut vos illius paupertate ditesceretis, Gal. 4. v. 4. <quote xml:id="yyy8Uu-gxd269-Qd1e549" source="http://scta.info/resource/gal4_4@1-15 http://scta.info/resource/gal4_5@1-11">Postquam venit.
       <lb ed="#H" n="82"/>plenum tempus, emisit Deus Filium suum factum ex muliere, factum,
       <lb ed="#H" n="83"/>Logi subjectum: Vt eos qui Legi erant subiecti redimeret, ut adoptionem
       <lb ed="#H" n="84"/>acciperemus.</quote> Haec &amp; similia Scripturarum dicta docent perspicue, 
@@ -481,10 +477,10 @@
                <pc type="indent"/>Dei Patris. 
       <lb ed="#H" n="55"/>Sessionis Christi ad dextram Dei Patris fines &amp; usus sunt.  
       <lb ed="#H" n="56"/>I. Ut Christus sedens ad dextram Dei Patris semper interpellet pro 
-      <lb ed="#H" n="57"/>nobis Hebt. 8. 12. <quote source="http://scta.info/resource/hebr8_1@1-17 http://scta.info/resource/hebr8_2@1-11">Caeterum eorum quae dicimus haec summa est: Talem 
+      <lb ed="#H" n="57"/>nobis Hebt. 8. 12. <quote xml:id="yyy8Uu-gxd269-Qd1e1014" source="http://scta.info/resource/hebr8_1@1-17 http://scta.info/resource/hebr8_2@1-11">Caeterum eorum quae dicimus haec summa est: Talem 
       <lb ed="#H" n="58"/>nos habere Pontificem, qui consedit ad dextram throni majestatis illius 
       <lb ed="#H" n="59"/>in caelis, Sanctuarii minister, ac veri illius tabernaculi quod fixit 
-      Domi<lb ed="#H" n="60" break="no"/>nus, &amp; non homo.</quote> Et cap 9. vers 24. <quote source="http://scta.info/resource/hebr9_24@1-20">Non enim in manufactum 
+      Domi<lb ed="#H" n="60" break="no"/>nus, &amp; non homo.</quote> Et cap 9. vers 24. <quote xml:id="yyy8Uu-gxd269-Qd1e1023" source="http://scta.info/resource/hebr9_24@1-20">Non enim in manufactum 
       sacrari<lb ed="#H" n="61" break="no"/>um ingressus est Christus, quod sit exemplar vero sacrario respondens: sed  
       <lb ed="#H" n="62"/>in ipsum caelum, ut compareat nunc faciei Dei pro nobis.</quote>
     </p>
@@ -492,7 +488,7 @@
                <lb ed="#H" n="63"/>
                <pc type="indent"/>II. Ut potenter regnet in sua Ecclesia nomine Patris, in medio 
       ini<lb ed="#H" n="64" break="no"/>micorum suorum, &amp; nos sua potentia contra omnes hostes protegat, 
-      <lb ed="#H" n="65"/>&amp; defendat, Psal. 110. 2. <quote source="http://scta.info/resource/ps109_2@1-12">Scipionem robustum tuum emissurus est
+      <lb ed="#H" n="65"/>&amp; defendat, Psal. 110. 2. <quote xml:id="yyy8Uu-gxd269-Qd1e1041" source="http://scta.info/resource/ps109_2@1-12">Scipionem robustum tuum emissurus est
       Ieho<lb ed="#H" n="66" break="no"/>va Tzjono, dicens, dominare in medio inimicorum tuorum.</quote> Joh. 5 v. 27. 
       <lb ed="#H" n="67"/>Pater autoritatem ei dedit judicium exercendi, quatenus Filius hominis: 
       <lb ed="#H" n="68"/>est, id est, non tantum quatenus Deus, sed etiam humanae voluntatis 
@@ -642,7 +638,7 @@
       <lb ed="#H" n="165"/>Dei sedens. Actor. 3. v. 21. Quem oportet caelos excipere, usque ad 
       comple<lb ed="#H" n="166" break="no"/>mentum temporum omnium eorum quae loquutus est Deus per os 
       Prophe<lb ed="#H" n="167" break="no"/>carum sanctorum suorum qui a seculo fuerunt. Heb 1. v. 3. Sedit ad 
-      dex<lb ed="#H" n="168" break="no"/>tram maiestatis illius in locis excelsissimis. Actor. 7. 55. 56. <quote source="http://scta.info/resource/act7_55@1-31">Quum Ster
+      dex<lb ed="#H" n="168" break="no"/>tram maiestatis illius in locis excelsissimis. Actor. 7. 55. 56. <quote xml:id="yyy8Uu-gxd269-Qd1e1346" source="http://scta.info/resource/act7_55@1-31">Quum Ster
       <lb ed="#H" n="169"/>phanus esset plenus Sciritu Sancto, intentis in caelum oculis vidit glorium
       <lb ed="#H" n="170"/>Dei &amp; Iesum stantem ad dextram Dei. Et ait; Ecce, conspicio caelos
       aper<lb ed="#H" n="171" break="no"/>tos, &amp; Filium illum hominis adstantem ad dextram Dei.</quote> 
@@ -693,7 +689,7 @@
       <lb ed="#H" n="16"/>adscendit &amp; e coelo redibit, tali &amp; non alia sedet ad dexteram Dei 
       Pa<lb ed="#H" n="17" break="no"/>tris in coelo. Atqui carne visibili, finita &amp; circumscripta adscendit in 
       <lb ed="#H" n="18"/>coelum &amp; redibit e coelo, testantibus sunctis Angelis &amp; dicentibus ad 
-      <lb ed="#H" n="19"/>Apostolos, Actorum capite primo, versiculo undecimo: <quote source="http://scta.info/resource/act1_11@1-27">Viri Galilaei
+      <lb ed="#H" n="19"/>Apostolos, Actorum capite primo, versiculo undecimo: <quote xml:id="yyy8Uu-gxd269-Qd1e1453" source="http://scta.info/resource/act1_11@1-27">Viri Galilaei
       <lb ed="#H" n="20"/>quid statis intuentes in coelum? hic Iesus qui sursum recoptus est a vobis
       <lb ed="#H" n="21"/>in coelum, ita veniet, quemadmodum spectastis eum proficiscentem in
       <lb ed="#H" n="22"/>coelum</quote> Proinde etiam in carne visibili, finita &amp; circumscripta sedet ad 
@@ -716,7 +712,7 @@
       se<lb ed="#H" n="36" break="no"/>ipsum illis, quod vere, &amp; non per phantasiam resurrexerat, &amp; cum illis 
       <lb ed="#H" n="37"/>comedit &amp; bibit quadraginta perpetuos dies, &amp; ita cum carne 
       videnti<lb ed="#H" n="38" break="no"/>bus illis assumtus est ad illum qui miserat eum, cum ipsa carne 
-      ventu<lb ed="#H" n="39" break="no"/>rus iterum cum gloria &amp; potestate. Ajunt enim oracula: <quote source="http://scta.info/resource/act1_11@11-27">Hic IESVS
+      ventu<lb ed="#H" n="39" break="no"/>rus iterum cum gloria &amp; potestate. Ajunt enim oracula: <quote xml:id="yyy8Uu-gxd269-Qd1e1504" source="http://scta.info/resource/act1_11@11-27">Hic IESVS
       <lb ed="#H" n="40"/>qui assumtus est a vobis in coelum: sic veniet, quemadmodum
       vidi<lb ed="#H" n="41" break="no"/>stis illum euntem in coelum</quote>
     </p>
@@ -790,13 +786,13 @@
       <lb ed="#H" n="83"/>quuta est passionem, crucisixionem, mortem, sepulturam, 
       resurrecti<lb ed="#H" n="84" break="no"/>onem, adscensionem Christi in coelum: I. quia sic ordo 
       articulo<lb ed="#H" n="85" break="no"/>rum Symboli Apostolici docet, &amp; Scriptura Sacra confirmat, Mart 
-      <lb ed="#H" n="86"/>16.19. <quote source="http://scta.info/resource/mc16_19@1-16">Dominus igitur postquam locutus fuisset eis, sursum receptus est
+      <lb ed="#H" n="86"/>16.19. <quote xml:id="yyy8Uu-gxd269-Qd1e1651" source="http://scta.info/resource/mc16_19@1-16">Dominus igitur postquam locutus fuisset eis, sursum receptus est
       <lb ed="#H" n="87"/>in coelum, &amp; sedit ad dexteram Dei.</quote> Luc. 24. 26. Nemnne haec oportuita. 
       <lb ed="#H" n="88"/>pati Christum, &amp; iniroire in gloriam suam? Hebr. 1. vers. 3: purificatio 
       <lb ed="#H" n="89"/>ne peccatorum nostrorum per seipsum facta, sedit ad dextram majestatis 
       <lb ed="#H" n="90"/>illius in excelsissimis. Intuentes in fidet ducem ac consummatorem 
       Ie<lb ed="#H" n="91" break="no"/>sum, qui pro sebi proposito, gaudio sustinuit crucem, ignominia contemta, E 
-      <lb ed="#H" n="92"/>&amp; ad dextram throni Dei consedit. Act. 3. 1. 21. <quote source="http://scta.info/resource/apoc3_21@1-21">Qui vicerit, tribuam et 
+      <lb ed="#H" n="92"/>&amp; ad dextram throni Dei consedit. Act. 3. 1. 21. <quote xml:id="yyy8Uu-gxd269-Qd1e1667" source="http://scta.info/resource/apoc3_21@1-21">Qui vicerit, tribuam et 
       <!--cod-MkL9py-0454.xml-->
       <cb ed="#H" n="b"/>
                <lb ed="#H" n="93"/>ut sedeat mecum in throno meo, ut &amp; ego vici, &amp; sedeo cum Patre mei 
@@ -805,7 +801,7 @@
             <p xml:id="yyy8Uu-gxd269-d1e1614">
                <lb ed="#H" n="95"/>
                <pc type="indent"/>II. Quia diserte Scriptura negat, Christum glorificatum fuisse 
-      <lb ed="#H" n="96"/>ante passionem, mortem &amp; resurrectionem, Joh. 7. 39. <quote source="http://scta.info/resource/io7_39@1-20">Hoc autem
+      <lb ed="#H" n="96"/>ante passionem, mortem &amp; resurrectionem, Joh. 7. 39. <quote xml:id="yyy8Uu-gxd269-Qd1e1687" source="http://scta.info/resource/io7_39@1-20">Hoc autem
       di<lb ed="#H" n="97" break="no"/>rit de Sciritu illo, quem accepturi erant credentes in eum. Nondum
       e<lb ed="#H" n="98" break="no"/>nim erat Spiritus sanctus, quia Iesus NONBUM
       ERATGLORI<lb ed="#H" n="99" break="no"/>NICATUS.</quote> Quum autem fessio ad dextram Dei Patris sit gloria 
@@ -1013,9 +1009,9 @@
       <lb ed="#H" n="64"/>Christum commissae sibi administrationis possessionem solemniter 
       <lb ed="#H" n="65"/>adiisse, nec semel tantum adiisse, sed in ea perstare, &amp; perstiturum 
       et<lb ed="#H" n="66" break="no"/>iam quum veniet judicatum vivos &amp; mortuos; quemadmodum ipso 
-      <lb ed="#H" n="67"/>Pontifici Maximo &amp; Concilio ejus dixit Matth. 25. vers. 31. <quote source="http://scta.info/resource/mt25_31@1-19">Quum
+      <lb ed="#H" n="67"/>Pontifici Maximo &amp; Concilio ejus dixit Matth. 25. vers. 31. <quote xml:id="yyy8Uu-gxd269-Qd1e2114" source="http://scta.info/resource/mt25_31@1-19">Quum
       <lb ed="#H" n="68"/>autem venerit Filius hominis cum gloria sua, &amp; omnes sancti Angel
-      <lb ed="#H" n="69"/>cum eo, tunc sedebit in throno gloriae suae.</quote> Et cap. 26. vers. 64. <quote source="http://scta.info/resource/mt26_64@9-21">Ab
+      <lb ed="#H" n="69"/>cum eo, tunc sedebit in throno gloriae suae.</quote> Et cap. 26. vers. 64. <quote xml:id="yyy8Uu-gxd269-Qd1e2121" source="http://scta.info/resource/mt26_64@9-21">Ab
       ho<lb ed="#H" n="70" break="no"/>tempore videbitis Filium hominis sedentem ad dexteram potentia Dei.
       <lb ed="#H" n="71"/>&amp; venientem in nubibus coeli.</quote> Sessio igitur in hac phrasi non tam 
       si<lb ed="#H" n="72" break="no"/>tum corporis significat quam imperii majestatem, Quod autem 

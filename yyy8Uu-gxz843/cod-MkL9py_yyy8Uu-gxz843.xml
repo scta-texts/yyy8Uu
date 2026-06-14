@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -236,7 +232,7 @@
                <lb ed="#H" n="5"/>
                <pc type="indent"/>Primum est, docere intus veritatem Evangelii, eamque electis Dei 
       <lb ed="#H" n="6"/>patefacere plene &amp; sufficienter ad salutem aeternam. Hoc a Christo
-      <lb ed="#H" n="7"/>promissum fuit Joh. 16. 12, 13. his verbis: <quote source="http://scta.info/resource/io16_12@1-10 http://scta.info/resource/io16_13@1-21">Adhuc multa habeo quae
+      <lb ed="#H" n="7"/>promissum fuit Joh. 16. 12, 13. his verbis: <quote xml:id="yyy8Uu-gxz843-Qd1e454" source="http://scta.info/resource/io16_12@1-10 http://scta.info/resource/io16_13@1-21">Adhuc multa habeo quae
       vo<lb ed="#H" n="8" break="no"/>bis dicam, sed nunc non potestis portare. Quum autem venerit ille, id est;
       <lb ed="#H" n="9"/>Spiritus ille veritatis, introducetvos in omnem veritatem: non enim
       lo<lb ed="#H" n="10" break="no"/>quetur a semetipso, sed quaecunque audierit, loquetur</quote> 
@@ -249,7 +245,7 @@
       <lb ed="#H" n="14"/>vers. 13. Coloss. 1. v. 5. &amp; veritas, 2. Thess 2. v. 12. 1. Tim. 2. v. 4. Tit. 1. 
       <lb ed="#H" n="15"/>v. 1. &amp; passim. Ea plenissime revelata fuit Apostolis post missionem &amp; 
       <lb ed="#H" n="16"/>effusionem Spiritus Sancti e caelis in eos. Cum hoc videtur pugnare 
-      <lb ed="#H" n="17"/>quod Apostolus Paulus scribit I. Cor. 13. v. 8. &amp; seq q. <quote source="http://scta.info/resource/Icor13_8@1-12 http://scta.info/resource/Icor13_9@1-8 http://scta.info/resource/Icor13_10@1-11 http://scta.info/resource/Icor13_11@1-20 http://scta.info/resource/Icor13_12@1-22">Charitas
+      <lb ed="#H" n="17"/>quod Apostolus Paulus scribit I. Cor. 13. v. 8. &amp; seq q. <quote xml:id="yyy8Uu-gxz843-Qd1e483" source="http://scta.info/resource/Icor13_8@1-12 http://scta.info/resource/Icor13_9@1-8 http://scta.info/resource/Icor13_10@1-11 http://scta.info/resource/Icor13_11@1-20 http://scta.info/resource/Icor13_12@1-22">Charitas
       nun<lb ed="#H" n="18" break="no"/>quam excidit: sed &amp; Prophetiae evanescent, &amp; linguae cessabunt, &amp;
       co<lb ed="#H" n="19" break="no"/>nitio abolebitur. Ex parte enim cognoscimus, &amp; ex parte prophetamus
       <lb ed="#H" n="20"/>Postquam autem advenerit quod perfectum est, tunc quod est aliqua
@@ -367,21 +363,21 @@
       faci<lb ed="#H" n="100" break="no"/>quum indit novas qualitates, novas inclinationes cordibus 
       homi<lb ed="#H" n="101" break="no"/>num, hoc est, efficit in nobis resipiscentiam &amp; conversionem ad Deum 
       <lb ed="#H" n="102"/>&amp; virtutes utraque tabulam a Deo praeceptas: ut haec testimonia 
-      osten<lb ed="#H" n="103" break="no"/>dunt, Jch. 3. v. 5. <quote source="http://scta.info/resource/io3_5@7-20">Nisi quis renatus fuerit ex aqua &amp; spiritu, non potest.
+      osten<lb ed="#H" n="103" break="no"/>dunt, Jch. 3. v. 5. <quote xml:id="yyy8Uu-gxz843-Qd1e727" source="http://scta.info/resource/io3_5@7-20">Nisi quis renatus fuerit ex aqua &amp; spiritu, non potest.
       <lb ed="#H" n="104"/>ingredi in regnum Dei,</quote> Matth. 3. 11. Ego quidem baptixe vos aqua in 
       <lb ed="#H" n="105"/>resipiscentiam, is vero qui post me venit baptizabit vos Spiritu 
       San<lb ed="#H" n="106" break="no"/>sto &amp; igni. Hic baptismus, qui sit a Christo per Spiritum 
       San<lb ed="#H" n="107" break="no"/>ctum, est ipsa renovatio, eaque per externum baptismum Johannis &amp; 
       <lb ed="#H" n="108"/>aliorum ministrorum significata, Gal. 5. v. 22. Fructus Spiritus est 
       <lb ed="#H" n="109"/>churitas, gaudium, pax, irae cohibitio, benignitas, bonitas, fides, lenitas 
-      <lb ed="#H" n="110"/>continentia. Eph. 5. 9. <quote source="http://scta.info/resource/eph5_9@1-11">fructus Spiritus situs est in omni bonitate &amp;
+      <lb ed="#H" n="110"/>continentia. Eph. 5. 9. <quote xml:id="yyy8Uu-gxz843-Qd1e745" source="http://scta.info/resource/eph5_9@1-11">fructus Spiritus situs est in omni bonitate &amp;
       iu<lb ed="#H" n="111" break="no"/>stitia &amp; veritate</quote>
     </p>
             <p xml:id="yyy8Uu-gxz843-d1e745">
                <lb ed="#H" n="112"/>
                <pc type="indent"/>Sextum est, conjungere nos cum Christo, ut simus ejus membra, &amp; 
       <lb ed="#H" n="113"/>ab eo vivificemur, omniumque beneficiorum ejus sic fiamus 
-      partici<lb ed="#H" n="114" break="no"/>nes 1. Cor. 12. v. 13. <quote source="http://scta.info/resource/Icor12_13@1-11">Per unum Spiritum nos omnes in unum corpus
+      partici<lb ed="#H" n="114" break="no"/>nes 1. Cor. 12. v. 13. <quote xml:id="yyy8Uu-gxz843-Qd1e762" source="http://scta.info/resource/Icor12_13@1-11">Per unum Spiritum nos omnes in unum corpus
       ba<lb ed="#H" n="115" break="no"/>ptizati sumus.</quote> 1. Joh. 3. 24. Per hoc novimus, eum habitare in nobis. 
       <lb ed="#H" n="116"/>nempe ex Spiritu quem dedit nobis. 
     </p>
@@ -392,7 +388,7 @@
       <lb ed="#H" n="119"/>jecta, &amp; ad faciendum officia dilectionis erga Deum &amp; proximum 
       <lb ed="#H" n="120"/>Sub hoc continentur omnes virtutes Christianae, primae &amp; secunda 
       <lb ed="#H" n="121"/>tabulae, Rom. 8. 14. Qui Spiritu Dei ducuntur, hi sunt fitit Dei. Act. 2. 
-      <lb ed="#H" n="122"/>v. 4. <quote source="http://scta.info/resource/act2_4@8-17">Apostoli coeperunt loqui aliis linguis, prout Spiritus ille dabat eis
+      <lb ed="#H" n="122"/>v. 4. <quote xml:id="yyy8Uu-gxz843-Qd1e788" source="http://scta.info/resource/act2_4@8-17">Apostoli coeperunt loqui aliis linguis, prout Spiritus ille dabat eis
       e<lb ed="#H" n="123" break="no"/>loqui.</quote> Et c. 16. 6, 7. Phrygia peragrata&amp; Galatica regione, prohibiti sunt 
       <lb ed="#H" n="124"/>a Spiritu Sancto loqui sermonem Dei in Asia. Quum venissent in 
       My<lb ed="#H" n="125" break="no"/>siam, tentabant versus Bithyniam, sed non sivit eos ire Spiritus Iesus 
@@ -411,7 +407,7 @@
       <lb ed="#H" n="135"/>multis dubitationibus involuti: quod ostendit collatio concionis Petra 
       <lb ed="#H" n="136"/>in Pentecoste &amp; orationis euntium Emaunta, Luc. 24. 21. Nos aut 
       <lb ed="#H" n="137"/>sperabamus illum esse, qui redemturus esset Israelem, &amp;c. De hoc 
-      lo<lb ed="#H" n="138" break="no"/>quitur Christus Joh. 16. 22. <quote source="http://scta.info/resource/io16_22@13-22">Gaudebit cor vestrum, &amp; gaudium vestrum
+      lo<lb ed="#H" n="138" break="no"/>quitur Christus Joh. 16. 22. <quote xml:id="yyy8Uu-gxz843-Qd1e830" source="http://scta.info/resource/io16_22@13-22">Gaudebit cor vestrum, &amp; gaudium vestrum
       <lb ed="#H" n="139"/>nemo tollet a vobis.</quote> Joh. 14. v.16. Manebit vobiscum in aeternum 
     </p>
             <p xml:id="yyy8Uu-gxz843-d1e820">
@@ -478,7 +474,7 @@
     </p>
             <p xml:id="yyy8Uu-gxz843-d1e943">
                <lb ed="#H" n="181"/>
-               <pc type="indent"/>8. Olei latitiae, quia letos, alacres &amp; vegetos reddit: <quote source="http://scta.info/resource/ps44_8@6-16 http://scta.info/resource/hebr1_9@6-16">Propterra
+               <pc type="indent"/>8. Olei latitiae, quia letos, alacres &amp; vegetos reddit: <quote xml:id="yyy8Uu-gxz843-Qd1e965" source="http://scta.info/resource/ps44_8@6-16 http://scta.info/resource/hebr1_9@6-16">Propterra
       un<lb ed="#H" n="182" break="no"/>xit te Deus, Deus tuus, oleo laetitiae, prae cosortibstuis.</quote> Ps. 45. 8. Heb. 1. 9. 
       <!--cod-MkL9py-0480.xml-->
       <pb ed="#H" n="453"/>

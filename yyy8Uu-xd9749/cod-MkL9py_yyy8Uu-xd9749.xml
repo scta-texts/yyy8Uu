@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -105,7 +101,7 @@
                <pc type="indent"/>IV. Quia illorum imitatores esse debemus. Qui ergo non 
       di<lb ed="#H" n="155" break="no"/>ligamus eos, quorum exemplum continenter imitati debemus? 
       Sio<lb ed="#H" n="156" break="no"/>enim in Oratione Dominica quotidie precamur mandato Christi,. 
-      <lb ed="#H" n="157"/><quote source="http://scta.info/resource/mt6_10@4-12">Fiat uoluntas tua, sicut in coelo, sic etiam in terra</quote>¬
+      <lb ed="#H" n="157"/><quote xml:id="yyy8Uu-xd9749-Qd1e198" source="http://scta.info/resource/mt6_10@4-12">Fiat uoluntas tua, sicut in coelo, sic etiam in terra</quote>¬
     </p>
             <p xml:id="yyy8Uu-xd9749-d1e204">
                <lb ed="#H" n="158"/>

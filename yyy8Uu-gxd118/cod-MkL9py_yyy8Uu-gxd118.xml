@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -79,14 +75,14 @@
             <p xml:id="yyy8Uu-gxd118-d1e144">
                <lb ed="#H" n="122"/>
                <pc type="indent"/>Ea gratis a Deo nobis datur. I. Quia id testatur Scriptura
-      Sacra<lb ed="#H" n="123" break="no"/><quote source="http://scta.info/resource/rom6_23@5-14">Donum autem Dei est vita aterna in Christo Iesu Domino nostro.</quote>
+      Sacra<lb ed="#H" n="123" break="no"/><quote xml:id="yyy8Uu-gxd118-Qd1e147" source="http://scta.info/resource/rom6_23@5-14">Donum autem Dei est vita aterna in Christo Iesu Domino nostro.</quote>
       <lb ed="#H" n="124"/>Roman. 6. v. 23. 
     </p>
             <p xml:id="yyy8Uu-gxd118-d1e155">
                <lb ed="#H" n="125"/>
                <pc type="indent"/>II. Quia per gratiam Jesu Christi datur. Act. 15. v. 11. ait Petrus. 
       <lb ed="#H" n="126"/>Per gratiam Domini Iesu Christi credimus nos servatum iri. Ephes 
-      <lb ed="#H" n="127"/>2. v. 8-9. <quote source="http://scta.info/resource/eph2_8@1-15 http://scta.info/resource/eph2_9@1-7">Gratia estis servati per fidem: (&amp; hoc non est ex vobis: sed
+      <lb ed="#H" n="127"/>2. v. 8-9. <quote xml:id="yyy8Uu-gxd118-Qd1e163" source="http://scta.info/resource/eph2_8@1-15 http://scta.info/resource/eph2_9@1-7">Gratia estis servati per fidem: (&amp; hoc non est ex vobis: sed
       <lb ed="#H" n="128"/>Dei donum est:) Non ex operibus, ne quis glorietur</quote>
     </p>
             <p xml:id="yyy8Uu-gxd118-d1e169">

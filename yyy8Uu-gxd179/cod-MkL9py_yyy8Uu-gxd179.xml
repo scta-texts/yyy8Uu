@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -70,15 +66,15 @@
       <lb ed="#H" n="128"/>quos Deus ex innumerabili illa multitudine omnium 
       creatura<lb ed="#H" n="129" break="no"/>rum rationalium e naturali statu ipsarum vocavit ad supernaturalam 
       <lb ed="#H" n="130"/>statum &amp; gratiae gloriaeque communionem in Christo, 1. Cor. 1. v. 9.
-      <lb ed="#H" n="131"/><quote source="http://scta.info/resource/Icor1_9@1-14">Fidelis est Deus, per quem vocati estis in communionem Filij ipsius
-      <lb ed="#H" n="132"/>Iesu Christi Domini nostri.</quote> 1. Petr. 5. v. 10. <quote source="http://scta.info/resource/Ipetr5_10@1-20">Deus omnis gratiae autor,
+      <lb ed="#H" n="131"/><quote xml:id="yyy8Uu-gxd179-Qd1e128" source="http://scta.info/resource/Icor1_9@1-14">Fidelis est Deus, per quem vocati estis in communionem Filij ipsius
+      <lb ed="#H" n="132"/>Iesu Christi Domini nostri.</quote> 1. Petr. 5. v. 10. <quote xml:id="yyy8Uu-gxd179-Qd1e133" source="http://scta.info/resource/Ipetr5_10@1-20">Deus omnis gratiae autor,
       <lb ed="#H" n="133"/>qui vocavit vos ad aternam suam gloriam in Christo Iesu paulisper
-      <lb ed="#H" n="134"/>afflictos, is perficiat vos, stabiliat, roboret, fundet.</quote> 1. Johan. 1. v. 3. <quote source="http://scta.info/resource/Iio1_3@8-25">Vt &amp;
+      <lb ed="#H" n="134"/>afflictos, is perficiat vos, stabiliat, roboret, fundet.</quote> 1. Johan. 1. v. 3. <quote xml:id="yyy8Uu-gxd179-Qd1e140" source="http://scta.info/resource/Iio1_3@8-25">Vt &amp;
       <lb ed="#H" n="135"/>vos communionem habeatis nobiscum: &amp; communio nostra sit cum
       <lb ed="#H" n="136"/>Patre &amp; cum Filio ejus Iesu Christo.</quote> 1. Thess. 2. v. 12. Obtestabamur.  
       <lb ed="#H" n="137"/>ut incederetis sicut dignum est Deo vocante vos ad suum regnum 
       ad<lb ed="#H" n="138" break="no"/>gcloriam. Et cap. 4. v. 7. Non vocavit nos Deus ad impuritatem, sed ad 
-      <lb ed="#H" n="139"/>sanctificationem. 2. Thess. 2. v. 14. <quote source="http://scta.info/resource/IIth2_14@1-15">Quo vocavit vos per Evangelium
+      <lb ed="#H" n="139"/>sanctificationem. 2. Thess. 2. v. 14. <quote xml:id="yyy8Uu-gxd179-Qd1e154" source="http://scta.info/resource/IIth2_14@1-15">Quo vocavit vos per Evangelium
       <lb ed="#H" n="140"/>nostrum, ad obtinendam gloriam Domini nostri Iesu Christi.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd179-d1e153">
@@ -89,14 +85,14 @@
             <p xml:id="yyy8Uu-gxd179-d1e163">
                <lb ed="#H" n="143"/>
                <pc type="indent"/>Materia ejus est multitudo creaturarum rationalium, 
-      Angelo<lb ed="#H" n="144" break="no"/>rum &amp; hominum, Hebr. 2. v. 22, 23. <quote source="http://scta.info/resource/hebr12_22@1-16 http://scta.info/resource/hebr12_23@1-12">Accessistis ad montem Sion, &amp; ci¬
+      Angelo<lb ed="#H" n="144" break="no"/>rum &amp; hominum, Hebr. 2. v. 22, 23. <quote xml:id="yyy8Uu-gxd179-Qd1e178" source="http://scta.info/resource/hebr12_22@1-16 http://scta.info/resource/hebr12_23@1-12">Accessistis ad montem Sion, &amp; ci¬
       <!--cod-MkL9py-0547.xml-->
       <pb ed="#H" n="520"/>
                <cb ed="#H" n="a"/>
                <lb ed="#H" n="1"/>vitatem Dei vivi, Hierusalem coelestem, &amp; myriadas Angelorum,
       <lb ed="#H" n="2"/>Conventum universalem &amp; concionem primogenitorum qui
       conscri<lb ed="#H" n="3" break="no"/>pti sunt in coelis, &amp; judicem universorum Deum,</quote> &amp;c. 1. Petr. 1 v. 12. 
-      <lb ed="#H" n="4"/><quote source="http://scta.info/resource/Ipetr1_12@1-31">Quibus revelatum est, eos non sibi, sed nobis ea administrare quae nuno
+      <lb ed="#H" n="4"/><quote xml:id="yyy8Uu-gxd179-Qd1e195" source="http://scta.info/resource/Ipetr1_12@1-31">Quibus revelatum est, eos non sibi, sed nobis ea administrare quae nuno
       <lb ed="#H" n="5"/>annunciata sunt vobis per eos qui vobis praedicarunt Evangelium per
       <lb ed="#H" n="6"/>emissum e coelo Spiritum Sanctum, in quae desiderant Angeli
       intro<lb ed="#H" n="7" break="no"/>spicere.</quote> 

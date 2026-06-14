@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -78,7 +74,7 @@
                <pc type="indent"/>Libertatem religionis Christianae esse totius Ecclesiae Christia. 
       <lb ed="#H" n="139"/>nae, &amp; pendere a potestate mandatoque Christi, qui Dominus &amp; 
       Ca<lb ed="#H" n="140" break="no"/>put est Ecclesiae universae, testatur Christus quum ait Matth. 28. v. 18,
-      <lb ed="#H" n="141"/>19, 20. <quote source="http://scta.info/resource/mt28_18@8-17 http://scta.info/resource/mt28_19@1-15 http://scta.info/resource/mt28_20@1-7">Data est mihi omnis potestas in coelo &amp; terra: Profecti ergo
+      <lb ed="#H" n="141"/>19, 20. <quote xml:id="yyy8Uu-gxf269-Qd1e146" source="http://scta.info/resource/mt28_18@8-17 http://scta.info/resource/mt28_19@1-15 http://scta.info/resource/mt28_20@1-7">Data est mihi omnis potestas in coelo &amp; terra: Profecti ergo
       <lb ed="#H" n="142"/>docete omnes Gentes, baptizantes eos in nomen Patris &amp; Filij &amp;
       Spi<lb ed="#H" n="143" break="no"/>ritus Sancti: Docentes eos servare omnia quae mandavi vobis.</quote> Et
       Pe<lb ed="#H" n="144" break="no"/>trus Apostolus, Actor. 10. v. 42. ait de Christo, Mandavit nobis ut 

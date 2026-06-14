@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -129,13 +125,13 @@
       <!--cod-MkL9py-0569.xml-->
       <cb ed="#H" n="b"/>
                <lb ed="#H" n="93"/>&amp; dispensatoribus mysteriorum Dei. Hebr. 13. v. 18. Orate pro nobis 
-      <lb ed="#H" n="94"/>&amp;c. Act. 12. v. 5. <quote source="http://scta.info/resource/act12_5@2-17">Petrus igitur servabatur in custodia: preces autem
+      <lb ed="#H" n="94"/>&amp;c. Act. 12. v. 5. <quote xml:id="yyy8Uu-gxd021-Qd1e243" source="http://scta.info/resource/act12_5@2-17">Petrus igitur servabatur in custodia: preces autem
       <lb ed="#H" n="95"/>assiduae fiebant ab Ecclesia ad Deum pro ipso.</quote> Philipp. 2. v. 29. Excipi 
       <lb ed="#H" n="96"/>te igitur eum (Epaphroditum) in Domino cum omni gaudio: &amp; 
-      ta<lb ed="#H" n="97" break="no"/>les in pretio habete. 1. Corinth. 16. vers. 10, 13. <quote source="http://scta.info/resource/Icor16_10@1-18 http://scta.info/resource/Icor16_11@1-14">Quod si venerit
+      ta<lb ed="#H" n="97" break="no"/>les in pretio habete. 1. Corinth. 16. vers. 10, 13. <quote xml:id="yyy8Uu-gxd021-Qd1e252" source="http://scta.info/resource/Icor16_10@1-18 http://scta.info/resource/Icor16_11@1-14">Quod si venerit
       Timo<lb ed="#H" n="98" break="no"/>theus, videte ut tuto sit apud vos: opus enim Domini operatur ut &amp;
       <lb ed="#H" n="99"/>ego. Ne quis igitur illum pro nihilo habeat: sed prosequimini eum
-      <lb ed="#H" n="100"/>cum pace, ut veniat ad me.</quote> 1. Thess. 2. v. 19, 20. <quote source="http://scta.info/resource/Ith2_19@1-20 http://scta.info/resource/Ith2_20@1-7">Nam quae est nostra
+      <lb ed="#H" n="100"/>cum pace, ut veniat ad me.</quote> 1. Thess. 2. v. 19, 20. <quote xml:id="yyy8Uu-gxd021-Qd1e261" source="http://scta.info/resource/Ith2_19@1-20 http://scta.info/resource/Ith2_20@1-7">Nam quae est nostra
       <lb ed="#H" n="101"/>spes aut gaudium, aut corona de qua glorier? annon &amp; vos in
       conspe<lb ed="#H" n="102" break="no"/>ctu Domini nostri Iesu Christi in ejus adventu? Itaque vos estis gloria
       <lb ed="#H" n="103"/>&amp; gaudium.</quote>

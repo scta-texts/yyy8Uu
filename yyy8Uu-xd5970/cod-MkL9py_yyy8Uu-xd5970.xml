@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -136,17 +132,17 @@
             <p xml:id="yyy8Uu-xd5970-d1e253">
                <lb ed="#H" n="123"/>
                <pc type="indent"/>II. Quia compensatur a Deo abundanti benedictione 
-      et<lb ed="#H" n="124" break="no"/>iam facultatum corporalium, ut promittitur Proverb. 3. vers. 10. <quote source="http://scta.info/resource/prov3_10@1-9">Ita
+      et<lb ed="#H" n="124" break="no"/>iam facultatum corporalium, ut promittitur Proverb. 3. vers. 10. <quote xml:id="yyy8Uu-xd5970-Qd1e257" source="http://scta.info/resource/prov3_10@1-9">Ita
       <lb ed="#H" n="125"/>implebuntur horrea tua saturitate, &amp; musto lucus torcularii tui
       per<lb ed="#H" n="126" break="no"/>rumpent.</quote> 
     </p>
             <p xml:id="yyy8Uu-xd5970-d1e266">
                <lb ed="#H" n="127"/>
                <pc type="indent"/>III. Quia illius detrectatio aut negligens praestario affert 
-      detri<lb ed="#H" n="128" break="no"/>mentum rei familiari, Chagg. 1 v. 6. <quote source="http://scta.info/resource/ag1_6">Seritis multum, &amp;cot. tis parum
+      detri<lb ed="#H" n="128" break="no"/>mentum rei familiari, Chagg. 1 v. 6. <quote xml:id="yyy8Uu-xd5970-Qd1e273" source="http://scta.info/resource/ag1_6">Seritis multum, &amp;cot. tis parum
       <lb ed="#H" n="129"/>comeditis, minime vero ad suturitatem, bibitis sed minime ffitim:
       in<lb ed="#H" n="130" break="no"/>duimini, sed nemo ita ut sit calor ipsi: &amp; qui mercedem reporta: sibi,
-      mer<lb ed="#H" n="131" break="no"/>cedem reportat in loculum pertusum.</quote> Et v. 9, 10, 11. <quote source="http://scta.info/resource/ag1_9 http://scta.info/resource/ag1_10 http://scta.info/resource/ag1_11">Spectaris ad multa,
+      mer<lb ed="#H" n="131" break="no"/>cedem reportat in loculum pertusum.</quote> Et v. 9, 10, 11. <quote xml:id="yyy8Uu-xd5970-Qd1e282" source="http://scta.info/resource/ag1_9 http://scta.info/resource/ag1_10 http://scta.info/resource/ag1_11">Spectaris ad multa,
       <lb ed="#H" n="132"/>sed ecce ad pauca pervenitis, &amp; quod infertis domum, efflo illud:,uam
       <lb ed="#H" n="133"/>obrem dictum Iehovae exercituum, propterea quod domus mea est vasta,
       <lb ed="#H" n="134"/>&amp; vos excurritis quisque pro domo sua. Idcirco contra vos, cohibentur

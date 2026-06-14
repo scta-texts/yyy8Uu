@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -127,7 +123,7 @@
       ad<lb ed="#H" n="103" break="no"/>luctas: visibilis lupos multos habet in invisibilem nunquam 
       admit<lb ed="#H" n="104" break="no"/>tendos, sicut dicitur Roman. 9. v. 6, 7. Non omnes qui sunt ex patre 
       <lb ed="#H" n="105"/>Israele, sunt Israel. Neque quia sunt semen Abrahami, ideo omne 
-      <lb ed="#H" n="106"/>sunt filij. Et 1. Johan. 2. 19. <quote source="http://scta.info/resource/Iio2_19@1-26">E nobis egressi sunt, sed non erant ex nobis.
+      <lb ed="#H" n="106"/>sunt filij. Et 1. Johan. 2. 19. <quote xml:id="yyy8Uu-gxd569-Qd1e240" source="http://scta.info/resource/Iio2_19@1-26">E nobis egressi sunt, sed non erant ex nobis.
       <lb ed="#H" n="107"/>nam si fuissent ex nobis, mansissent utique nobiscum: sed egressi sunt ex
       <lb ed="#H" n="108"/>nobis, ut manifestum fieret non omnes esse ex nobis.</quote> Hoc est quod 
       di<lb ed="#H" n="109" break="no"/>cit Augustinus nono tomo, tractatu quadragesimo quinto in 
@@ -139,7 +135,7 @@
                <lb ed="#H" n="113"/>
                <pc type="indent"/>invisibilis Ecclesia est perpetua &amp; non deficit, Psalm. 89. 37. 
       Se<lb ed="#H" n="114" break="no"/>men ejus in saculum erit, &amp; solium ejus ut Sol coram me, ut Luna 
-      sta<lb ed="#H" n="115" break="no"/>bile erit in saculum. Matth. 16. v. 18. <quote source="http://scta.info/resource/mt16_18@10-22">Super hanc petram aedificabo
+      sta<lb ed="#H" n="115" break="no"/>bile erit in saculum. Matth. 16. v. 18. <quote xml:id="yyy8Uu-gxd569-Qd1e267" source="http://scta.info/resource/mt16_18@10-22">Super hanc petram aedificabo
       <lb ed="#H" n="116"/>Ecclesiam meam &amp; portae inferorum non praevalebunt ei.</quote> Semper 
       <lb ed="#H" n="117"/>taque conservatur &amp; conservabitur inter horribiles opinionum &amp; 
       <lb ed="#H" n="118"/>superstitionum confusiones, &amp; regnorum, imperiorum urbiumqui 

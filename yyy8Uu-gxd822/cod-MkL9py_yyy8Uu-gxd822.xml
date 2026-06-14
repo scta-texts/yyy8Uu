@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -89,7 +85,7 @@
       <lb ed="#H" n="18"/>Legis impletionem ab ipsis praestitam, seu quod idem est, propter 
       ju<lb ed="#H" n="19" break="no"/>stitiam propriam ipsis inhaerentem, Rom. 2. v. 15. Qui Legem prae 
       <lb ed="#H" n="20"/>stant, justificabuntur. Et cap 10. v. 5. Moses enim describit justitiam 
-      <lb ed="#H" n="21"/>quae est ex Lege, Quod qui praestiterit ea, vivet per illa Matth. 19. v. 7. <quote source="http://scta.info/resource/mt19_17@13-20">Si
+      <lb ed="#H" n="21"/>quae est ex Lege, Quod qui praestiterit ea, vivet per illa Matth. 19. v. 7. <quote xml:id="yyy8Uu-gxd822-Qd1e168" source="http://scta.info/resource/mt19_17@13-20">Si
       <lb ed="#H" n="22"/>vis ad vitam ingredi, serva mandata.</quote> Luc. 10. v. 28. Hoc fac &amp; vives. 
       <lb ed="#H" n="23"/>Hac justificatione Angeli sancti fruuntur. 
     </p>
@@ -142,8 +138,8 @@
             <p xml:id="yyy8Uu-gxd822-d1e272">
                <lb ed="#H" n="61"/>
                <pc type="indent"/>Justificat autem nos ipse DEUS, Pater, Filius &amp; Spiritus Sanctus 
-      <lb ed="#H" n="62"/>Rom. 3. 30. <quote source="http://scta.info/resource/rom3_30@1-13">Unus Deus est qui justificabit circumcisionem ex fide, &amp;
-      <lb ed="#H" n="63"/>praeputium per fidem.</quote> Et c. 4. v. 5. <quote source="http://scta.info/resource/rom4_5@1-17">Ei vero quicon operatur, sed credit in
+      <lb ed="#H" n="62"/>Rom. 3. 30. <quote xml:id="yyy8Uu-gxd822-Qd1e279" source="http://scta.info/resource/rom3_30@1-13">Unus Deus est qui justificabit circumcisionem ex fide, &amp;
+      <lb ed="#H" n="63"/>praeputium per fidem.</quote> Et c. 4. v. 5. <quote xml:id="yyy8Uu-gxd822-Qd1e284" source="http://scta.info/resource/rom4_5@1-17">Ei vero quicon operatur, sed credit in
       <lb ed="#H" n="64"/>eum qui justificat impium, imputatur fides sua pro justitia.</quote> Et c. 8. v. 33: 
       <lb ed="#H" n="65"/>Deus ost qui justificat  
     </p>
@@ -188,7 +184,7 @@
                <lb ed="#H" n="92"/>
                <pc type="indent"/>Testimonia sunt Rom. 3. 20. Ex operibus Legis nulla caro iustificabi.  
       <lb ed="#H" n="93"/>tur in conspectu eius. Et v. 28. Colligimus igitur, fide iustificari 
-      homi<lb ed="#H" n="94" break="no"/>nem absque operibus Legi. Gal. 2. 10. <quote source="http://scta.info/resource/gal2_16@1-39">Scientes non iustificari hominem ex
+      homi<lb ed="#H" n="94" break="no"/>nem absque operibus Legi. Gal. 2. 10. <quote xml:id="yyy8Uu-gxd822-Qd1e379" source="http://scta.info/resource/gal2_16@1-39">Scientes non iustificari hominem ex
       <lb ed="#H" n="95"/>operibus Legis, sed per fidem Iesu Christi: etiam nos in Christam Iesum
       <lb ed="#H" n="96"/>credidimus, ut iustificaremus ex fide Christi, &amp; non ex operibus Legis.
       <lb ed="#H" n="97"/>propterea quod non iustificabitur ex operibus Legis ulla caro.</quote> Eph. 2. 8, 9. 
@@ -220,13 +216,13 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e430">
                <lb ed="#H" n="111"/>
-               <pc type="indent"/>v. 10. <quote source="http://scta.info/resource/act15_10@1-16">Nunc ergo quid tentatis Deum, ad imponendum iugum
+               <pc type="indent"/>v. 10. <quote xml:id="yyy8Uu-gxd822-Qd1e444" source="http://scta.info/resource/act15_10@1-16">Nunc ergo quid tentatis Deum, ad imponendum iugum
       cervi<lb ed="#H" n="112" break="no"/>ci discipulorum, quod neque patres nostri, neque nos portare valuimus:</quote>
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e439">
                <lb ed="#H" n="113"/>
                <pc type="indent"/>V. Quia gratia just. ficamur. Hoc argumento utitur Paulus 
-      A<lb ed="#H" n="114" break="no"/>postolus Rom. 11. v. 6 <quote source="http://scta.info/resource/rom11_6@1-12">Quod si per gratiam, non iam ex operibus:
+      A<lb ed="#H" n="114" break="no"/>postolus Rom. 11. v. 6 <quote xml:id="yyy8Uu-gxd822-Qd1e458" source="http://scta.info/resource/rom11_6@1-12">Quod si per gratiam, non iam ex operibus:
       alio<lb ed="#H" n="115" break="no"/>quin gratia iam non est gratia.</quote>
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e450">
@@ -278,7 +274,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e540">
                <lb ed="#H" n="144"/>
                <pc type="indent"/>5. Essemus sub exsecratione Legis. Sic enim colligit Paulus 
-      Ga<lb ed="#H" n="145" break="no"/>3. v. 10. <quote source="http://scta.info/resource/gal3_10@1-28">Quotquot ex operibus Legis sunt, sub exsetratione sunt. Scripti
+      Ga<lb ed="#H" n="145" break="no"/>3. v. 10. <quote xml:id="yyy8Uu-gxd822-Qd1e562" source="http://scta.info/resource/gal3_10@1-28">Quotquot ex operibus Legis sunt, sub exsetratione sunt. Scripti
       <lb ed="#H" n="146"/>est enim, Exsecrabilis est quisquis non manserit in omnibus quaecunque
       <lb ed="#H" n="147"/>sunt in Libro Legis, ut faciat ea</quote> 
     </p>
@@ -333,7 +329,7 @@
       <!--cod-MkL9py-0483.xml-->
       <pb ed="#H" n="456"/>
                <cb ed="#H" n="a"/>
-               <lb ed="#H" n="1"/>ma cap. 1. v. 8, 9, 10. <quote source="http://scta.info/resource/Iio1_8@1-15 http://scta.info/resource/Iio1_9@1-18 http://scta.info/resource/Iio1_10@1-15">Si dixerimus nos peccatum non habere, nos ipsos
+               <lb ed="#H" n="1"/>ma cap. 1. v. 8, 9, 10. <quote xml:id="yyy8Uu-gxd822-Qd1e674" source="http://scta.info/resource/Iio1_8@1-15 http://scta.info/resource/Iio1_9@1-18 http://scta.info/resource/Iio1_10@1-15">Si dixerimus nos peccatum non habere, nos ipsos
       <lb ed="#H" n="2"/>fallimus, &amp; veritas in nobis non est. Si confiteamur peccata nostra,
       fi<lb ed="#H" n="3" break="no"/>delis est &amp; justus, ut remittat nobis peccata, &amp; mundet nos ab omni
       ini<lb ed="#H" n="4" break="no"/>quitate. Si dixerimus nos non peccasse, mendacem facimus eum, &amp;
@@ -359,7 +355,7 @@
       Abrahami<lb ed="#H" n="18"/>&amp; sanctorum Apostolorum exemplo. Nam de Abrahamo credente 
       <lb ed="#H" n="19"/>ac proinde regenerato loquitur Paulus Roman. 4 &amp; Galat. 3. diserte 
       <lb ed="#H" n="20"/>negans, Abrahamum bonis operibus suis justificatum apud Deum; 
-      <lb ed="#H" n="21"/>De se autem &amp; aliis Apostolis ait idem Paulus Gal. 2. v. 15,16. <quote source="http://scta.info/resource/gal2_15@1-8 http://scta.info/resource/gal2_16@1-28">
+      <lb ed="#H" n="21"/>De se autem &amp; aliis Apostolis ait idem Paulus Gal. 2. v. 15,16. <quote xml:id="yyy8Uu-gxd822-Qd1e728" source="http://scta.info/resource/gal2_15@1-8 http://scta.info/resource/gal2_16@1-28">
       No<lb ed="#H" n="22" break="no"/>natura Iudei, &amp; non ex Gentibus peccatores: Scientes non justificari
       ho<lb ed="#H" n="23" break="no"/>minem ex operibus Ligis, sed per fidem Iesu Christi: etiam nos in
       Chri<lb ed="#H" n="24" break="no"/>stum Iesum credidimus, ut justificaremur ex fide Christi, &amp; non ex
@@ -629,7 +625,7 @@
                <cb ed="#H" n="a"/>
                <lb ed="#H" n="1"/>omnes justitiae nostrae; diffluimusque velut folium omnes nos, &amp; 
       iniqui<lb ed="#H" n="2" break="no"/>tates nostrae ut ventus auferunt nos. Similiter Job ait cap. 9. versicul. 3.
-      <lb ed="#H" n="3"/><quote source="http://scta.info/resource/iob9_3@1-12">Si volet litigare cum eo non poterit ei respondere ad unum ex mille</quote> 
+      <lb ed="#H" n="3"/><quote xml:id="yyy8Uu-gxd822-Qd1e1260" source="http://scta.info/resource/iob9_3@1-12">Si volet litigare cum eo non poterit ei respondere ad unum ex mille</quote> 
       <lb ed="#H" n="4"/>Et versicul. 18 &amp; sequentibus; Formido omnes dolores meos; 
       recognosco<lb ed="#H" n="5" break="no"/>fore ut non purges me: Sed me tanquam improbum fore; quare iam in 
       <lb ed="#H" n="6"/>vanum laborarem? Si lavero me aquis nivalibus &amp; emundavero 
@@ -643,7 +639,7 @@
       <lb ed="#H" n="11"/>Domine est iustitia ipsa, at penes nos pudor faciei. Et Ezra cap. 9. 15. 
       <lb ed="#H" n="12"/>Ecce nos sumus coram te in reatibus nostris, &amp; ob id ne consistere quidem 
       <lb ed="#H" n="13"/>poterimus in conspectu tuo. Et Johannes, epistola prima versicul. 8
-      <lb ed="#H" n="14"/><quote source="http://scta.info/resource/Iio1_8@1-15">Si dixerimus nos peccatum non habere, nos ipsos fallimus &amp; veritas in
+      <lb ed="#H" n="14"/><quote xml:id="yyy8Uu-gxd822-Qd1e1291" source="http://scta.info/resource/Iio1_8@1-15">Si dixerimus nos peccatum non habere, nos ipsos fallimus &amp; veritas in
       <lb ed="#H" n="15"/>nobis non est?</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e1272">
@@ -659,7 +655,7 @@
                <pc type="indent"/>Ad hanc distinctionem replicamus duo: Primum est, eam falsam 
       <lb ed="#H" n="22"/>esse parte priore: nam justitia, quam ipsi nobis absque ope Christi 
       com<lb ed="#H" n="23" break="no"/>parare possimus est prorsus nulla: sicut dicit Christus Joh. 15. v. 4. 7.
-      <lb ed="#H" n="24"/><quote source="http://scta.info/resource/io15_4@8-27 http://scta.info/resource/io15_5@1-23">Sicut palmes non potest ferre fructum a semetipso, id est, nisi manserit
+      <lb ed="#H" n="24"/><quote xml:id="yyy8Uu-gxd822-Qd1e1324" source="http://scta.info/resource/io15_4@8-27 http://scta.info/resource/io15_5@1-23">Sicut palmes non potest ferre fructum a semetipso, id est, nisi manserit
       <lb ed="#H" n="25"/>in vite: ita nec vos, nisi in me manseritis. Ego sum vitis, vos palmites: is
       <lb ed="#H" n="26"/>qui manet in me, &amp; in quo ego maneo, hic feri fructum multum: nam
       <lb ed="#H" n="27"/>scorsim a mesvel sine me] NIHIL potestis facere</quote> (nempe justi &amp; 
@@ -919,7 +915,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e1818">
                <lb ed="#H" n="26"/>
                <pc type="indent"/>PRIMUM argumentum petimus ex cap. 5. ad Roman. versic. 19.
-      <lb ed="#H" n="27"/><quote source="http://scta.info/resource/rom5_19@1-18">Sicut per inobodientiam unius hominis, peccatores constituti sunt multi;
+      <lb ed="#H" n="27"/><quote xml:id="yyy8Uu-gxd822-Qd1e1852" source="http://scta.info/resource/rom5_19@1-18">Sicut per inobodientiam unius hominis, peccatores constituti sunt multi;
       <lb ed="#H" n="28"/>ita per unius obedientiam iusti constituentur multi.</quote> Ex hoc loco sic 
       col<lb ed="#H" n="29" break="no"/>digimus. 
     </p>
@@ -1198,9 +1194,9 @@
                <lb ed="#H" n="49"/>
                <pc type="indent"/>tentiae nostrae argumentum. 
       <lb ed="#H" n="50"/>SECUNDUM argumentum petimus ex cap. 6. ad Roman. v. 2.
-      <lb ed="#H" n="51"/><quote source="http://scta.info/resource/rom8_2@1-14">Lex Spiritus vitae, qui est in Christo Iesu, liberavit me a Lege peccati &amp;
+      <lb ed="#H" n="51"/><quote xml:id="yyy8Uu-gxd822-Qd1e2423" source="http://scta.info/resource/rom8_2@1-14">Lex Spiritus vitae, qui est in Christo Iesu, liberavit me a Lege peccati &amp;
       <lb ed="#H" n="52"/>mortis.</quote> Lex Spiritus vitae, est vis illa atque efficacia Spiritus Sancti
-      <lb ed="#H" n="53"/>nos vivificantis &amp; sanctificantis in Christo: Et versi. 3. <quote source="http://scta.info/resource/rom8_3@1-25">Nam quae Legi
+      <lb ed="#H" n="53"/>nos vivificantis &amp; sanctificantis in Christo: Et versi. 3. <quote xml:id="yyy8Uu-gxd822-Qd1e2431" source="http://scta.info/resource/rom8_3@1-25">Nam quae Legi
       <lb ed="#H" n="54"/>erat impotentia, quum viribus esset destituta per carnem: Deus suo ipsius
       <lb ed="#H" n="55"/>Filio misso, in forma consimili carni peccato obnoxiae: idque pro peccato,
       <lb ed="#H" n="56"/>condemnavit peccatum in carne.</quote> Hujus loci sententia haec est: I. ex 
@@ -1265,7 +1261,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e2531">
                <lb ed="#H" n="110"/>
-               <pc type="indent"/>TERTIUM argumentum petimus itidem ex c. 8. Rom. v. 4. Vs. <quote source="http://scta.info/resource/rom8_4@1-14">
+               <pc type="indent"/>TERTIUM argumentum petimus itidem ex c. 8. Rom. v. 4. Vs. <quote xml:id="yyy8Uu-gxd822-Qd1e2571" source="http://scta.info/resource/rom8_4@1-14">
       <lb ed="#H" n="111"/>ius illud Legis compleatur in nobis, qui non secundum carne incedimus,
       <lb ed="#H" n="112"/>ed secundum spiritum.</quote> Jus illud Legis est ipsa Legis Dei substantia; 
       <lb ed="#H" n="113"/>vel illud ipsum quod requitit Lex, ut possimus justi coram Deo 
@@ -1291,7 +1287,7 @@
       impleve<lb ed="#H" n="127" break="no"/>runt: quia praeter Christum, implere potest per se &amp; in se nemo. Ergo 
       <lb ed="#H" n="128"/>impletio a Christo facta in justitiam ipsis imputatur.  
       <lb ed="#H" n="129"/>QUA RTUM argumentum depromimus ex cap. 6. ad Rom. v. 32.
-      <lb ed="#H" n="130"/><quote source="http://scta.info/resource/rom8_32@1-20">Qui proprio Filio non pepercit, sed pro nobis omnibus tradidit eum: qui
+      <lb ed="#H" n="130"/><quote xml:id="yyy8Uu-gxd822-Qd1e2627" source="http://scta.info/resource/rom8_32@1-20">Qui proprio Filio non pepercit, sed pro nobis omnibus tradidit eum: qui
       <lb ed="#H" n="131"/>non etiam cum eo omnia nobis gratis donabit?</quote> Unde sic argumentamur. 
       <lb ed="#H" n="132"/>Si Deus cum Christo omnia nobis gratis donat; tum certe etiam in 
       <lb ed="#H" n="133"/>nocentiam &amp; sanctitatem Christi: &amp; conformitatem cum praeceptis 
@@ -1314,7 +1310,7 @@
       <lb ed="#H" n="147"/> 
                <lb ed="#H" n="148"/>a Christo facta nobis in justitiam imputatur: Verum est quod 
       ante<lb ed="#H" n="149" break="no"/>cedit: teste Paulo. Verum igitur est &amp; quod sequitur  
-      <lb ed="#H" n="150"/>SEXTUM argumentum suppeditat locus 1. Cor. 1. v. 30. <quote source="http://scta.info/resource/Icor1_30@1-17">Sed ex
+      <lb ed="#H" n="150"/>SEXTUM argumentum suppeditat locus 1. Cor. 1. v. 30. <quote xml:id="yyy8Uu-gxd822-Qd1e2679" source="http://scta.info/resource/Icor1_30@1-17">Sed ex
       i<lb ed="#H" n="151" break="no"/>pso vos estis in Christo Iesu: qui factus est nobis sapientia a Deo, iustitiaque</quote>  
       <lb ed="#H" n="152"/> 
                <lb ed="#H" n="153"/>de ex eo demonstrationem ducemus. 
@@ -1398,7 +1394,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e2805">
                <lb ed="#H" n="35"/>
                <pc type="indent"/>OCTAVUM argumentum subministrat Apostolus Gal. 3. v. 10.
-      <lb ed="#H" n="36"/><quote source="http://scta.info/resource/gal3_10@1-28">Quotquot ex operibus Legis sunt, sub exsecratione sunt. Scriptum est
+      <lb ed="#H" n="36"/><quote xml:id="yyy8Uu-gxd822-Qd1e2854" source="http://scta.info/resource/gal3_10@1-28">Quotquot ex operibus Legis sunt, sub exsecratione sunt. Scriptum est
       e<lb ed="#H" n="37" break="no"/>nim: Exsecrabilis est, quisquis non manserit in omnibus, quae scripta
       <lb ed="#H" n="38"/>sunt in libro Legis, ut faciat ea.</quote> Et vers. 13. Christus nos redemit ab 
       exse<lb ed="#H" n="39" break="no"/>cratione Legis, dum pro nobis factus est exsecratio. Scriptum est enim 
@@ -1417,7 +1413,7 @@
       proci<lb ed="#H" n="52" break="no"/>dubio loco nostro, pro quibus exsecratio factus est in cruce. Nobis 
       e<lb ed="#H" n="53" break="no"/>nim serviebat; non sibi. Eos autem, quos Christus non redemit, 
       utra<lb ed="#H" n="54" break="no"/>que manet exsecratic: quemadmodum judex vivorum &amp; 
-      mortuo<lb ed="#H" n="55" break="no"/>rum dicet :is qui ad sinistram eius erunt: <quote source="http://scta.info/resource/mt25_41@9-22">Exsecrati, abite a me in ignem
+      mortuo<lb ed="#H" n="55" break="no"/>rum dicet :is qui ad sinistram eius erunt: <quote xml:id="yyy8Uu-gxd822-Qd1e2898" source="http://scta.info/resource/mt25_41@9-22">Exsecrati, abite a me in ignem
       <lb ed="#H" n="56"/>aternum, qui paratus est Diabolo &amp; angelis eius,</quote> Matth. 25. 41 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e2857">
@@ -1460,7 +1456,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e2934">
                <lb ed="#H" n="86"/>
-               <pc type="indent"/>DECIMUM argumentum suggerit Paulus Gal. 4. v. 4. 5. <quote source="http://scta.info/resource/gal4_4@1-15 http://scta.info/resource/gal4_5@1-11">Post.
+               <pc type="indent"/>DECIMUM argumentum suggerit Paulus Gal. 4. v. 4. 5. <quote xml:id="yyy8Uu-gxd822-Qd1e2987" source="http://scta.info/resource/gal4_4@1-15 http://scta.info/resource/gal4_5@1-11">Post.
       <lb ed="#H" n="87"/>quam venit plenitudo temporis, emisit Deus Filium suum, factum ex
       <lb ed="#H" n="88"/>muliere, factum Legi subiectum: ut eos qui Legi erant subiecti,
       redime<lb ed="#H" n="89" break="no"/>ret, ut adoptionem acciperemus.</quote> Docet Apostolus, Christianos 
@@ -1590,7 +1586,7 @@
       <!--cod-MkL9py-0488.xml-->
       <pb ed="#H" n="461"/>
                <cb ed="#H" n="a"/>
-               <lb ed="#H" n="1"/>DUODECIMUM petitur ex c. 5. ad Ephes. v. 27. <quote source="http://scta.info/resource/eph5_27@1-20">Vt sisteret eam
+               <lb ed="#H" n="1"/>DUODECIMUM petitur ex c. 5. ad Ephes. v. 27. <quote xml:id="yyy8Uu-gxd822-Qd1e3258" source="http://scta.info/resource/eph5_27@1-20">Vt sisteret eam
       <lb ed="#H" n="2"/>sibi gloriosam, id est, Ecclesiam, non habentem maculam aut rugam, aut
       <lb ed="#H" n="3"/>quicquam eiusmodi; sed ut esset sancta &amp; inculpata.</quote> Senientia est: 
       Ec<lb ed="#H" n="4" break="no"/>clesia Dei, quae adhuc est in his terris, est in se polluta; in Christo 
@@ -1944,7 +1940,7 @@
       <lb ed="#H" n="34"/>iis reddere, retribuere &amp; rependere, proprie loquendo, negatur  
       <lb ed="#H" n="35"/>Nam quis prior dedit Deo, ut retribuatur ei? Roman. 11. 35. Quid 
       ha<lb ed="#H" n="36" break="no"/>bet boni ullus hominum, quod non acceperit a Deo: sicut Paulus ait 
-      <lb ed="#H" n="37"/>I. Corinth. 4. v. 7. <quote source="http://scta.info/resource/Icor4_7@5-18">Quid autem habes quod non acceperis? quod si etiam
+      <lb ed="#H" n="37"/>I. Corinth. 4. v. 7. <quote xml:id="yyy8Uu-gxd822-Qd1e3958" source="http://scta.info/resource/Icor4_7@5-18">Quid autem habes quod non acceperis? quod si etiam
       <lb ed="#H" n="38"/>accepisti, quid gloriaris quasi non acceperis?</quote> Nullius ergo hominis bona 
       <lb ed="#H" n="39"/>opera sunt meritoria apud Deum, nullus meritis suis justificatur 
       co<lb ed="#H" n="40" break="no"/>tam Deo. Deinde Psal. 18. v. 21. tantum de justitia causae agitur, non 
@@ -1955,7 +1951,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e3920">
                <lb ed="#H" n="44"/>
                <pc type="indent"/>SECUNDUM sumunt ex cap. Jacob. 2. 24. in quo haec verba
-      ex<lb ed="#H" n="45" break="no"/>stant: <quote source="http://scta.info/resource/iac2_24@1-11">Videtis quod ex operibus iustificetur homo &amp; non ex fide tantum</quote> 
+      ex<lb ed="#H" n="45" break="no"/>stant: <quote xml:id="yyy8Uu-gxd822-Qd1e3983" source="http://scta.info/resource/iac2_24@1-11">Videtis quod ex operibus iustificetur homo &amp; non ex fide tantum</quote> 
       <lb ed="#H" n="46"/>Hinc colligunt: Pios coram Deo bonis suis operibus iustificari 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e3931">
@@ -1992,7 +1988,7 @@
       fal<lb ed="#H" n="73" break="no"/>sa justitiae opinione distinguit, &amp; de vera justificatione, quam coram 
       <lb ed="#H" n="74"/>Deo justi sumus, se esse solicitum declarat? Sin id minime curandum 
       <lb ed="#H" n="75"/>videtur, possimus ne justitiam nostram hominibus testatam facere, ut 
-      <lb ed="#H" n="76"/>nos esse justos omnes intelligant, quamobrem Apostolus ait, <quote source="http://scta.info/resource/iac2_18@11-24">Ostende
+      <lb ed="#H" n="76"/>nos esse justos omnes intelligant, quamobrem Apostolus ait, <quote xml:id="yyy8Uu-gxd822-Qd1e4063" source="http://scta.info/resource/iac2_18@11-24">Ostende
       <lb ed="#H" n="77"/>mihi fidem tuam ex operibus, &amp; ego ostendam tibi ex operibus fidem
       <lb ed="#H" n="78"/>meam?</quote> Nullam ergo sidem Jacob. putat esse veram, nisi quae possit 
       fa<lb ed="#H" n="79" break="no"/>ctis verae sidei propriis agnosci, nec ulli justificantur coram Deo 
@@ -2170,7 +2166,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e4358">
                <lb ed="#H" n="14"/>
-               <pc type="indent"/>Assumtionem probare conantur ex eo quod Jacobus dicit: <quote source="http://scta.info/resource/iac2_19@1-8">Ti.
+               <pc type="indent"/>Assumtionem probare conantur ex eo quod Jacobus dicit: <quote xml:id="yyy8Uu-gxd822-Qd1e4425" source="http://scta.info/resource/iac2_19@1-8">Ti.
       <lb ed="#H" n="15"/>credis, inquit quod unus est Deus, bene facis.</quote> Num vero eum bene 
       fa<lb ed="#H" n="16" break="no"/>cere quis existimet, qui fide ficta Deum esse credit? Ergo Iacobus (ajunt. 
       <lb ed="#H" n="17"/>non loquitur de fide mortus. 
@@ -2249,7 +2245,7 @@
                <pc type="indent"/>QUINTUM capiunt ex Matth. 25. v. 34. &amp; sequentibus, unde sic 
       ar<lb ed="#H" n="73" break="no"/>gumentantur: Si regnum Dei possidetur propter bona opera, tum etiam 
       <lb ed="#H" n="74"/>bonis operibus coram Deo justificamur. Antecedens verum est: Ergo &amp; 
-      <lb ed="#H" n="75"/>censequens. Assumtionem ajunt a Christo confirmati his verbis: <quote source="http://scta.info/resource/mt25_34@10-20 http://scta.info/resource/mt25_35 http://scta.info/resource/mt25_36@1-15">
+      <lb ed="#H" n="75"/>censequens. Assumtionem ajunt a Christo confirmati his verbis: <quote xml:id="yyy8Uu-gxd822-Qd1e4589" source="http://scta.info/resource/mt25_34@10-20 http://scta.info/resource/mt25_35 http://scta.info/resource/mt25_36@1-15">
       Ve<lb ed="#H" n="76" break="no"/>nite benedicti Patris mei, possidete regnum paratum vobis a jacto
       mun<lb ed="#H" n="77" break="no"/>di fundamento. Esurivi enim, &amp; dedistis mihi quo vescerer: sitivi, &amp;
       de<lb ed="#H" n="78" break="no"/>distis mihi potum: hospes eram, &amp; collegistis me: Nudus, &amp; amicivistis.
@@ -2317,7 +2313,7 @@
                <pc type="indent"/>Ergo, &amp;c. 
       <lb ed="#H" n="118"/>RESP. Impios opera palam damnabunt: pios fides liberabit. 
       <lb ed="#H" n="119"/>s 
-      <lb ed="#H" n="120"/>condemnatur. Et Johan. 5. versic. 24. <quote source="http://scta.info/resource/io5_24@6-21">Qui sermonem meum audit &amp;
+      <lb ed="#H" n="120"/>condemnatur. Et Johan. 5. versic. 24. <quote xml:id="yyy8Uu-gxd822-Qd1e4728" source="http://scta.info/resource/io5_24@6-21">Qui sermonem meum audit &amp;
       <lb ed="#H" n="121"/>credit ei, qui misit me, habet vitam aternam &amp; in condemnationem
 </quote>      <lb ed="#H" n="122"/>1 
       <lb ed="#H" n="123"/>que Deo cognita, factis declaratur, quae omnib. nota sunt &amp; 
@@ -2350,7 +2346,7 @@
       <lb ed="#H" n="141"/>Thomas Aquinas de verit. quaest. 6. art. 2. multis &amp; firmissimis 
       ar<lb ed="#H" n="142" break="no"/>gumentis operum praescientiam docet non esse praedestinationis 
       <lb ed="#H" n="143"/>atque electionis causam. Nam praedestinatio est prior meritis. E 
-      <lb ed="#H" n="144"/>Apostolus Tit. 1. ait: <quote source="http://scta.info/resource/tit3_5@1-7">Non ex operibus justitiae, quae fecimus nos:</quote> Et tum 
+      <lb ed="#H" n="144"/>Apostolus Tit. 1. ait: <quote xml:id="yyy8Uu-gxd822-Qd1e4797" source="http://scta.info/resource/tit3_5@1-7">Non ex operibus justitiae, quae fecimus nos:</quote> Et tum 
       <lb ed="#H" n="145"/>nullus esset praedestinatus, nisi merita habiturus, quod patet in 
       parvu<lb ed="#H" n="146" break="no"/>lis esse falsum. Quum ergo praedestinatio gratuita omnino sit, sanctores 
       <lb ed="#H" n="147"/>salute esse prorsus gratuita manifestum est: quum praedestinatio nihil 
@@ -2360,7 +2356,7 @@
                <lb ed="#H" n="149"/>
                <pc type="indent"/>SEXTUM: Zacharias &amp; Elizabeth bonis operibus coram Deo 
       justi<lb ed="#H" n="150" break="no"/>ficati sunt: Ergo &amp; nos bonis operibus coram Deo iustificari necesse est. 
-      <lb ed="#H" n="151"/>Antecedens probare conantur testimonio Lucae c. 1. v. 6. <quote source="http://scta.info/resource/lc1_6@1-15">Erant iusti
+      <lb ed="#H" n="151"/>Antecedens probare conantur testimonio Lucae c. 1. v. 6. <quote xml:id="yyy8Uu-gxd822-Qd1e4820" source="http://scta.info/resource/lc1_6@1-15">Erant iusti
       <lb ed="#H" n="152"/>ambo in conspectu Dei, incedentes in omnibus mandatis &amp;
       constitutio<lb ed="#H" n="153" break="no"/>nibus Domini inculpate.</quote> 
     </p>
@@ -2400,7 +2396,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e4822">
                <lb ed="#H" n="181"/>
                <pc type="indent"/>Assumtionem conantur probare ex loco allegato, in quo Christus
-      <lb ed="#H" n="182"/>ait: <quote source="http://scta.info/resource/lc7_47@5-11">Remittuntur ei peccata multa, quoniam dilexit multum.</quote> 
+      <lb ed="#H" n="182"/>ait: <quote xml:id="yyy8Uu-gxd822-Qd1e4905" source="http://scta.info/resource/lc7_47@5-11">Remittuntur ei peccata multa, quoniam dilexit multum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e4831">
                <lb ed="#H" n="183"/>
@@ -2426,7 +2422,7 @@
       docu<lb ed="#H" n="14" break="no"/>menta ostendit, quam tu Simon. Ac propterea instituit συγκρισιν set 
       <lb ed="#H" n="15"/>comparationem inter Mariam Magdalenam &amp; Simonem, qui 
       Chri<lb ed="#H" n="16" break="no"/>stum invitaverat: qua comparatione confirmat δυδοσιν parabolae ale 
-      <lb ed="#H" n="17"/>latae. Dicit enim Simoni: <quote source="http://scta.info/resource/lc7_44@7-28 http://scta.info/resource/lc7_45@1-14">Vides hanc mulierem? Ingressus sum domum
+      <lb ed="#H" n="17"/>latae. Dicit enim Simoni: <quote xml:id="yyy8Uu-gxd822-Qd1e4963" source="http://scta.info/resource/lc7_44@7-28 http://scta.info/resource/lc7_45@1-14">Vides hanc mulierem? Ingressus sum domum
       <lb ed="#H" n="18"/>tuam, aquam pedibus meis non dedisti: haec autem Iacrymis rigavit
       pe<lb ed="#H" n="19" break="no"/>des meos, &amp; capillis capitis sui extersit. Osculum mihi non dedisti
       <lb ed="#H" n="20"/>haec autem ex quo intravit, non intermisit deosculari pedes meos.</quote> Cujus
@@ -2528,7 +2524,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e5079">
                <lb ed="#H" n="83"/>
-               <pc type="indent"/>NONUM: Rom. 2. v. 6. Paulus ait: <quote source="http://scta.info/resource/rom2_6@1-6">Qui reddet unicuique secundum
+               <pc type="indent"/>NONUM: Rom. 2. v. 6. Paulus ait: <quote xml:id="yyy8Uu-gxd822-Qd1e5166" source="http://scta.info/resource/rom2_6@1-6">Qui reddet unicuique secundum
       o<lb ed="#H" n="84" break="no"/>pera ipsius:</quote> Ergo bonis operibus justificamur coram Deo. 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e5088">
@@ -2556,7 +2552,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e5136">
                <lb ed="#H" n="103"/>
-               <pc type="indent"/>DECIMUM, Rom. 2. v. 13. <quote source="http://scta.info/resource/rom2_13@1-12">Non enim qui audiunt Legem, justi sunt
+               <pc type="indent"/>DECIMUM, Rom. 2. v. 13. <quote xml:id="yyy8Uu-gxd822-Qd1e5226" source="http://scta.info/resource/rom2_13@1-12">Non enim qui audiunt Legem, justi sunt
       <lb ed="#H" n="104"/>apud Deum, sed qui legem praestant, justificabuntur;</quote>: Ergo, &amp;c. 
     </p>
             <p xml:id="yyy8Uu-gxd822-d1e5145">
@@ -2682,14 +2678,14 @@
       <pb ed="#H" n="465"/>
                <cb ed="#H" n="a"/>
                <lb ed="#H" n="1"/>hnc in loco nisi per &amp; propter justitiam Christi gratuito nobis 
-      im<lb ed="#H" n="2" break="no"/>putatam? Sic 1. Cor. 6. v. 11. <quote source="http://scta.info/resource/Icor6_11@12-19">Iustificati estis in nomine Domini Iesu:</quote>
+      im<lb ed="#H" n="2" break="no"/>putatam? Sic 1. Cor. 6. v. 11. <quote xml:id="yyy8Uu-gxd822-Qd1e5479" source="http://scta.info/resource/Icor6_11@12-19">Iustificati estis in nomine Domini Iesu:</quote>
       <lb ed="#H" n="3"/>quid hoc aliud est, nisi per justitiam Domini Jesu ex gratia imputata: 
       <lb ed="#H" n="4"/>Ita legitur I Joh. 2. 12. Scribo vobis, fitioli, quoniam remissa sunt vobi 
       <lb ed="#H" n="5"/>peccata propter nomen ejus. Si propter nomen Christi, id est, propter 
       <lb ed="#H" n="6"/>justitiam &amp; obedientiam Christi perfectissimam ex gratia nobis 
       im<lb ed="#H" n="7" break="no"/>putatam peccata nobis remissa sunt: tum profecto imputatio 
       justi<lb ed="#H" n="8" break="no"/>tiae Christi non est ipsa remissio peccatorum. Et Actor. 4. v. 11, 12.
-      di<lb ed="#H" n="9" break="no"/>cunt Apostoli: <quote source="http://scta.info/resource/act4_11@1-15 http://scta.info/resource/act4_12@1-22">Hic est lapis ille pro nihilo habitus a vobis aedificantibus,
+      di<lb ed="#H" n="9" break="no"/>cunt Apostoli: <quote xml:id="yyy8Uu-gxd822-Qd1e5497" source="http://scta.info/resource/act4_11@1-15 http://scta.info/resource/act4_12@1-22">Hic est lapis ille pro nihilo habitus a vobis aedificantibus,
       <lb ed="#H" n="10"/>qui factus est caput angult. Nec est in alio quoquam salus, nec enim
       ali<lb ed="#H" n="11" break="no"/>ud nomen est sub caelo quod datum sit inter homines, per quod oporteat.
       <lb ed="#H" n="12"/>nos servari.</quote> Si per nomen, id est, justitiam solius Christi nobis 
@@ -2723,7 +2719,7 @@
             <p xml:id="yyy8Uu-gxd822-d1e5466">
                <lb ed="#H" n="30"/>
                <pc type="indent"/>S. cundum: quia per justificationem consequimur jus vitae 
-      aeter<lb ed="#H" n="31" break="no"/>nae, Rom. 5 v. 21. <quote source="http://scta.info/resource/rom5_21@2-20">Ut quemadmodum regnaverat peccatum ad morte:
+      aeter<lb ed="#H" n="31" break="no"/>nae, Rom. 5 v. 21. <quote xml:id="yyy8Uu-gxd822-Qd1e5567" source="http://scta.info/resource/rom5_21@2-20">Ut quemadmodum regnaverat peccatum ad morte:
       <lb ed="#H" n="32"/>ita etiam gratia regnaret per iustitiam ad vitam aeternam, per Iesum.
       <lb ed="#H" n="33"/>Christum Dominum nostrum</quote> Rom. 8. 10. Spiritus vita est propter 
       iu<lb ed="#H" n="34" break="no"/>stitiam. Propter quam just. tiam, nisi fidei? ut recte exponit 
@@ -2744,7 +2740,7 @@
                <lb ed="#H" n="47"/>
                <pc type="indent"/>Tertium: quia justificati accipiunt praeter remissionem peccato.  
       <lb ed="#H" n="48"/>rum etiam justitiam sempiternam, quam Christus adduxit, &amp; quae 
-      <lb ed="#H" n="49"/>ipsis donatur Dan. 9. 24. Rom. 5. 7. <quote source="http://scta.info/resource/rom5_17@1-25">Etenim si per unum lapsum
+      <lb ed="#H" n="49"/>ipsis donatur Dan. 9. 24. Rom. 5. 7. <quote xml:id="yyy8Uu-gxd822-Qd1e5613" source="http://scta.info/resource/rom5_17@1-25">Etenim si per unum lapsum
       <lb ed="#H" n="50"/>mors regnavit per unum, multo magis ii qui redundantiam illam
       gra<lb ed="#H" n="51" break="no"/>tiae &amp; doni iustitiae recipiunt, in vita regnabunt ver unum Iesum
       Chri<lb ed="#H" n="52" break="no"/>tum.</quote> Recipimus DONUM JUSTITIAE: Ergo justitia nobis donatur,  
@@ -2887,7 +2883,7 @@
       <lb ed="#H" n="154"/>versic. 18. Haec est gratia regnans per justitiam (scil. Christi nobis 
       im<lb ed="#H" n="155" break="no"/>butatam) ad vitam aeternam, Roman. 5. vers. 21. Hinc Spiritus 
       vita<lb ed="#H" n="156" break="no"/>est propter justitiam (scil. Christi nobis imputatam,) Roman. 5. v. 
-      <lb ed="#H" n="157"/>10. De eadem Paulus loquitur Philip. 3. v. 7. 8, 9. <quote source="http://scta.info/resource/phil3_7@2-11 http://scta.info/resource/phil3_8@1-25 http://scta.info/resource/phil3_9@1-26">Quae mihi erant
+      <lb ed="#H" n="157"/>10. De eadem Paulus loquitur Philip. 3. v. 7. 8, 9. <quote xml:id="yyy8Uu-gxd822-Qd1e5910" source="http://scta.info/resource/phil3_7@2-11 http://scta.info/resource/phil3_8@1-25 http://scta.info/resource/phil3_9@1-26">Quae mihi erant
       lu<lb ed="#H" n="158" break="no"/>cra, ea duxi propter Christum damnum esse. Quin etiam cerre duco
       o<lb ed="#H" n="159" break="no"/>mnia damnum esse propter eminentiam cognitionis Iesu Christi
       Domi<lb ed="#H" n="160" break="no"/>ni mei: propter quem omnibs istis meipsum multavi, eaque duco pro sterco.
@@ -3082,7 +3078,7 @@
       <cb ed="#H" n="b"/>
                <lb ed="#H" n="92"/>fuerint remissa, quibus non fuerint remissa. Eo demum die 
       pe<lb ed="#H" n="93" break="no"/>nitus sua judicia Dominus revelabit &amp; exsequetur. Quo pertinet 
-      <lb ed="#H" n="94"/>illud Christi Matth. 12. vers. 32. <quote source="http://scta.info/resource/mt12_32@13-25">Quisquis fuerit locutus adversus
+      <lb ed="#H" n="94"/>illud Christi Matth. 12. vers. 32. <quote xml:id="yyy8Uu-gxd822-Qd1e6298" source="http://scta.info/resource/mt12_32@13-25">Quisquis fuerit locutus adversus
       Spi<lb ed="#H" n="95" break="no"/>ritum Sanctum, non remittetur ei neque in hoc seculo, neque in
       futu<lb ed="#H" n="96" break="no"/>ro.</quote> De quo loco ait beatus Fulgentius lib. 1 de peccatorum 
       remissio<lb ed="#H" n="97" break="no"/>ne, cap. 24. Hoc verbo Dominus &amp; Salvator noster non aliqua peccata 

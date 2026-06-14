@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -83,7 +79,7 @@
       <lb ed="#H" n="64"/>20. Per quem CHRISTUM etiam spiritibus qui sunt in carcere 
       pro<lb ed="#H" n="65" break="no"/>fectus praedicavit, Olim immorigeris, quum semel exspectabat Dei 
       le<lb ed="#H" n="66" break="no"/>nitas in diebus Noe, quum appararetur arca, in qua paucae (id est 
-      o<lb ed="#H" n="67" break="no"/>cto) animae servatae sunt in aqua. 2. Corinth. 5. v. 19, 20. Nempe <quote source="http://scta.info/resource/IIcor5_19@1-20">quia
+      o<lb ed="#H" n="67" break="no"/>cto) animae servatae sunt in aqua. 2. Corinth. 5. v. 19, 20. Nempe <quote xml:id="yyy8Uu-gxd615-Qd1e155" source="http://scta.info/resource/IIcor5_19@1-20">quia
       <lb ed="#H" n="68"/>Deus erat in Christo mundum reconcilians sibi, non imputando
       ei<lb ed="#H" n="69" break="no"/>lapsus ipsorum: posuitque in nobis sermonem illum reconciliationis.</quote> 
       Ita<lb ed="#H" n="70" break="no"/>que nomine Christi legatione fungimur, &amp; velut Deo vos precanto 
@@ -228,7 +224,7 @@
       ap<lb ed="#H" n="150" break="no"/>propinquant, seipsos sanctificanto: ut non irrumpat in eos Iehova. Et  
       <lb ed="#H" n="151"/>cap. 24. v. 5. Postea misit pueros filiorum Israelis, qui obtulerunt 
       ho<lb ed="#H" n="152" break="no"/>locausta, &amp; sacrificaverunt sacrificia eucharistica Iehovae, 
-      juven<lb ed="#H" n="153" break="no"/>cos. Num. 8. v. 18. &amp; seqque <quote source="http://scta.info/resource/num8_18@1-8 http://scta.info/resource/num8_19@1-33 http://scta.info/resource/num8_20@1-15 http://scta.info/resource/num8_21@1-16 http://scta.info/resource/num8_22@1-23">Assumsit autem Levitas; pro omni
+      juven<lb ed="#H" n="153" break="no"/>cos. Num. 8. v. 18. &amp; seqque <quote xml:id="yyy8Uu-gxd615-Qd1e440" source="http://scta.info/resource/num8_18@1-8 http://scta.info/resource/num8_19@1-33 http://scta.info/resource/num8_20@1-15 http://scta.info/resource/num8_21@1-16 http://scta.info/resource/num8_22@1-23">Assumsit autem Levitas; pro omni
       primo<lb ed="#H" n="154" break="no"/>genito, in filiis Israelis, Et dedi Levitas ipsos dono Aaroni &amp; filiis ejus
       <lb ed="#H" n="155"/>se medio filiorum Israelis; ut exerceant ministerium filiorum Israelis
       <lb ed="#H" n="156"/>in tentorio conventus, &amp; ut sint pretium redemtionis pro filiis
@@ -336,11 +332,11 @@
       <lb ed="#H" n="37"/>autem Christi in universo terrarum orbe praedicandum, atque it; 
       <lb ed="#H" n="38"/>ad ponendum fundamentum, habentes a Deo hoc testimonium, quo- 
       <lb ed="#H" n="39"/>non erratent in doctrina, Matth. 10. v. 7. Profecti praedicate, 
-      dicen<lb ed="#H" n="40" break="no"/>tes, Appropinquavit regnum coelorum. Et 28. v. 19. <quote source="http://scta.info/resource/mt28_19@1-15">Profecti, docet.
+      dicen<lb ed="#H" n="40" break="no"/>tes, Appropinquavit regnum coelorum. Et 28. v. 19. <quote xml:id="yyy8Uu-gxd615-Qd1e655" source="http://scta.info/resource/mt28_19@1-15">Profecti, docet.
       <lb ed="#H" n="41"/>omnes Gentes, baptizantes eos in nomine Patris &amp; Filij &amp; Spiritus
-      <lb ed="#H" n="42"/>Sancti.</quote> Actor. 1. v. 8. Gal. 1. v. 1. <quote source="http://scta.info/resource/gal1_1@1-20">Paulus Apostolus (non ab hominibus.
+      <lb ed="#H" n="42"/>Sancti.</quote> Actor. 1. v. 8. Gal. 1. v. 1. <quote xml:id="yyy8Uu-gxd615-Qd1e662" source="http://scta.info/resource/gal1_1@1-20">Paulus Apostolus (non ab hominibus.
       <lb ed="#H" n="43"/>neque per hominem, sed per Iesum Christum, ac Deum Patrem, qui
-      sus<lb ed="#H" n="44" break="no"/>citavit eum ex mortuis.)</quote> &amp; v. 12. <quote source="http://scta.info/resource/gal1_12@1-14">Neque enim ego ab homine id accepi
+      sus<lb ed="#H" n="44" break="no"/>citavit eum ex mortuis.)</quote> &amp; v. 12. <quote xml:id="yyy8Uu-gxd615-Qd1e669" source="http://scta.info/resource/gal1_12@1-14">Neque enim ego ab homine id accepi
       <lb ed="#H" n="45"/>neque edoctus sum, sed patefaciente mihi Iesu Christo.</quote> 1. Corinth. 3. v.
       <lb ed="#H" n="46"/>10. Ephes. 2. v. 20. Apocal. 21. v. 14. 
     </p>
@@ -350,12 +346,12 @@
       duode<lb ed="#H" n="48" break="no"/>cim Apostolorum, a virtute aeterni Sacerdotis Christi dependentium 
       <lb ed="#H" n="49"/>quorum voce terra universa, gloria &amp; gratia Christi repleta est, 
       sym<lb ed="#H" n="50" break="no"/>bolum typusque fuerunt: Justinus Martyr Dialogo cum Tryphone 
-      <lb ed="#H" n="51"/>udaeo, pagina ducentesimasecunda. Quocirca David etiam ait: <quote source="http://scta.info/resource/ps18_5@1-13">In
+      <lb ed="#H" n="51"/>udaeo, pagina ducentesimasecunda. Quocirca David etiam ait: <quote xml:id="yyy8Uu-gxd615-Qd1e693" source="http://scta.info/resource/ps18_5@1-13">In
       o<lb ed="#H" n="52" break="no"/>mnem terram exivit sonus eorum, &amp; in fines orbis verba eorum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd615-d1e685">
                <lb ed="#H" n="53"/>
-               <pc type="indent"/>De iis praedictum erat, Jesa. 66. v. 19, 20. <quote source="http://scta.info/resource/is60_19@1-14 http://scta.info/resource/is60_20@1-10">Non erit tibi amplius
+               <pc type="indent"/>De iis praedictum erat, Jesa. 66. v. 19, 20. <quote xml:id="yyy8Uu-gxd615-Qd1e705" source="http://scta.info/resource/is60_19@1-14 http://scta.info/resource/is60_20@1-10">Non erit tibi amplius
       Sol<lb ed="#H" n="54" break="no"/>in lucem diurnam, &amp; quod ad splendorem noctis, Luna non
       illustra<lb ed="#H" n="55" break="no"/>bit te, sed erit tibi Iehova luci perpetuae, &amp; Deus tuus ornamento
       tibi<lb ed="#H" n="56" break="no"/>Non occidet amplius Sol tuus, &amp; Luna tua non recipiet: nam Iehova
@@ -627,7 +623,7 @@
                <lb ed="#H" n="31"/>
                <pc type="indent"/>Iidem Episcopi vocantur etiam Prestyteri, sicut Actor. 20. v. 15. 
       <lb ed="#H" n="32"/>accersivisse dicitur dicitur Paulus Epheso Presbyteros Ecclesiae: 
-      Eos<lb ed="#H" n="33" break="no"/>dem versu 28. appellat Episcopos: <quote source="http://scta.info/resource/act20_28@1-19">Attendite animum vobisipsis &amp;
+      Eos<lb ed="#H" n="33" break="no"/>dem versu 28. appellat Episcopos: <quote xml:id="yyy8Uu-gxd615-Qd1e1239" source="http://scta.info/resource/act20_28@1-19">Attendite animum vobisipsis &amp;
       <lb ed="#H" n="34"/>toti gregi, in quo vos Spiritus Sanctus constituit episcopos, ad
       pascen<lb ed="#H" n="35" break="no"/>dam Ecclesiam Dei, quam suo illo sanguine acquisivit.</quote> Sic Tit. 1. v. 5. 
       <lb ed="#H" n="36"/>Presbyteri vocantur, qui mox versu septimo Episcopi dicuntur  
@@ -1093,7 +1089,7 @@
       <lb ed="#H" n="128"/>Imperatori suo placere perfecte. Quapropter etiam merito 
       improba<lb ed="#H" n="129" break="no"/>mus, quod Episcopi Papani simul Principes mundani sint &amp; esse 
       <lb ed="#H" n="130"/>velint 
-      <lb ed="#H" n="131"/>II. Quia <quote source="http://scta.info/resource/Icor4_1@1-11">ministri verbi Dei sunt ministri Christi, &amp; dispensatores
+      <lb ed="#H" n="131"/>II. Quia <quote xml:id="yyy8Uu-gxd615-Qd1e2150" source="http://scta.info/resource/Icor4_1@1-11">ministri verbi Dei sunt ministri Christi, &amp; dispensatores
       <lb ed="#H" n="132"/>mysteriorum Dei,</quote> 1. Cor. 4. v. 1. Non ergo debent simul esse 
       dispen<lb ed="#H" n="133" break="no"/>satores officiorum &amp; dignitatum mundanarum 
     </p>
@@ -1236,7 +1232,7 @@
     </p>
             <p xml:id="yyy8Uu-gxd615-d1e2399">
                <lb ed="#H" n="26"/>
-               <pc type="indent"/><quote source="http://scta.info/resource/Itim3_8@1-13 http://scta.info/resource/Itim3_9@1-6 http://scta.info/resource/Itim3_10@1-11">Diaconos oportet esse honestos, non bilingues, non multo vino
+               <pc type="indent"/><quote xml:id="yyy8Uu-gxd615-Qd1e2426" source="http://scta.info/resource/Itim3_8@1-13 http://scta.info/resource/Itim3_9@1-6 http://scta.info/resource/Itim3_10@1-11">Diaconos oportet esse honestos, non bilingues, non multo vino
       <lb ed="#H" n="27"/>deditos, non turpem quaestum facientes, tenentes mysterium fidei i1
       <lb ed="#H" n="28"/>pura conscientia. Atque hi etiam probentur prius, deinde ministrent,
       <lb ed="#H" n="29"/>si sunt inculpati,</quote> I. Tim. 3. v. 8, 9, 10.

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -90,7 +86,7 @@
       per<lb ed="#H" n="164" break="no"/>fundit ineffabili quodam sensu charitetis Dei, quam nos complectitur 
       <lb ed="#H" n="165"/>in Christo Jesu Domino &amp; Servatore nostro, pro nobis in mortem? 
       <lb ed="#H" n="166"/>tradito, ut certitudinem salutis aeternae nobis obsignet. Romanor. 
-      ca<lb ed="#H" n="167" break="no"/>pite quinto, versiculo quinto: <quote source="http://scta.info/resource/rom5_5@1-19">Spes non pudefucit, eo quod charitas Dei
+      ca<lb ed="#H" n="167" break="no"/>pite quinto, versiculo quinto: <quote xml:id="yyy8Uu-gxd556-Qd1e169" source="http://scta.info/resource/rom5_5@1-19">Spes non pudefucit, eo quod charitas Dei
       <lb ed="#H" n="168"/>fsuia est, id est, abundanter &amp; opulenter testificata. in cordibus nostris
       <lb ed="#H" n="169"/>per Spiritum Sanctum qui datus est nobis.</quote> Et cap. 8. 16.
       <!--cod-MkL9py-0540.xml-->
@@ -100,21 +96,21 @@
       <lb ed="#H" n="2"/>gertitudo tum omnium beneficiorum divinorum ad salutem 
       aeter<lb ed="#H" n="3" break="no"/>mam pertinentium, tum etiam externorum &amp; aliorum internorum 
       <lb ed="#H" n="4"/>signorum infallibiliter nobis confirmatur, 2. Corinth. 1. vers. 21, 22.
-      <lb ed="#H" n="5"/><quote source="http://scta.info/resource/IIcor1_21@1-12 http://scta.info/resource/IIcor1_22">Qui nos confirmat vobiscum in Christum, &amp; qui unxit nos, Deus est
+      <lb ed="#H" n="5"/><quote xml:id="yyy8Uu-gxd556-Qd1e192" source="http://scta.info/resource/IIcor1_21@1-12 http://scta.info/resource/IIcor1_22">Qui nos confirmat vobiscum in Christum, &amp; qui unxit nos, Deus est
       <lb ed="#H" n="6"/>Qui etiam obsignavit nos, &amp; indidit arrhabonem Spiritus cordibus
       no<lb ed="#H" n="7" break="no"/>istris.</quote> Item cap. 5. 5. Ephes. 1. vers. 13. 14. Per quod etiam Evangelium 
       <lb ed="#H" n="8"/>posteaquam credidistis obsignati estis Spiritu illo promissionis sancto 
       <lb ed="#H" n="9"/>Qui est arrhabo haereditatis nostrae, dum in libertatem vindicemur, ad 
       <lb ed="#H" n="10"/>daudem gloriae ipsius. Et cap. 4. 30. Ne tristitia afficite Spiritum illum 
       <lb ed="#H" n="11"/>sanctum Dei, per quem obsignati estis in diem redemtionis. Apoc. 2. 17.
-      <lb ed="#H" n="12"/><quote source="http://scta.info/resource/ap2_17@9-30">Ei qui vicerit tribuam ut edat ex Manna illo abscondito, &amp; dabo illi
+      <lb ed="#H" n="12"/><quote xml:id="yyy8Uu-gxd556-Qd1e209" source="http://scta.info/resource/ap2_17@9-30">Ei qui vicerit tribuam ut edat ex Manna illo abscondito, &amp; dabo illi
       cal<lb ed="#H" n="13" break="no"/>eclum album, &amp; in calculo nomen novum scriptum, quod nemo
       novi<lb ed="#H" n="14" break="no"/>nisi qui accipit.</quote> Calculus iste albus est testimonium internum Spiritu 
       <lb ed="#H" n="15"/>Sancti, quo nobis Christus Dominus declarat &amp; obsignat nos esse 
       e<lb ed="#H" n="16" break="no"/>lectos ad vitam &amp; absolutos a condemnatione aeterna, nosque esse 
       <lb ed="#H" n="17"/>per Spiritum Sanctum novos homines factos, &amp; in filios Dei 
       adop<lb ed="#H" n="18" break="no"/>tatos, sic ut non amplius filii irae &amp; diaboli, sed filii Dei simus &amp; vero 
-      <lb ed="#H" n="19"/>nominemur, 1. Joh. 31. <quote source="http://scta.info/resource/Iio3_1@1-10">Videte qualem charitatem dedit nobis Pater, ut
+      <lb ed="#H" n="19"/>nominemur, 1. Joh. 31. <quote xml:id="yyy8Uu-gxd556-Qd1e227" source="http://scta.info/resource/Iio3_1@1-10">Videte qualem charitatem dedit nobis Pater, ut
       <lb ed="#H" n="20"/>filij Dei nominemur.</quote> De hoc testimonio Spiritus Sancti Bernardis 
       <lb ed="#H" n="21"/>praeclare in epistolam centesima-septima ait: Prodit in lucem ad 
       miseri<lb ed="#H" n="22" break="no"/>consolationem, magnum censilium quod ab aterno latuerat in sinu 

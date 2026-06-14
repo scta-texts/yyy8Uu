@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -125,7 +121,7 @@
             <p xml:id="yyy8Uu-gxd882-d1e237">
                <lb ed="#H" n="42"/>
                <pc type="indent"/>Metonymice religionis nomen tribuitur etiam effectis ejus, 
-      vel<lb ed="#H" n="43" break="no"/>uti Jac. 1. v. 27. <quote source="http://scta.info/resource/iac1_27@1-23">Religio pura &amp; incontaminata apud Deum &amp; Patrem
+      vel<lb ed="#H" n="43" break="no"/>uti Jac. 1. v. 27. <quote xml:id="yyy8Uu-gxd882-Qd1e241" source="http://scta.info/resource/iac1_27@1-23">Religio pura &amp; incontaminata apud Deum &amp; Patrem
       <lb ed="#H" n="44"/>haec est, invisere orphanos &amp; viduas in afflictione ipsorum, &amp;
       immacu<lb ed="#H" n="45" break="no"/>latum sese servare a mundo.</quote> 
     </p>
@@ -168,7 +164,7 @@
       <lb ed="#H" n="65"/>per naturalem generationem e parentibus in liberos, sed nec ex 
       insti<lb ed="#H" n="66" break="no"/>tutione ipsa nascitur, sed est χαρισμα Dei &amp; ab ipso in uniuscujusque 
       <lb ed="#H" n="67"/>corde creatur. Dona enim supernaturalia in anima hominis a 
-      DEO<lb ed="#H" n="68" break="no"/>creantur. ut &amp; Scholastici loquuntur. Jac. 1. v. 17. <quote source="http://scta.info/resource/iac1_17@1-18">Omnis donatio vona,
+      DEO<lb ed="#H" n="68" break="no"/>creantur. ut &amp; Scholastici loquuntur. Jac. 1. v. 17. <quote xml:id="yyy8Uu-gxd882-Qd1e326" source="http://scta.info/resource/iac1_17@1-18">Omnis donatio vona,
       <lb ed="#H" n="69"/>&amp; omne perfectum donum est superne, doscendens a Patre luminum,
       a<lb ed="#H" n="70" break="no"/>pud quem non est transmutatio aut vicissit udinis obumbratio.</quote> 2. Petr.
       <lb ed="#H" n="71"/>1. v. 1, 2, 3. Gratia vobis &amp; pax multiplicetur in agnitione Dei &amp; Iesus 
@@ -199,10 +195,10 @@
                <lb ed="#H" n="85"/>
                <pc type="indent"/>Fine est divina, tum principali, quia ad solius Dei gloriam pertinet: 
       <lb ed="#H" n="86"/>tum subordinato, quia ad veram beatitudinem, hoc est, ad 
-      communi<lb ed="#H" n="87" break="no"/>onem cum Deo homines perducit 1. Joh. 1. v. 3. <quote source="http://scta.info/resource/Iio1_3@1-25">Quod, inquam,
+      communi<lb ed="#H" n="87" break="no"/>onem cum Deo homines perducit 1. Joh. 1. v. 3. <quote xml:id="yyy8Uu-gxd882-Qd1e390" source="http://scta.info/resource/Iio1_3@1-25">Quod, inquam,
       vidi<lb ed="#H" n="88" break="no"/>mus &amp; audivimus, id annunciamus vobis, ut &amp; vos communionem.
       <lb ed="#H" n="89"/>habeatis nobiscum: &amp; communio nostra sit cum Patre &amp; cum Filio
-      e<lb ed="#H" n="90" break="no"/>jus Iesu Christo.</quote> Et v 7. <quote source="http://scta.info/resource/Iio1_7@1-25">Quod si in luce ambulamus, sicut ipse est in luce,
+      e<lb ed="#H" n="90" break="no"/>jus Iesu Christo.</quote> Et v 7. <quote xml:id="yyy8Uu-gxd882-Qd1e400" source="http://scta.info/resource/Iio1_7@1-25">Quod si in luce ambulamus, sicut ipse est in luce,
       <lb ed="#H" n="91"/>communionem habemus cum eo mutuam, &amp; sanguis Iesu Christi Filij.
       <lb ed="#H" n="92"/>ejus purificat nos ab omni peccato.</quote> Unde a veteribus religio via ad 
       <lb ed="#H" n="93"/>Deum dicta. 
@@ -213,7 +209,7 @@
       <lb ed="#H" n="95"/>abruperat, reconciliatione religat &amp; obstringit, unde religio dicta. 2. 
       <lb ed="#H" n="96"/>quia divinam &amp; solidam consorationem in Christo exhibet. 3. quia 
       <lb ed="#H" n="97"/>virtutum omnium, quibus similes Deo fimus, mater est, sicut dicitur  
-      <lb ed="#H" n="98"/>Jacobi 1. versic. 27. <quote source="http://scta.info/resource/iac1_27@1-23">Religio pura &amp; incontaminata apud Deum &amp;
+      <lb ed="#H" n="98"/>Jacobi 1. versic. 27. <quote xml:id="yyy8Uu-gxd882-Qd1e426" source="http://scta.info/resource/iac1_27@1-23">Religio pura &amp; incontaminata apud Deum &amp;
       Pa<lb ed="#H" n="99" break="no"/>trem haec est, invisere orphanos &amp; viduas in afflictione ipsorum, &amp;
       im<lb ed="#H" n="100" break="no"/>maculatum sese conservare a mundo</quote> 
     </p>
@@ -233,7 +229,7 @@
       <lb ed="#H" n="109"/>unica &amp; aeterna Dei veritate profecta agnoscit unum corpus 
       mysti<lb ed="#H" n="110" break="no"/>cum totius Ecclesiae Catholicae: unus Spiritus nos illuminans &amp; 
       vivi<lb ed="#H" n="111" break="no"/>ficans: unum baptisma in quo Christum induimus: una vocationis 
-      <lb ed="#H" n="112"/>nostrae spes &amp; meta Eph. 4. v 5, 6. <quote source="http://scta.info/resource/eph4_4@1-13 http://scta.info/resource/eph4_5@1-6 http://scta.info/resource/eph4_6@1-15">Vnum est corpus, &amp; unus Spiritus,
+      <lb ed="#H" n="112"/>nostrae spes &amp; meta Eph. 4. v 5, 6. <quote xml:id="yyy8Uu-gxd882-Qd1e468" source="http://scta.info/resource/eph4_4@1-13 http://scta.info/resource/eph4_5@1-6 http://scta.info/resource/eph4_6@1-15">Vnum est corpus, &amp; unus Spiritus,
       <lb ed="#H" n="113"/>sicut &amp; vocati estis in unam spem vocationis vestrae. Unus Dominus,
       V<lb ed="#H" n="114" break="no"/>na Fides, Vnum Baptisma: Vnus Deus &amp; Pater omnium, qui est super
       <lb ed="#H" n="115"/>omnes, &amp; per omnes, &amp; in omnibus vobis.</quote> 
@@ -243,7 +239,7 @@
                <pc type="indent"/>2. Quia unica est tantum ratio recte colendi Deum. 
       <lb ed="#H" n="117"/>3. Quia verum &amp; unum inter se convertuntur, ut uno plus verum. 
       <lb ed="#H" n="118"/>esse non possit. Ideo in Scripturis Sanctis vera religio κατ ἔζοχεν 
-      vo<lb ed="#H" n="119" break="no"/>catur ἀληθεια, Veritas, Tit. 1. v. 1. <quote source="http://scta.info/resource/tit1_1@1-18">Paulus servus Dei, Apostolus autem
+      vo<lb ed="#H" n="119" break="no"/>catur ἀληθεια, Veritas, Tit. 1. v. 1. <quote xml:id="yyy8Uu-gxd882-Qd1e491" source="http://scta.info/resource/tit1_1@1-18">Paulus servus Dei, Apostolus autem
       <lb ed="#H" n="120"/>Iesu Christi secundum fidem electorum Dei, &amp; agnitionem veritatis
       <lb ed="#H" n="121"/>quae est secundum pietatem.</quote> Johan. 17. vers. 17. Sanctifica eos tua 
       veri<lb ed="#H" n="122" break="no"/>tate: sermo ille tuus veritas est. 
@@ -251,7 +247,7 @@
             <p xml:id="yyy8Uu-gxd882-d1e485">
                <lb ed="#H" n="123"/>
                <pc type="indent"/>Proinde vera religio sola proprie est, aliae non sunt, sed dicuntur 
-      es<lb ed="#H" n="124" break="no"/>se: sicut etiam <quote source="http://scta.info/resource/Icor8_5@3-20 http://scta.info/resource/Icor8_6@1-5">si sint qui dicantur dii, &amp; in coelo &amp; in terra (sicut sunt
+      es<lb ed="#H" n="124" break="no"/>se: sicut etiam <quote xml:id="yyy8Uu-gxd882-Qd1e509" source="http://scta.info/resource/Icor8_5@3-20 http://scta.info/resource/Icor8_6@1-5">si sint qui dicantur dii, &amp; in coelo &amp; in terra (sicut sunt
       <lb ed="#H" n="125"/>dii multi &amp; domini multi) Nobis tamen unus est Deus,</quote> &amp; c. 1. Cor. 8. v. 6. 
     </p>
             <p xml:id="yyy8Uu-gxd882-d1e496">
@@ -266,7 +262,7 @@
                <pc type="indent"/>Quod ad unumquemque hominum pro se attinet, est ei vera 
       reli<lb ed="#H" n="131" break="no"/>gio seu pietas necessaria, quia a Deo praecepta 1. Tim. 4. 7. Exerce 
       te<lb ed="#H" n="132" break="no"/>ipsum ad pietatem: est ei ad omnia utilis, habens promissiones hujus 
-      <lb ed="#H" n="133"/>&amp; futurae vitae, 1. Timoth. 4. 8. Exodi 23. vers. 25, 26. <quote source="http://scta.info/resource/ex23_25@1-16 http://scta.info/resource/ex23_26@1-12">Sic coletis
+      <lb ed="#H" n="133"/>&amp; futurae vitae, 1. Timoth. 4. 8. Exodi 23. vers. 25, 26. <quote xml:id="yyy8Uu-gxd882-Qd1e542" source="http://scta.info/resource/ex23_25@1-16 http://scta.info/resource/ex23_26@1-12">Sic coletis
       Ieho<lb ed="#H" n="134" break="no"/>vam Deum vistrum, qui benedicet panituo &amp; aquae tuae: &amp;
       amovebo<lb ed="#H" n="135" break="no"/>quemvis morbum e medio tui: Non erit abortiens aut sterilis in terra
       <lb ed="#H" n="136"/>tua: numerum dierum tuorum complebo.</quote> Deuter. 4. v. 4. Vis qui 
@@ -357,22 +353,22 @@
                <lb ed="#H" n="52"/>
                <pc type="indent"/>Primum est, quia Magistratui illam Deus ipse peculiariter 
       impe<lb ed="#H" n="53" break="no"/>rat, ut constat ex subjectis testimoniis. Gen. 17. v. 1, 2. apparuit 
-      Ieho<lb ed="#H" n="54" break="no"/>va Abrahamo, &amp; dixit ei; <quote source="http://scta.info/resource/gen17_1@15-23 http://scta.info/resource/gen17_2@1-12">Ego sum Deus fortis omnipotens;
+      Ieho<lb ed="#H" n="54" break="no"/>va Abrahamo, &amp; dixit ei; <quote xml:id="yyy8Uu-gxd882-Qd1e729" source="http://scta.info/resource/gen17_1@15-23 http://scta.info/resource/gen17_2@1-12">Ego sum Deus fortis omnipotens;
       indesi<lb ed="#H" n="55" break="no"/>nenter ambula coram me &amp; esto integer; &amp; disponam fedus meum in
       <lb ed="#H" n="56"/>ter me &amp; te; &amp; multiplicabo te quam plurimum.</quote> Deuteron. 17. vers.
-      <lb ed="#H" n="57"/>18, 19, 20. <quote source="http://scta.info/resource/deut17_18@8-20 http://scta.info/resource/deut17_19@1-25 http://scta.info/resource/deut17_20@1-26">Rex describat sibi exemplum hujus Legis in libro, ex eo quo
+      <lb ed="#H" n="57"/>18, 19, 20. <quote xml:id="yyy8Uu-gxd882-Qd1e739" source="http://scta.info/resource/deut17_18@8-20 http://scta.info/resource/deut17_19@1-25 http://scta.info/resource/deut17_20@1-26">Rex describat sibi exemplum hujus Legis in libro, ex eo quo
       <lb ed="#H" n="58"/>erit in conspectu Sacerdotum Leviticorum; eritque penes eum, &amp; leget i1
       <lb ed="#H" n="59"/>eo omnibus diebus vitae suae; ut discat timere Iehovam Deum suum &amp;
       <lb ed="#H" n="60"/>observare omnia verba hujus Legis &amp; statuta ista faciendo ea: Ne
       effe<lb ed="#H" n="61" break="no"/>ratur animus ejus prae fratribus suis, &amp; ne recedat ab hoc praecepto
       dex<lb ed="#H" n="62" break="no"/>trorsum aut sinistrorsum: ut prolonget dies in regno suo, ipse &amp; filii eju
-      <lb ed="#H" n="63"/>in medio Israelis.</quote> Jos. 1. vers. 7, 8. <quote source="http://scta.info/resource/ios1_7@1-32 http://scta.info/resource/ios1_8@1-26">Tantummodo confirmare &amp; fortis
+      <lb ed="#H" n="63"/>in medio Israelis.</quote> Jos. 1. vers. 7, 8. <quote xml:id="yyy8Uu-gxd882-Qd1e755" source="http://scta.info/resource/ios1_7@1-32 http://scta.info/resource/ios1_8@1-26">Tantummodo confirmare &amp; fortis
       e<lb ed="#H" n="64" break="no"/>sto valde, ut cum observantia prorsus facias secundum Legem illam,
       <lb ed="#H" n="65"/>quam praecepit tibi Moses servus meus, nec recede ab eo dextrorsum
       au<lb ed="#H" n="66" break="no"/>sinistrorsum: ut secunderis quocunque iveris. Ne discedito liber iste ex
       or<lb ed="#H" n="67" break="no"/>tuo, sed meditaberis de eo interdiu ac noctu: ut cum observantia facias
       <lb ed="#H" n="68"/>omnino prout scriptum est in eo: tunc enim prosperaberis in viis tuis, &amp;
-      <lb ed="#H" n="69"/>tunc secundaberis</quote> Psalm. 2. versic. 10, 11, 12. <quote source="http://scta.info/resource/ps2_10@1-8 http://scta.info/resource/ps2_11@1-9 http://scta.info/resource/ps2_12@1-10">Nunc ergo Reges anima.
+      <lb ed="#H" n="69"/>tunc secundaberis</quote> Psalm. 2. versic. 10, 11, 12. <quote xml:id="yyy8Uu-gxd882-Qd1e771" source="http://scta.info/resource/ps2_10@1-8 http://scta.info/resource/ps2_11@1-9 http://scta.info/resource/ps2_12@1-10">Nunc ergo Reges anima.
       <lb ed="#H" n="70"/>vertite, eruditionem per cipite Iudices terrae. Colite Iehovam cum revo
       <lb ed="#H" n="71"/>ventia &amp; exsultate cum tremore. Osculamini Filium ut non irascatur, &amp;
       <lb ed="#H" n="72"/>pereatis in via cum exarserit vel minimum ira ejus: beati omnes qui si
@@ -431,16 +427,16 @@
       primi<lb ed="#H" n="108" break="no"/>biis religiosisque Magistratibus prospera plutima largiti. Quod usq 
       <lb ed="#H" n="109"/>adeo certum est, ut Deus etiam imaginem &amp; speciem religionis in 
       <lb ed="#H" n="110"/>Gentilibus Principibus &amp; populis honestarit &amp; muneratit. 1. Reg. 2. 
-      <lb ed="#H" n="111"/>1, 2, 3. 4. <quote source="http://scta.info/resource/Ireg2_1@1-11 http://scta.info/resource/Ireg2_2@2-9 http://scta.info/resource/Ireg2_3@1-37">Quumque prope essent dies Davidis, ut moreretur; Praecepit
+      <lb ed="#H" n="111"/>1, 2, 3. 4. <quote xml:id="yyy8Uu-gxd882-Qd1e893" source="http://scta.info/resource/Ireg2_1@1-11 http://scta.info/resource/Ireg2_2@2-9 http://scta.info/resource/Ireg2_3@1-37">Quumque prope essent dies Davidis, ut moreretur; Praecepit
       Sa<lb ed="#H" n="112" break="no"/>lomoni filio suo, dicendo: ego decessurus sum brevi pro consuetudine
       to<lb ed="#H" n="113" break="no"/>tius terrae: tu vero confirmaberis, &amp; vir futurus es: &amp; observabis
       ob<lb ed="#H" n="114" break="no"/>servationes Iehova Dei tui, ambulando in viis ejus, servando statuta
       e<lb ed="#H" n="115" break="no"/>jus, &amp; praecepta ejus, iudiciaque eius, &amp; testimonia eius, sicut scriptum
       <lb ed="#H" n="116"/>est in lege Mosis: ut secundes quicquid feceris, &amp; quocunque te verteris.</quote>
-      <lb ed="#H" n="117"/>Et cap. 3. versicul. decimo-quarto: ait Jehova ad Salomonem: <quote source="http://scta.info/resource/Ireg3_14@1-21">Quod
+      <lb ed="#H" n="117"/>Et cap. 3. versicul. decimo-quarto: ait Jehova ad Salomonem: <quote xml:id="yyy8Uu-gxd882-Qd1e909" source="http://scta.info/resource/Ireg3_14@1-21">Quod
       <lb ed="#H" n="118"/>si ambulaveris per vias meas observando statuta mea &amp; praecepta meu,
       <lb ed="#H" n="119"/>quemadmodum ambulavit David pater tuus, etiam prolongabo
-      die<lb ed="#H" n="120" break="no"/>tuos.</quote> Et capite sexto, versiculo 12, 13. <quote source="http://scta.info/resource/Ireg6_12@1-32 http://scta.info/resource/Ireg6_13@2-12">Si ambulaveris (o Salomon)
+      die<lb ed="#H" n="120" break="no"/>tuos.</quote> Et capite sexto, versiculo 12, 13. <quote xml:id="yyy8Uu-gxd882-Qd1e918" source="http://scta.info/resource/Ireg6_12@1-32 http://scta.info/resource/Ireg6_13@2-12">Si ambulaveris (o Salomon)
       in<lb ed="#H" n="121" break="no"/>tatutis meis &amp; statuta mea exercueris, ac observaveris omnia praecepta
       <lb ed="#H" n="122"/>mea ambulando in eis, utique praestabo verbum meum erga te, quod
       lo<lb ed="#H" n="123" break="no"/>quutus sum Davidi patrituo, &amp; habitabo inter Israelitas, neque
@@ -484,16 +480,16 @@
       Chri<lb ed="#H" n="146" break="no"/>stum Deus omnipotens, cui uni religio nos religat; quia inter 
       men<lb ed="#H" n="147" break="no"/>tem nostram qua illum intelligimus &amp; veritatem, id est, lucem interi 
       <lb ed="#H" n="148"/>porem, per quam illum agnoscimus, quaque illum colimus, nulla in 
-      <lb ed="#H" n="149"/>perposita creatura est, Johan. 20. 31. <quote source="http://scta.info/resource/io20_31@1-20">Haec autem scripta sunt, ut
+      <lb ed="#H" n="149"/>perposita creatura est, Johan. 20. 31. <quote xml:id="yyy8Uu-gxd882-Qd1e1006" source="http://scta.info/resource/io20_31@1-20">Haec autem scripta sunt, ut
       creda<lb ed="#H" n="150" break="no"/>tis Iesum esse Christum illum Filium Dei, &amp; ut credentes vitam
       haba<lb ed="#H" n="151" break="no"/>atis per nomen eius.</quote> Actor. 9. vers. 20. Statim in synagogis praedicavit.  
-      <lb ed="#H" n="152"/>Christum, nempe eum esse Filium illum Dei. 1. Corinth. 2. vers. 2. <quote source="http://scta.info/resource/Icor2_2@1-14">Non
+      <lb ed="#H" n="152"/>Christum, nempe eum esse Filium illum Dei. 1. Corinth. 2. vers. 2. <quote xml:id="yyy8Uu-gxd882-Qd1e1015" source="http://scta.info/resource/Icor2_2@1-14">Non
       <lb ed="#H" n="153"/>enim statui scire quicquam inter vos, nisi Iesum Christum, eumque
       cruci<lb ed="#H" n="154" break="no"/>fixum:</quote> tum respectu subiecti cui inest, quod est Christianus populus, 
       <lb ed="#H" n="155"/>qui induit Christum ejusque particeps &amp; imitator est, hoc est, ver 
       <lb ed="#H" n="156"/>Christiana, Catholica atque orthodoxa Ecclesia, in qua sola est vera 
       <lb ed="#H" n="157"/>religio, cum ipsa sola in mundo sit columna &amp; stabilimentum verita. 
-      <lb ed="#H" n="158"/>tis, 1. Tim. 3. v. 15. <quote source="http://scta.info/resource/Itim3_15@1-21">Quod si tardavero, ut noris quomodo oporteat in
+      <lb ed="#H" n="158"/>tis, 1. Tim. 3. v. 15. <quote xml:id="yyy8Uu-gxd882-Qd1e1031" source="http://scta.info/resource/Itim3_15@1-21">Quod si tardavero, ut noris quomodo oporteat in
       do<lb ed="#H" n="159" break="no"/>mo Dei versari, quae est Ecclesia Dei vivi, columna &amp; stabilimentum
       <lb ed="#H" n="160"/>veritatis,</quote> 
     </p>
@@ -553,7 +549,7 @@
             <p xml:id="yyy8Uu-gxd882-d1e1100">
                <lb ed="#H" n="15"/>
                <pc type="indent"/>3. Quia genti sanctae divinitus patefacta est, 1. Petr. 2. vers9.
-      Vo<lb ed="#H" n="16" break="no"/><quote source="http://scta.info/resource/Ipetr2_9@2-23">autem genus electum regale sacerdotium, gens sancta, populus quem sibi
+      Vo<lb ed="#H" n="16" break="no"/><quote xml:id="yyy8Uu-gxd882-Qd1e1155" source="http://scta.info/resource/Ipetr2_9@2-23">autem genus electum regale sacerdotium, gens sancta, populus quem sibi
       <lb ed="#H" n="17"/>Deus ut proprium vendicat: ut virtutes praedicetis illius qui vos vocavi
       <lb ed="#H" n="18"/>se tenebris in admirabilem suam lucem</quote> 
     </p>
@@ -577,12 +573,12 @@
       <lb ed="#H" n="31"/>tim, non ab uno aliquo homine, sed a pluribus, &amp; per secula interdum 
       <lb ed="#H" n="32"/>plura. 
       <lb ed="#H" n="33"/>Deformatur vel additione humanarum opinionum &amp; traditionum: 
-      <lb ed="#H" n="34"/>vel detractione eius quod Deus praescripsit Deut. 4, 2. <quote source="http://scta.info/resource/deut4_2@1-20">Ne addite ad
+      <lb ed="#H" n="34"/>vel detractione eius quod Deus praescripsit Deut. 4, 2. <quote xml:id="yyy8Uu-gxd882-Qd1e1207" source="http://scta.info/resource/deut4_2@1-20">Ne addite ad
       <lb ed="#H" n="35"/>verbum illud quod ego praecipio vobis, neque detrahite de eo, ut servetis
       prae<lb ed="#H" n="36" break="no"/>cepta Iehova Dei vestri quae ego praecipio vobis.</quote> Et cap. 12. v. 32. 
       Unam<lb ed="#H" n="37" break="no"/>quamque rem quam ego praecipio vobis, eam observantes facite: ne addit. 
       <lb ed="#H" n="38"/>ei, neque detrahito ex ea. Vel perversitate morum religioni verae non 
-      <lb ed="#H" n="39"/>respondentium Rom. 2. v. 17. &amp; seq. <quote source="http://scta.info/resource/rom2_17@1-13 http://scta.info/resource/rom2_18@1-9 http://scta.info/resource/rom2_19@1-12 http://scta.info/resource/rom2_20@1-11 http://scta.info/resource/rom2_21@1-13 http://scta.info/resource/rom2_22@1-10">Ecce tu cognominaris Iudaeus &amp;
+      <lb ed="#H" n="39"/>respondentium Rom. 2. v. 17. &amp; seq. <quote xml:id="yyy8Uu-gxd882-Qd1e1221" source="http://scta.info/resource/rom2_17@1-13 http://scta.info/resource/rom2_18@1-9 http://scta.info/resource/rom2_19@1-12 http://scta.info/resource/rom2_20@1-11 http://scta.info/resource/rom2_21@1-13 http://scta.info/resource/rom2_22@1-10">Ecce tu cognominaris Iudaeus &amp;
       <lb ed="#H" n="40"/>acquiescis in Lege, &amp; gloriaris in Deo. Et nosti eius uoluntatem, &amp; ex
       <lb ed="#H" n="41"/>ploras quae discrepant, institutus ex Legis auditu. Confidisque te viae ducem
       <lb ed="#H" n="42"/>esse caecis, lucem eorum qui sunt in tenebris, Eruditorem desipietium,

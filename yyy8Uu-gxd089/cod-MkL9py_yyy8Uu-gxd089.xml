@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -105,9 +101,9 @@
       <lb ed="#H" n="136"/>bona opera sequuntur justificatos, non praecedunt justificandos, ac 
       <lb ed="#H" n="137"/>roinde sunt necessaria in justificatis &amp; salvandis, non ut causae 
       ju<lb ed="#H" n="138" break="no"/>stificationis &amp; salutis, sed ut τεκμήρια &amp; signa justificatorum &amp; 
-      sal<lb ed="#H" n="139" break="no"/>vandorum. Jac. 2. vers. 21. <quote source="http://scta.info/resource/iac2_21@1-14">Abrahamus pater ille noster nonne ex
+      sal<lb ed="#H" n="139" break="no"/>vandorum. Jac. 2. vers. 21. <quote xml:id="yyy8Uu-gxd089-Qd1e199" source="http://scta.info/resource/iac2_21@1-14">Abrahamus pater ille noster nonne ex
       o<lb ed="#H" n="140" break="no"/>peribus justificatus, quum obtulisset Isaacum filium suum super altaret</quote>
-      <lb ed="#H" n="141"/>Et vers. 24, 25. <quote source="http://scta.info/resource/iac2_24@1-11">Videtis igitur ex operibus iustificari hominem, &amp;
+      <lb ed="#H" n="141"/>Et vers. 24, 25. <quote xml:id="yyy8Uu-gxd089-Qd1e206" source="http://scta.info/resource/iac2_24@1-11">Videtis igitur ex operibus iustificari hominem, &amp;
       <lb ed="#H" n="142"/>non ex fide tantum?</quote> Similiter autem etiam Rahab illa meretrix 
       an<lb ed="#H" n="143" break="no"/>non ex operibus iustificata est, quum accepisset nuncios illos, &amp; alia 
       via<lb ed="#H" n="144" break="no"/>emisisset . 
@@ -146,7 +142,7 @@
             <p xml:id="yyy8Uu-gxd089-d1e276">
                <lb ed="#H" n="164"/>
                <pc type="indent"/>VII. Ut illis ornemus vocationem nostram &amp; obihuremus 
-      ora<lb ed="#H" n="165" break="no"/>calumniantium nos tanquam sceleratos. Matthae 1 5. vers. 9. <quote source="http://scta.info/resource/mt5_9@1-6">Beati qui
+      ora<lb ed="#H" n="165" break="no"/>calumniantium nos tanquam sceleratos. Matthae 1 5. vers. 9. <quote xml:id="yyy8Uu-gxd089-Qd1e286" source="http://scta.info/resource/mt5_9@1-6">Beati qui
       <lb ed="#H" n="166"/>sunt pacifici: quoniam filii Dei vocabuntur.</quote> 1. Pet. 2. v. 15. Quoniam 
       ita<lb ed="#H" n="167" break="no"/>stvoluntas Dei, ut bene agendo os obstruatis desipientium hominum 
       <lb ed="#H" n="168"/>ignorantia. 
@@ -155,14 +151,14 @@
                <lb ed="#H" n="169"/>
                <pc type="indent"/>IIX. Ut vitemus poenas tum temporales, veluti justum 
       vituperi<lb ed="#H" n="170" break="no"/>um, infamiam, supplicium corporale: tum aeternas, 2. Cor. 8. v. 20, 21 
-      <lb ed="#H" n="171"/><quote source="http://scta.info/resource/IIcor8_20@1-13 http://scta.info/resource/IIcor8_21@1-11">Vitantes hoc, ne quis nos vituperet in hac ubertate quae administratur:
+      <lb ed="#H" n="171"/><quote xml:id="yyy8Uu-gxd089-Qd1e306" source="http://scta.info/resource/IIcor8_20@1-13 http://scta.info/resource/IIcor8_21@1-11">Vitantes hoc, ne quis nos vituperet in hac ubertate quae administratur:
       <lb ed="#H" n="172"/>a nobis. Vt qui procuremus honesta non solum in conspectu Domini, sed
       <lb ed="#H" n="173"/>etiam in conspectu hominum.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd089-d1e308">
                <lb ed="#H" n="174"/>
                <pc type="indent"/>IX. Ut praemia bene operantibus gratuito promissa 
-      consequa<lb ed="#H" n="175" break="no"/>mur: sicut dicit Moses Deuteron. 6. 2. <quote source="http://scta.info/resource/deut6_2@1-29">Vt timeas Iehovam Deum tuum
+      consequa<lb ed="#H" n="175" break="no"/>mur: sicut dicit Moses Deuteron. 6. 2. <quote xml:id="yyy8Uu-gxd089-Qd1e322" source="http://scta.info/resource/deut6_2@1-29">Vt timeas Iehovam Deum tuum
       <lb ed="#H" n="176"/>observando omnia statuta eiu: &amp; praecepta eius quae ego praecipio
       ti<lb ed="#H" n="177" break="no"/>bi, tu &amp; filius tuus &amp; nepos tuus omnibus diebus viae tuae, &amp; ut
       prolon<lb ed="#H" n="178" break="no"/>gent dies tuos.</quote> 
@@ -170,7 +166,7 @@
       <pb ed="#H" n="564"/>
                <cb ed="#H" n="a"/>
                <lb ed="#H" n="1"/>Huc pertinet parabola de operatiis in vinea, Matt 20. item c. 25. 
-      <lb ed="#H" n="2"/>Matthaei: Et quod dicitur Joh. 12. v. 26. <quote source="http://scta.info/resource/io12_26@1-23">Si quis mihi ministrat, me
+      <lb ed="#H" n="2"/>Matthaei: Et quod dicitur Joh. 12. v. 26. <quote xml:id="yyy8Uu-gxd089-Qd1e342" source="http://scta.info/resource/io12_26@1-23">Si quis mihi ministrat, me
       se<lb ed="#H" n="3" break="no"/>quatur, &amp; ubi ego fuero, illic &amp; minister meus erit: &amp; siquis mihi
       mini<lb ed="#H" n="4" break="no"/>straverit, honorabit eum Pater.</quote> Sic dicitur Heb. 11. 6. Qui accedit ad 
       <lb ed="#H" n="5"/>Deum, hunc credere oportet esse Deum, &amp; praemia largiri iis qui ipsum 
@@ -182,21 +178,21 @@
                <lb ed="#H" n="9"/>
                <pc type="indent"/>Proximi causa opera bona a nobis sunt facienda: I. Ut simus uti 
       <lb ed="#H" n="10"/>les proximo, hoc est, ut exemplis officiisque nostris aedificemus fide 
-      <lb ed="#H" n="11"/>es &amp; lucrifaciamus infideles. Matth. 5. ver. 16. <quote source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux
+      <lb ed="#H" n="11"/>es &amp; lucrifaciamus infideles. Matth. 5. ver. 16. <quote xml:id="yyy8Uu-gxd089-Qd1e369" source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux
       <lb ed="#H" n="12"/>vestra coram hominibus, ut videant vestra bona opera, glorificentque
       <lb ed="#H" n="13"/>Patrem illum vestrum qui est in caelis.</quote> 1. Petr. 2. 12. Vt pro eo quod 
       oblo<lb ed="#H" n="14" break="no"/>quuntur vobis ut facinorosis, ex bonis operibus quae spectarint, glorificent 
       <lb ed="#H" n="15"/>Deum die visitationis. Et cap. 3. 1, 2. Similiter uxores sese subjiciant suis. 
       <lb ed="#H" n="16"/>viris: ut etiam si qui non assentiuntur Sermoni, per uxorum conversatis 
       <lb ed="#H" n="17"/>onem absque Sermone lucrificant, Ubi spectarint cum timore conjunctam, 
-      <lb ed="#H" n="18"/>castam conversationem vestram. 1. Coriath. 10. 33. <quote source="http://scta.info/resource/Icor10_33@1-19">Sicut &amp; ego per e
+      <lb ed="#H" n="18"/>castam conversationem vestram. 1. Coriath. 10. 33. <quote xml:id="yyy8Uu-gxd089-Qd1e387" source="http://scta.info/resource/Icor10_33@1-19">Sicut &amp; ego per e
       <lb ed="#H" n="19"/>mnia omnibus placeo, non quaerens meum ip sius utilitatem, sed
       multo<lb ed="#H" n="20" break="no"/>rum, ut serventur.</quote>  
     </p>
             <p xml:id="yyy8Uu-gxd089-d1e378">
                <lb ed="#H" n="21"/>
                <pc type="indent"/>II. Ut nulli simus noxii, hoc est, ne scandalum demus, alitervi 
-      <lb ed="#H" n="22"/>proximo noceamus. Matt. 18. v. 6. &amp; seqq. <quote source="http://scta.info/resource/mt18_6@1-25 http://scta.info/resource/mt18_7@1-17 http://scta.info/resource/mt18_8@1-35 http://scta.info/resource/mt18_9@1-27">Quisquis autem
+      <lb ed="#H" n="22"/>proximo noceamus. Matt. 18. v. 6. &amp; seqq. <quote xml:id="yyy8Uu-gxd089-Qd1e403" source="http://scta.info/resource/mt18_6@1-25 http://scta.info/resource/mt18_7@1-17 http://scta.info/resource/mt18_8@1-35 http://scta.info/resource/mt18_9@1-27">Quisquis autem
       offendicu<lb ed="#H" n="23" break="no"/>lo fuerit uni ex parvis istis qui in me credunt, praestiterit ei ut
       suspenda<lb ed="#H" n="24" break="no"/>tur mola asinaria in collo ejus, ac demergatur in profundo maris. Vi
       <lb ed="#H" n="25"/>mundo ab offendiculis: necesse est enim ut eveniant offendicula: verum.

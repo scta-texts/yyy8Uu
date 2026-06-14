@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,8 +30,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0"
-                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
          <editorialDecl>
             <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
        guidelines for a diplomatic edition.</p>
@@ -66,14 +62,14 @@
       cor<lb ed="#H" n="156" break="no"/>rupta natura ad imaginem Dei per Spiritum Sanctum 
       ex<lb ed="#H" n="157" break="no"/>f¬ <!-- line coord error -->
       <lb ed="#H" n="158"/>semine incorrupto verbi Dei de novo gignitur &amp; instauratur,  
-      <lb ed="#H" n="159"/>1. Pet. 1. v. 3. <quote source="http://scta.info/resource/Ipetr1_3@1-24">Benedictus esto Deus &amp; Pater Domini nostri Iesu Christ.
+      <lb ed="#H" n="159"/>1. Pet. 1. v. 3. <quote xml:id="yyy8Uu-gxd106-Qd1e124" source="http://scta.info/resource/Ipetr1_3@1-24">Benedictus esto Deus &amp; Pater Domini nostri Iesu Christ.
       <lb ed="#H" n="160"/>qui ex multa sua misericordia regenuit nos in spem vivam per
-      resurre<lb ed="#H" n="161" break="no"/>ctionem Iesu Christi ex mortuis.</quote> 2. Pet. 1. v. 4. <quote source="http://scta.info/resource/IIpetr1_4@3-23">Ex eo quod maxima illa
+      resurre<lb ed="#H" n="161" break="no"/>ctionem Iesu Christi ex mortuis.</quote> 2. Pet. 1. v. 4. <quote xml:id="yyy8Uu-gxd106-Qd1e131" source="http://scta.info/resource/IIpetr1_4@3-23">Ex eo quod maxima illa
       <lb ed="#H" n="162"/>nobis ac pretiosa promissa donavit, ut per haec efficeremini divinae consortes.
       <lb ed="#H" n="163"/>naturae, elapsi ex corruptione quae est in mundo per cupiditatem.</quote> Tit. 3. v.
-      <lb ed="#H" n="164"/>5. <quote source="http://scta.info/resource/tit3_5@1-21">Non ex operibus justis quae fecerimus nos, sed ex sua misericordia
+      <lb ed="#H" n="164"/>5. <quote xml:id="yyy8Uu-gxd106-Qd1e140" source="http://scta.info/resource/tit3_5@1-21">Non ex operibus justis quae fecerimus nos, sed ex sua misericordia
       ser<lb ed="#H" n="165" break="no"/>vavit nos per lavacrum regenerationis, &amp; renovationis Spiritus
-      San<lb ed="#H" n="166" break="no"/>cti.</quote> Gal. 4. 6. <quote source="http://scta.info/resource/gal4_6@1-15">Quoniam estis filii, emisit Deus Spiritum Filii sui in
+      San<lb ed="#H" n="166" break="no"/>cti.</quote> Gal. 4. 6. <quote xml:id="yyy8Uu-gxd106-Qd1e147" source="http://scta.info/resource/gal4_6@1-15">Quoniam estis filii, emisit Deus Spiritum Filii sui in
       cor<lb ed="#H" n="167" break="no"/>da vestra, clamantem, Abba, id est, Pater.</quote> 2. Cor. 3. v. 17. Dominus vero, 
       <lb ed="#H" n="168"/>Spiritus ille est: ubi autem Spiritus ille Domini, illic libertas. Coloss. 5. v 
       <lb ed="#H" n="169"/>9, 10. Quum exuti sitis illo vetere homine cum factis ipsius, &amp; indut 
@@ -88,7 +84,7 @@
                <pc type="indent"/>Eadem etiam sanctificatio dicitur. Interdum tamen utrumque 
       <lb ed="#H" n="176"/>nomen, &amp; regenerationis &amp; sanctificationis latiore signficato 
       acci<lb ed="#H" n="177" break="no"/>pitur pro tota nostra salvatione, seu (ut ita loquar) beatificatione, 
-      <lb ed="#H" n="178"/>veluti Heb. 10. vers. 10. <quote source="http://scta.info/resource/hebr10_10@2-12">Qua voluntate sanctificati sumus per
+      <lb ed="#H" n="178"/>veluti Heb. 10. vers. 10. <quote xml:id="yyy8Uu-gxd106-Qd1e182" source="http://scta.info/resource/hebr10_10@2-12">Qua voluntate sanctificati sumus per
       obla<lb ed="#H" n="179" break="no"/>tionem corporis Iesu Christi, semel factam:</quote> hic enim sanctificatio idem? 
       <lb ed="#H" n="180"/>est, quod purgatio, mundatio, ablutio a peccatis. Hoc vero loco, ut  
       <lb ed="#H" n="181"/>plerumque alias, est distinctum beneficium, quod electi vocati, 
@@ -254,7 +250,7 @@
             <p xml:id="yyy8Uu-gxd106-d1e494">
                <lb ed="#H" n="97"/>
                <pc type="indent"/>III. Fuga peccatorum &amp; occasionum peccandi, 1. Johan. 5. 18.
-      <lb ed="#H" n="98"/><quote source="http://scta.info/resource/Iio5_18@3-20">Quisquis natus est ex Deo, non peccat: sed qui genitus est ex Deo,
+      <lb ed="#H" n="98"/><quote xml:id="yyy8Uu-gxd106-Qd1e512" source="http://scta.info/resource/Iio5_18@3-20">Quisquis natus est ex Deo, non peccat: sed qui genitus est ex Deo,
       con<lb ed="#H" n="99" break="no"/>rervat seipsum, &amp; Malus ille non tangit eum</quote>
       <lb ed="#H" n="100"/>electorum ad vitam aeternam; estque non tantum hominum 
       adulto<lb ed="#H" n="101" break="no"/>rum, sed etiam infantium 
@@ -265,7 +261,7 @@
       a<lb ed="#H" n="103" break="no"/>squi servantur, )imaxime si in infantia vel in uteris maternis 
       moria<lb ed="#H" n="104" break="no"/>tur, regenerati &amp; sanctificari necesse est: I. quia nemo electorum 
       <lb ed="#H" n="105"/>ad vitam aeternam e praesenti vita evocatur, qui non ptrius 
-      sanctifice<lb ed="#H" n="106" break="no"/>tur &amp; regeneretur Dei Spiritu: nam <quote source="http://scta.info/resource/Icor15_50@6-13">caro &amp; sanguis regnum Dei
+      sanctifice<lb ed="#H" n="106" break="no"/>tur &amp; regeneretur Dei Spiritu: nam <quote xml:id="yyy8Uu-gxd106-Qd1e537" source="http://scta.info/resource/Icor15_50@6-13">caro &amp; sanguis regnum Dei
       <lb ed="#H" n="107"/>possidere non potest:</quote> in regnum Dei nihil ingreditur pollutum 
       au<lb ed="#H" n="108" break="no"/>coinquinatum: nullis patet in vitam caelestem ingressus nisi renatis, 
       <lb ed="#H" n="109"/>Johan. 3. v. 3 
@@ -344,8 +340,8 @@
                <pc type="indent"/>Mortificatio veteris hominis, est prima nostrae regeferationis pars, 
       <lb ed="#H" n="156"/>dum Spiritus Sanctus nativum illius nostrae corruptionis vigorem 
       <lb ed="#H" n="157"/>paulatim in nobis extinguit, ne fructus amarissimos edat, 
-      Ro<lb ed="#H" n="158" break="no"/>man. 6. ver. 2. <quote source="http://scta.info/resource/rom6_2@1-11">Qui mortui sumus peccato, quomodo adhuc vivemus in
-      <lb ed="#H" n="159"/>eo:</quote> Coloss. 3. v. 3. <quote source="http://scta.info/resource/col3_3@1-12">Mortui estis, &amp; vita vestra abscondita est cum
+      Ro<lb ed="#H" n="158" break="no"/>man. 6. ver. 2. <quote xml:id="yyy8Uu-gxd106-Qd1e696" source="http://scta.info/resource/rom6_2@1-11">Qui mortui sumus peccato, quomodo adhuc vivemus in
+      <lb ed="#H" n="159"/>eo:</quote> Coloss. 3. v. 3. <quote xml:id="yyy8Uu-gxd106-Qd1e701" source="http://scta.info/resource/col3_3@1-12">Mortui estis, &amp; vita vestra abscondita est cum
       Chri<lb ed="#H" n="160" break="no"/>sto in Deo.</quote> 
     </p>
             <p xml:id="yyy8Uu-gxd106-d1e686">
@@ -372,7 +368,7 @@
                <lb ed="#H" n="175"/>
                <pc type="indent"/>Estque huic spirituali mortificatione conjuncta spiritualis 
       sepul<lb ed="#H" n="176" break="no"/>tura, quae est continuus mortificationis progressus Rom. 6. v. 4.
-      <quote source="http://scta.info/resource/rom6_4@1-25">Se<lb ed="#H" n="177" break="no"/>pulti sumus igitur cum eo per baptismum in mortem: ut sicut suscitatus
+      <quote xml:id="yyy8Uu-gxd106-Qd1e756" source="http://scta.info/resource/rom6_4@1-25">Se<lb ed="#H" n="177" break="no"/>pulti sumus igitur cum eo per baptismum in mortem: ut sicut suscitatus
       <lb ed="#H" n="178"/>est Christus ex mortuis in gloriam Patris, ita &amp; nos nova vita
       inceda<lb ed="#H" n="179" break="no"/>mus.</quote> Coloss 2. v. 12. Consepulti cum eo per baptiimum, per quem 
       et<lb ed="#H" n="180" break="no"/>am cum eo suscitati estis per fidem Dei efficaciter agentis, qui suscitavi 
@@ -474,7 +470,7 @@
       <lb ed="#H" n="62"/>malum, sed tantum bonum, ita ut toto homine in melius mutato; 
       <lb ed="#H" n="63"/>abstergatur a mente omnis immundicies, &amp; pravae affectiones 
       ex<lb ed="#H" n="64" break="no"/>cutiantur &amp; opera edantur consentanea resipiscentiae, Jesa. 55. 7.
-      <quote source="http://scta.info/resource/is55_7@1-25">De<lb ed="#H" n="65" break="no"/>relinquat improbus viam suam, &amp; vir iniquus cogitationes suas: revero
+      <quote xml:id="yyy8Uu-gxd106-Qd1e963" source="http://scta.info/resource/is55_7@1-25">De<lb ed="#H" n="65" break="no"/>relinquat improbus viam suam, &amp; vir iniquus cogitationes suas: revero
       <lb ed="#H" n="66"/>taturque ad Iehovam, ut miscreatur ipsius; &amp; ad Deum nostrum, quia
       <lb ed="#H" n="67"/>plurimum condonat.</quote> Actor. 11. v. 18. 2. Tim. 2. 25. Rom. 6. 4, 5, 6. Ephi 
       <lb ed="#H" n="68"/>1. v. 22, 23, 24. Deponere, quod ad pristinam conversationem attinet 
@@ -550,7 +546,7 @@
                <lb ed="#H" n="107"/>
                <pc type="indent"/>Causae administrae, sunt ministri Dei &amp; alii pii ad resipiscentiam non 
       <lb ed="#H" n="108"/>invitantes hortationibus &amp; exemplis suis, Actor. 26. 18, 20. Matth.
-      <lb ed="#H" n="109"/>5. v.16. <quote source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux vestra coram hominibus, ut videant vestra
+      <lb ed="#H" n="109"/>5. v.16. <quote xml:id="yyy8Uu-gxd106-Qd1e1115" source="http://scta.info/resource/mt5_16@1-19">Ita splendeat lux vestra coram hominibus, ut videant vestra
       bo<lb ed="#H" n="110" break="no"/>na opera, glorificentque Patrem illum vestrum, qui est in caelis.</quote> 1. Pet. 2. v. 
       <lb ed="#H" n="111"/>12. Conversationem vestram habeatis honesta inter Gentes: ut pro eo 
       <lb ed="#H" n="112"/>quod loquuntur adverjus vos ut maleficos, ex bonis operibus quae 
@@ -683,7 +679,7 @@
       <lb ed="#H" n="18"/>piorum. Nam si fictam poenitentiam impiorum sequitur 
       tranquilli<lb ed="#H" n="19" break="no"/>tas &amp; prosperitas temporaria: multo magis utilis erit vera ac seria 
       re<lb ed="#H" n="20" break="no"/>sipiscentia vere credentium. Sic consulebat Daniel 
-      Nebucadnetzari<lb ed="#H" n="21" break="no"/>ut resipisceret Dan. 4. v. 27. <quote source="http://scta.info/resource/dan4_24@1-18">Quapropter, o Rex, consilium meum
+      Nebucadnetzari<lb ed="#H" n="21" break="no"/>ut resipisceret Dan. 4. v. 27. <quote xml:id="yyy8Uu-gxd106-Qd1e1389" source="http://scta.info/resource/dan4_24@1-18">Quapropter, o Rex, consilium meum
       pla<lb ed="#H" n="22" break="no"/>ceat tibi, &amp; peccata tua justitia abrumpe, &amp; iniquitates tuas gratia
       <lb ed="#H" n="23"/>erga afflictos: si forte erit prorogatio tranquillitati tuae</quote> 
     </p>
@@ -985,7 +981,7 @@
             <p xml:id="yyy8Uu-gxd106-d1e1943">
                <lb ed="#H" n="22"/>
                <pc type="indent"/>Partes ejus duae sunt: fuga mali, &amp; consectatio boni. Prius 
-      fugien<lb ed="#H" n="23" break="no"/>dum est malum, quam seqhendum bonum, juxta illud Psal. 34. v. 11. <quote source="http://scta.info/resource/ps33_15@1-6">
+      fugien<lb ed="#H" n="23" break="no"/>dum est malum, quam seqhendum bonum, juxta illud Psal. 34. v. 11. <quote xml:id="yyy8Uu-gxd106-Qd1e1984" source="http://scta.info/resource/ps33_15@1-6">
       <lb ed="#H" n="24"/>Recede a malo &amp; fac bonum:</quote> Et Jes. 1. v. 16, &amp; 17. Lavate vos, 
       purifi<lb ed="#H" n="25" break="no"/>cate vos, amovete indignitatem actionum vestrarum ex adverso 
       o<lb ed="#H" n="26" break="no"/>culorum meorum, desinite malefacere. Discite benefacere, quaerite 
